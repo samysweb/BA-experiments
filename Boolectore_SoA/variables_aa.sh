@@ -1,0 +1,31 @@
+#! /bin/bash
+
+# Number of benchmarks that are packed into a single job
+BENCHS_PER_JOB=80
+
+# Timeout used for runlim
+LOWER_TO=1200
+
+# Timeout used for overall timeout of qsub (i.e. UPPER_TO*BENCHS_PER_JOB)
+UPPER_TO=1220
+
+if [ `hostname` = "hal9000" ]; then
+    # Path to folder containing all software packages potentially used
+    SOFTWARE_PATH=`pwd`"/../../Work/Software"
+    # Path where benchmark files can be found
+    BENCHMARK_PATH=`pwd`"/../srem_sdiv_mul"
+    # List of benchmarks to run (paths relative to BENCHMARK_PATH)
+    BENCHMARK_LIST="segment_aa"
+    # Directory for log writing
+    LOG_DIR=`pwd`"/logs/Boolector_SoA/segment_aa"
+    # Binary which should be executed
+    BIN=`pwd`"/../../Work/Software/boolector/build/bin/boolector"
+    # Additional arguments for the binary
+    ARGS="-m"
+    # Path to GNU parallel executable
+    PARALLEL_PATH=`pwd`"/../../Work/Software/parallel-20190522/src/parallel"
+else
+    BENCHMARK_PATH="/raid/teuber/" #TODO
+    BENCHMARK_LIST="segment_aa"
+    LOG_DIR="..." # TODO
+fi
