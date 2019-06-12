@@ -15,9 +15,9 @@ if [ `hostname` = "hal9000" ]; then
     # Path where benchmark files can be found
     BENCHMARK_PATH=`pwd`"/../srem_sdiv_mul"
     # List of benchmarks to run (paths relative to BENCHMARK_PATH)
-    BENCHMARK_LIST="segment_aa"
+    BENCHMARK_LIST="segment_aa.1"
     # Directory for log writing
-    LOG_DIR=`pwd`"/logs/Boolector_SoA/segment_aa"
+    LOG_DIR=`pwd`"/logs/Boolector_SoA/segment_aa/"`date -Iminutes`
     # Binary which should be executed
     BIN=`pwd`"/../../Work/Software/boolector/build/bin/boolector"
     # Additional arguments for the binary
@@ -25,7 +25,18 @@ if [ `hostname` = "hal9000" ]; then
     # Path to GNU parallel executable
     PARALLEL_PATH=`pwd`"/../../Work/Software/parallel-20190522/src/parallel"
 else
-    BENCHMARK_PATH="/raid/teuber/" #TODO
-    BENCHMARK_LIST="segment_aa"
-    LOG_DIR="..." # TODO
+    # Path where benchmark files can be found
+    BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
+    # List of benchmarks to run (paths relative to BENCHMARK_PATH)
+    BENCHMARK_LIST="segment_aa.1"
+    # Path to folder containing all software packages potentially used
+    SOFTWARE_PATH=`pwd`"/raid/steuber/Software"
+    # Directory for log writing
+    LOG_DIR="/raid/steuber/Logs/Boolector_SoA/segment_aa"`date -Iminutes`"/"
+    # Binary which should be executed
+    BIN="/raid/steuber/Software/boolector/build/bin/boolector"
+    # Additional arguments for the binary
+    ARGS="-m"
+    # Path to GNU parallel executable
+    PARALLEL_PATH="/raid/steuber/Software/parallel-20190522/src/parallel"
 fi
