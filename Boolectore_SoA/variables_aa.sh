@@ -24,6 +24,8 @@ if [ `hostname` = "hal9000" ]; then
     ARGS="-m"
     # Path to GNU parallel executable
     PARALLEL_PATH=`pwd`"/../../Work/Software/parallel-20190522/src/parallel"
+    # Experiment directory
+    EXPERIMENT_DIR=`pwd`
 else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
@@ -32,11 +34,13 @@ else
     # Path to folder containing all software packages potentially used
     SOFTWARE_PATH=`pwd`"/raid/steuber/Software"
     # Directory for log writing
-    LOG_DIR="/raid/steuber/Logs/Boolector_SoA/segment_aa"`date -Iminutes`"/"
+    LOG_DIR="/raid/steuber/Logs/Boolector_SoA/segment_aa/"`date -Iminutes`"/"
     # Binary which should be executed
     BIN="/raid/steuber/Software/boolector/build/bin/boolector"
     # Additional arguments for the binary
     ARGS="-m"
     # Path to GNU parallel executable
     PARALLEL_PATH="/raid/steuber/Software/parallel-20190522/src/parallel"
+    # Experiment directory
+    EXPERIMENT_DIR="/raid/steuber/Experiments/"
 fi
