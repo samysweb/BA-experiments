@@ -32,7 +32,7 @@ else
     # List of benchmarks to run (paths relative to BENCHMARK_PATH)
     BENCHMARK_LIST="segment_aa.1"
     # Path to folder containing all software packages potentially used
-    SOFTWARE_PATH=`pwd`"/raid/steuber/Software"
+    SOFTWARE_PATH="/raid/steuber/Software"
     # Directory for log writing
     LOG_DIR="/raid/steuber/Logs/Boolector_SoA/segment_aa/"`date -Iminutes`"/"
     # Binary which should be executed
