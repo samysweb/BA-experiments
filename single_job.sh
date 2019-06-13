@@ -2,7 +2,7 @@
 
 exec 6>&1 7>&2
 
-exec &> $LOG_DIR/machine.log
+exec &> $LOG_DIR/machine-$JOB_ID.log
 echo "******* Machine details *******"
 echo "$ lscpu"
 lscpu
