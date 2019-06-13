@@ -30,7 +30,7 @@ else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
     # List of benchmarks to run (paths relative to BENCHMARK_PATH)
-    BENCHMARK_LIST="segment_aa.1"
+    BENCHMARK_LIST="segment_aa"
     # Path to folder containing all software packages potentially used
     SOFTWARE_PATH="/raid/steuber/Software"
     # Directory for log writing
