@@ -2,7 +2,7 @@
 
 source $VARIABLES
 
-source $EXPERIMENT_DIR/init.sh
+SOFTWARE_PATH=$SOFTWARE_PATH $EXPERIMENT_DIR/init.sh > $LOG_DIR/init.log
 
 mkdir -p $LOG_DIR
 
