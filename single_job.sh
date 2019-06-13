@@ -1,6 +1,20 @@
 #! /bin/bash
 
-source $EXPERIMENT_DIR/init.sh
+exec 6>&1 7>&2
+
+exec &> $LOG_DIR/machine.log
+echo "******* Machine details *******"
+echo "$ lscpu"
+lscpu
+echo "$ cat /proc/meminfo"
+cat /proc/meminfo
+echo "$ cat /proc/version"
+cat /proc/version
+echo "$ lsblk"
+lsblk
+
+exec 1>&6 2>&7 6>&- 7>&-
+
 IFS=':' read -ra BENCHMARKS <<< "$FILES"
 #for bench in "${BENCHMARKS[@]}"; do
 #    echo "[runner] $BENCHMARK_PATH/$bench"

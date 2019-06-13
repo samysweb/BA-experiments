@@ -4,20 +4,9 @@ CUR_PATH=`pwd`
 
 exec 6>&1 7>&2
 
-exec &> $LOG_DIR/machine-$JOB_ID.log
-echo "******* Machine details *******"
-echo "$ lscpu"
-lscpu
-echo "$ cat /proc/meminfo"
-cat /proc/meminfo
-echo "$ cat /proc/version"
-cat /proc/version
-echo "$ lsblk"
-lsblk
-
 cd $SOFTWARE_PATH
 
-exec &> $LOG_DIR/init-$JOB_ID.log
+exec &> $LOG_DIR/init.log
 
 echo "******* Information on experiment repository ******* "
 git --no-pager show --pretty=short --shortstat
