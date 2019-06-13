@@ -1,0 +1,1 @@
+PYTHONPATH=$PYTHONPATH:/raid/steuber/Software/ablector/
