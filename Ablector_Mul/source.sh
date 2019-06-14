@@ -1,1 +1,1 @@
-export PYTHONPATH=$PYTHONPATH:/raid/steuber/Software/ablector/:$SOFTWARE_PATH/boolector/build/lib/
+export PYTHONPATH=$PYTHONPATH:$SOFTWARE_PATH/ablector/:$SOFTWARE_PATH/boolector/build/lib/

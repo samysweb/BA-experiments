@@ -36,7 +36,7 @@ else
     # Directory for log writing
     LOG_DIR="/raid/steuber/Logs/Ablector_Mul/segment_aa/"`date -Iminutes`"/"
     # Binary which should be executed
-    BIN="/raid/steuber/Software/Python-3.7.3/python /raid/steuber/Software/ablector/ablector"
+    BIN="python3 /raid/steuber/Software/ablector/ablector"
     # Path to GNU parallel executable
     PARALLEL_PATH="/raid/steuber/Software/parallel-20190522/src/parallel"
     # Experiment directory
