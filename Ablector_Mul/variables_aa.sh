@@ -43,4 +43,6 @@ else
     EXPERIMENT_DIR="/raid/steuber/Experiments/"
     # Source Script
     SOURCE_SCRIPT="/raid/steuber/Experiments/Ablector_Mul/source.sh"
+    # Anaconda Path
+    CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
 fi
