@@ -4,7 +4,7 @@ import sys
 
 def main():
     if len(sys.argv) < 2:
-        print("python buildCsv.py [benchArgId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN]")
+        print("python buildCsv.py [benchArgId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN]", file=sys.stderr)
         return
     benchArg = int(sys.argv[1])
     sys.argv = sys.argv[2:]
@@ -12,7 +12,7 @@ def main():
     for inFolder in sys.argv:
         os.chdir(baseDir)
         os.chdir(inFolder)
-        print("name status time real")
+        print("name status time real satpart")
         for errFile in glob.glob("err-*"):
             jobId = errFile[4:-4]
             satUnsatResult = {}
@@ -51,12 +51,13 @@ def main():
                 for line in content:
                     if line.startswith("[runlim] version:"): #NEW
                         if not first:
-                            print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100)))
+                            print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000)))
                         else:
                             first = False
                         benchmark = None
                         time = 0
                         real = 0
+                        satPart = 0
                         satUnsat = None
                     parts = line.strip().split("\t\t")
                     if line.startswith("[runlim] argv["+str(benchArg)+"]"):
@@ -70,6 +71,12 @@ def main():
                         time = parts[-1].split(" ")[0]
                     elif line.startswith("[runlim] real:"):
                         real = parts[-1].split(" ")[0]
+                    elif line.startswith("[Ablector] INFO: ABLECTOR TIME:"):
+                        parts = line.strip().strip().split(" ")
+                        satPart = parts[-1]
+                    elif line.startswith("[BTOR>check_sat]"):
+                        parts = line.strip().split(" ")
+                        satPart = parts[1]
 
 
 

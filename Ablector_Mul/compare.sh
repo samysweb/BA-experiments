@@ -4,3 +4,5 @@ python ../logParsing/buildCsv.py 2 ../Logs/Boolector_SoA/segment_aa/2019-06-13T1
 mv boolector-vs-ablector.eps boolector-vs-ablector-real.eps
 ../logParsing/plot_new.sh boolector.csv ablector.csv time | gnuplot
 mv boolector-vs-ablector.eps boolector-vs-ablector-time.eps
+../logParsing/plot_new.sh boolector.csv ablector.csv satpart | gnuplot
+mv boolector-vs-ablector.eps boolector-vs-ablector-satpart.eps

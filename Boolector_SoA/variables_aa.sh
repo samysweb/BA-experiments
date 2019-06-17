@@ -26,6 +26,7 @@ if [ `hostname` = "hal9000" ]; then
     PARALLEL_PATH=`pwd`"/../../Work/Software/parallel-20190522/src/parallel"
     # Experiment directory
     EXPERIMENT_DIR=`pwd`
+    PAR_NUM=4
 else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
@@ -43,4 +44,5 @@ else
     PARALLEL_PATH="/raid/steuber/Software/parallel-20190522/src/parallel"
     # Experiment directory
     EXPERIMENT_DIR="/raid/steuber/Experiments/"
+    PAR_NUM=4
 fi

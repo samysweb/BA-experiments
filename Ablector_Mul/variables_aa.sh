@@ -47,5 +47,5 @@ else
     SOURCE_SCRIPT="/raid/steuber/Experiments/Ablector_Mul/source.sh"
     # Anaconda Path
     CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
-    PAR_NUM=1
+    PAR_NUM=4
 fi
