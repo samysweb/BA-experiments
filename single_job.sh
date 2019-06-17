@@ -4,6 +4,8 @@ exec 6>&1 7>&2
 
 exec &> $LOG_DIR/machine-$JOB_ID.log
 echo "******* Machine details *******"
+echo "$ hostname"
+hostname
 echo "$ lscpu"
 lscpu
 echo "$ cat /proc/meminfo"
