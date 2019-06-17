@@ -22,4 +22,10 @@ IFS=':' read -ra BENCHMARKS <<< "$FILES"
 #    echo "[runner] $BENCHMARK_PATH/$bench"
 #    runlim -r $TO -s $MEM $BIN $ARGS $BENCHMARK_PATH/$bench
 #done
-TO=$TO MEM=$MEM BIN=$BIN ARGS=$ARGS $PARALLEL_PATH -j1 $EXPERIMENT_DIR/run.sh ::: "${BENCHMARKS[@]/#/$BENCHMARK_PATH/}"
+if [ $PAR_NUM = 1 ]; then
+    for bench in ${BENCHMARKS[@]}; do
+        TO=$TO MEM=$MEM BIN=$BIN ARGS=$ARGS PAR_NUM=$PAR_NUM $EXPERIMENT_DIR/run.sh "/$BENCHMARK_PATH/$bench"
+    done
+else
+    TO=$TO MEM=$MEM BIN=$BIN ARGS=$ARGS PAR_NUM=$PAR_NUM $PARALLEL_PATH -j$PAR_NUM $EXPERIMENT_DIR/run.sh ::: "${BENCHMARKS[@]/#/$BENCHMARK_PATH/}"
+fi
