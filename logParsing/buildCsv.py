@@ -51,13 +51,15 @@ def main():
                 for line in content:
                     if line.startswith("[runlim] version:"): #NEW
                         if not first:
+                            if satPart is None:
+                                satPart = time
                             print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000)))
                         else:
                             first = False
                         benchmark = None
                         time = 0
                         real = 0
-                        satPart = 0
+                        satPart = None
                         satUnsat = None
                     parts = line.strip().split("\t\t")
                     if line.startswith("[runlim] argv["+str(benchArg)+"]"):

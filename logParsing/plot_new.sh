@@ -32,7 +32,7 @@ scale_border=$(( border + step ));
 
 sed -i 's/ -1/ $border/g' $tmp
 
-echo "set terminal bash"
+echo "set terminal unknown"
 #echo "set key outside left top"
 echo "set key off"
 echo "set logscale x"
