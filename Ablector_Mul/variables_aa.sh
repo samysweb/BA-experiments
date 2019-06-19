@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Number of benchmarks that are packed into a single job
-BENCHS_PER_JOB=40
+BENCHS_PER_JOB=80
 
 # Timeout used for runlim
 LOWER_TO=1200
