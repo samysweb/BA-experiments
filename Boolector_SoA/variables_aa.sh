@@ -27,6 +27,7 @@ if [ `hostname` = "hal9000" ]; then
     # Experiment directory
     EXPERIMENT_DIR=`pwd`
     PAR_NUM=4
+    SOURCE_SCRIPT="/dev/null"
 else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
@@ -39,10 +40,11 @@ else
     # Binary which should be executed
     BIN="/raid/steuber/Software/boolector/build/bin/boolector"
     # Additional arguments for the binary
-    ARGS="-m"
+    ARGS=""
     # Path to GNU parallel executable
     PARALLEL_PATH="/raid/steuber/Software/parallel-20190522/src/parallel"
     # Experiment directory
     EXPERIMENT_DIR="/raid/steuber/Experiments/"
     PAR_NUM=4
+    SOURCE_SCRIPT="/dev/null"
 fi
