@@ -12,7 +12,7 @@ def main():
     for inFolder in sys.argv:
         os.chdir(baseDir)
         os.chdir(inFolder)
-        print("name status time real satpart")
+        print("name status time real satpart round")
         for errFile in glob.glob("err-*"):
             jobId = errFile[4:-4]
             satUnsatResult = {}
@@ -53,7 +53,7 @@ def main():
                         if not first:
                             if satPart is None:
                                 satPart = time
-                            print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000)))
+                            print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
                         else:
                             first = False
                         benchmark = None
@@ -61,6 +61,7 @@ def main():
                         real = 0
                         satPart = None
                         satUnsat = None
+                        roundNum = 0
                     parts = line.strip().split("\t\t")
                     if line.startswith("[runlim] argv["+str(benchArg)+"]"):
                         benchmark = parts[-1]
@@ -79,6 +80,13 @@ def main():
                     elif line.startswith("[BTOR>check_sat]"):
                         parts = line.strip().split(" ")
                         satPart = parts[1]
+                    elif line.startswith("[Ablector] INFO: *** ROUND "):
+                        parts = line.strip().split(" ")
+                        roundNum = parts[-1]
+                if not first:
+                    if satPart is None:
+                        satPart = time
+                    print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
 
 
 
