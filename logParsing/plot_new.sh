@@ -69,9 +69,10 @@ echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN') ? (\$3<${offset}?${offset}:\$3) :
 echo "replot '$tmp' u (strcol(2) eq 'UNSAT')   ? (\$3<${offset}?${offset}:\$3) : (1/0) : (\$4<${offset}?${offset}:\$4) title '$title' with points lc rgb '#1d0a42' pt 6"
 echo "replot '$tmp' u (strcol(2) eq 'SAT')     ? (\$3<${offset}?${offset}:\$3) : (1/0) : (\$4<${offset}?${offset}:\$4) title '$title' with points lc rgb '#6d1855' pt 2"
 
-echo "set terminal postscript eps enhanced color"
+#echo "set terminal postscript eps enhanced color"
+echo "set terminal png enhanced font 'Verdana,10'"
 dir=`pwd`
-echo "set output '$dir/$name1-vs-$name2.eps'"
+echo "set output '$dir/$name1-vs-$name2.png'"
 echo "replot"
 
 #rm $tmp
