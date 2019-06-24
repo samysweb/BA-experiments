@@ -15,7 +15,7 @@ c2=`head -1 $file2 | tr " " "\n" | grep -w -n $title2 | cut -d':' -f1`
 
 # create temp-file
 tmp="$$.tmp"
-join -o"1.1 1.2 1.$c1 2.$c2" $file1 $file2 > $tmp
+join -o"1.1 1.2 2.2 1.$c1 2.$c2" $file1 $file2 > $tmp
 
 offset=1
 
@@ -34,7 +34,7 @@ sed -i 's/ -1/ $border/g' $tmp
 
 echo "set terminal unknown"
 #echo "set key outside left top"
-echo "set key off"
+echo "set key left bottom"
 echo "set logscale x"
 echo "set logscale y"
 #echo "set title \"Total Time\""
@@ -59,15 +59,15 @@ echo "set yrange [$offset:$scale_border]"
 
 echo "set style line 1 lt 1 lw 1 lc rgb '#fbb252'"
 
-echo "plot xout ls 1 title 'xout'"
+echo "plot xout ls 1 notitle"
 echo "set arrow from $border,$offset to $border,$scale_border nohead ls 1"
 echo "replot f(x) lc rgb '#e27152' lt 1 lw 1 notitle"
 echo "replot g(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 echo "replot h(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 
-echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN') ? (\$3<${offset}?${offset}:\$3) : (1/0) : (\$4<${offset}?${offset}:\$4) title '$title' with points lc rgb '#000000' pt 2"
-echo "replot '$tmp' u (strcol(2) eq 'UNSAT')   ? (\$3<${offset}?${offset}:\$3) : (1/0) : (\$4<${offset}?${offset}:\$4) title '$title' with points lc rgb '#1d0a42' pt 6"
-echo "replot '$tmp' u (strcol(2) eq 'SAT')     ? (\$3<${offset}?${offset}:\$3) : (1/0) : (\$4<${offset}?${offset}:\$4) title '$title' with points lc rgb '#6d1855' pt 2"
+echo "replot '$tmp' u (strcol(2) eq strcol(3)) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 2"
+echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN')   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00ff00' pt 6"
+echo "replot '$tmp' u (strcol(3) eq 'UNKNOWN')     ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t1' with points lc rgb '#ff0000' pt 2"
 
 #echo "set terminal postscript eps enhanced color"
 echo "set terminal png enhanced font 'Verdana,10'"
