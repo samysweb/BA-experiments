@@ -34,7 +34,7 @@ sed -i 's/ -1/ $border/g' $tmp
 
 echo "set terminal unknown"
 #echo "set key outside left top"
-echo "set key left bottom"
+echo "set key right bottom"
 echo "set logscale x"
 echo "set logscale y"
 #echo "set title \"Total Time\""
@@ -66,8 +66,9 @@ echo "replot g(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 echo "replot h(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 
 echo "replot '$tmp' u (strcol(2) eq strcol(3)) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 2"
-echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN')   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00ff00' pt 6"
-echo "replot '$tmp' u (strcol(3) eq 'UNKNOWN')     ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t1' with points lc rgb '#ff0000' pt 2"
+
+echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00ff00' pt 6"
+echo "replot '$tmp' u (strcol(3) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))     ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t1' with points lc rgb '#ff0000' pt 2"
 
 #echo "set terminal postscript eps enhanced color"
 echo "set terminal png enhanced font 'Verdana,10'"
