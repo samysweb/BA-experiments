@@ -13,8 +13,11 @@ title2=$3
 c1=`head -1 $file1 | tr " " "\n" | grep -w -n $title1 | cut -d':' -f1`
 c2=`head -1 $file2 | tr " " "\n" | grep -w -n $title2 | cut -d':' -f1`
 
+name1=`echo ${file1##*/} | cut -d'.' -f1 | sed s/\_/-/g`
+name2=`echo ${file2##*/} | cut -d'.' -f1 | sed s/\_/-/g`
+
 # create temp-file
-tmp="$$.tmp"
+tmp="$name1-vs-$name2.csv"
 join -o"1.1 1.2 2.2 1.$c1 2.$c2" $file1 $file2 > $tmp
 
 offset=1
@@ -47,8 +50,6 @@ echo "xout=$border"
 echo "set datafile separator ' '"
 echo "set size square 1,1"
 
-name1=`echo ${file1##*/} | cut -d'.' -f1 | sed s/\_/-/g`
-name2=`echo ${file2##*/} | cut -d'.' -f1 | sed s/\_/-/g`
 t1=$(echo $file1 | cut -d"_" -f2 | cut -d"." -f1)
 t2=$(echo $file2 | cut -d"_" -f2 | cut -d"." -f1)
 echo "set xlabel '$title1 of $t1'"
@@ -65,10 +66,13 @@ echo "replot f(x) lc rgb '#e27152' lt 1 lw 1 notitle"
 echo "replot g(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 echo "replot h(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 
-echo "replot '$tmp' u (strcol(2) eq strcol(3)) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 2"
+echo "replot '$tmp' u (strcol(2) eq strcol(3) && !(strcol(2) eq 'UNKNOWN')) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 2"
 
-echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00ff00' pt 6"
-echo "replot '$tmp' u (strcol(3) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))     ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t1' with points lc rgb '#ff0000' pt 2"
+echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00cc00' pt 3"
+echo "replot '$tmp' u (strcol(3) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))     ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t1' with points lc rgb '#ff0000' pt 4"
+
+echo "replot '$tmp' u (strcol(2) eq strcol(3) && strcol(2) eq 'UNKNOWN') ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'unknown to both' with points lc rgb '#ff00ff' pt 1"
+
 
 #echo "set terminal postscript eps enhanced color"
 echo "set terminal png enhanced font 'Verdana,10'"

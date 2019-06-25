@@ -52,7 +52,7 @@ def main():
                     if line.startswith("[runlim] version:"): #NEW
                         if not first:
                             if satPart is None:
-                                satPart = "0"
+                                satPart = time
                             print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
                         else:
                             first = False
