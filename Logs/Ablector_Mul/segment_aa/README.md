@@ -6,7 +6,7 @@ Precise measurements of Ablector time
 Ablector commit `d0604899e5036d33658dfdb10a3789716c6e05e9`
 Single stage abstraction + incremental bitwise multiplication
 # 2019-06-24T15:08+02:00
-Ablector commit ``
+Ablector commit `8d82df188cafabd27fbb4935d430a3b809d4a819`
 First stage: mul(a,b), base cases and bit shifting
 Second stage: uf relations (symmetry etc.)
 Third stage: adding bits
