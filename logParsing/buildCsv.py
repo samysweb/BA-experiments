@@ -53,7 +53,10 @@ def main():
                         if not first:
                             if satPart is None:
                                 satPart = time
-                            print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
+                            if not (result == "1" and status=="ok"):
+                                print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
+                            else:
+                                print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum), file=sys.stderr)
                         else:
                             first = False
                         benchmark = None
@@ -62,6 +65,8 @@ def main():
                         satPart = None
                         satUnsat = None
                         roundNum = 0
+                        result = 0
+                        status = ""
                     parts = line.strip().split("\t\t")
                     if line.startswith("[runlim] argv["+str(benchArg)+"]"):
                         benchmark = parts[-1]
@@ -74,6 +79,10 @@ def main():
                         time = parts[-1].split(" ")[0]
                     elif line.startswith("[runlim] real:"):
                         real = parts[-1].split(" ")[0]
+                    elif line.startswith("[runlim] result:"):
+                        result = parts[-1].strip()
+                    elif line.startswith("[runlim] status:"):
+                        status = parts[-1].strip()
                     elif line.startswith("[Ablector] INFO: ABLECTOR TIME:"):
                         parts = line.strip().strip().split(" ")
                         satPart = parts[-1]
@@ -86,7 +95,10 @@ def main():
                 if not first:
                     if satPart is None:
                         satPart = time
-                    print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
+                    if not (result == "1" and status=="ok"):
+                        print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
+                    else:
+                        print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum), file=sys.stderr)
 
 
 
