@@ -10,3 +10,9 @@ Ablector commit `8d82df188cafabd27fbb4935d430a3b809d4a819`
 First stage: mul(a,b), base cases and bit shifting
 Second stage: uf relations (symmetry etc.)
 Third stage: adding bits
+# 2019-06-30T09:57+02:00
+Ablector commit `e07c135ccc064797ac2d721df7d6a501196287fd`
+Pre Solving: Rewriting by boolector
+First stage: mul(a,b), base cases and bit shifting
+Second stage: uf relations (symmetry etc.)
+Third stage: adding bits
