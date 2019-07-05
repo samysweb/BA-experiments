@@ -95,3 +95,40 @@ python ../../../logParsing/histData.py 2 ../../../Logs/Ablector_Mul/segment_aa/2
 ../../../logParsing/plot_hist.sh 3 level.csv | gnuplot
 ../../../logParsing/plot_hist.sh 3 bit.csv | gnuplot
 rm -f *.tmp
+
+cd ../../
+
+mkdir -p results/interval-mul
+cd results/interval-mul
+python ../../../logParsing/buildCsv.py 2 ../../../Logs/Ablector_Mul/all/2019-07-05T11:45+02:00 | sort > ablector.csv
+python ../../../logParsing/buildCsv.py 1 ../../../Logs/Boolector_SoA/all/2019-06-26T15:59+02:00 | sort > boolector.csv
+../../../logParsing/plot_new.sh boolector.csv ablector.csv real | gnuplot
+mv boolector-vs-ablector.png boolector-vs-ablector-real.png
+mv boolector-vs-ablector.csv boolector-vs-ablector-real.csv
+../../../logParsing/plot_new.sh boolector.csv ablector.csv time | gnuplot
+mv boolector-vs-ablector.png boolector-vs-ablector-time.png
+mv boolector-vs-ablector.csv boolector-vs-ablector-time.csv
+../../../logParsing/plot_new.sh boolector.csv ablector.csv satpart | gnuplot
+mv boolector-vs-ablector.png boolector-vs-ablector-satpart.png
+mv boolector-vs-ablector.csv boolector-vs-ablector-satpart.csv
+python ../../../logParsing/histData.py 2 ../../../Logs/Ablector_Mul/all/2019-07-05T11:45+02:00 level.csv bit.csv
+../../../logParsing/plot_hist.sh 3 level.csv | gnuplot
+../../../logParsing/plot_hist.sh 3 bit.csv | gnuplot
+rm -f *.tmp
+
+cd ../../
+
+mkdir -p results/interval-mul-vs-belated-uf
+cd results/interval-mul-vs-belated-uf
+python ../../../logParsing/buildCsv.py 2 ../../../Logs/Ablector_Mul/all/2019-07-05T11:45+02:00 | sort > interval.csv
+python ../../../logParsing/buildCsv.py 2 ../../../Logs/Ablector_Mul/all/2019-06-26T15:59+02:00 | sort > bitwise.csv
+../../../logParsing/plot_new.sh bitwise.csv interval.csv real | gnuplot
+mv bitwise-vs-interval.png bitwise-vs-interval-real.png
+mv bitwise-vs-interval.csv bitwise-vs-interval-real.csv
+../../../logParsing/plot_new.sh bitwise.csv interval.csv time | gnuplot
+mv bitwise-vs-interval.png bitwise-vs-interval-time.png
+mv bitwise-vs-interval.csv bitwise-vs-interval-time.csv
+../../../logParsing/plot_new.sh bitwise.csv interval.csv satpart | gnuplot
+mv bitwise-vs-interval.png bitwise-vs-interval-satpart.png
+mv bitwise-vs-interval.csv bitwise-vs-interval-satpart.csv
+rm -f *.tmp
