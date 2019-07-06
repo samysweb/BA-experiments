@@ -4,12 +4,13 @@ import sys
 
 def main():
     if len(sys.argv) < 5:
-        print("python buildCsv.py [benchArgId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN] [levelHistFile] [bitHistFile]", file=sys.stderr)
+        print("python buildCsv.py [benchArgId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN] [LogPrefix] [levelHistFile] [bitHistFile]", file=sys.stderr)
         return
     benchArg = int(sys.argv[1])
+    logPrefix = sys.argv[-3]
     levelHistFile = sys.argv[-2]
     bitHistFile = sys.argv[-1]
-    sys.argv = sys.argv[2:-2]
+    sys.argv = sys.argv[2:-3]
     baseDir = os.curdir
     with open(levelHistFile, "w") as levelF:
         with open(bitHistFile, "w") as bitF:
@@ -56,7 +57,7 @@ def main():
                             if line.startswith("[runlim] version:"): #NEW
                                 benchmark = None
                                 satUnsat = None
-                            elif line.startswith("[MulNode] INFO: Level "): #NEW
+                            elif line.startswith("["+logPrefix+"] INFO: Level "): #NEW
                                 parts = line.strip().split(" ")
                                 level = parts[3]
                                 print(benchmark.strip()+" "+satUnsat.strip()+" "+level, file=levelF)
