@@ -14,7 +14,19 @@ Ablector commit `50950db7cc8513722694409e342a7a4000b1f111`
 First stage: mul(a,b), base cases and bit shifting
 Second stage: uf relations (symmetry etc.)
 Third stage: interval wise multiplication
-## bvsrem
+## bvsdiv
 First stage: sdiv(a,b), base cases, bit shifting
 Second stage: uf relations
 Third stage: interval wise division
+#2019-07-06T12:27+02:00
+Ablector commit `4310cdacbd1687a40a130f23ebc199a15700b66b`
+## bvmul
+First stage: mul(a,b), base cases
+Second stage: bit shifting
+Third stage: uf relations (symmetry etc.)
+Fourth stage: interval wise multiplication
+## bvsdiv
+First stage: sdiv(a,b), base cases
+Second stage: bit shifting
+Third stage: uf relations
+Fourth stage: interval wise division
