@@ -30,7 +30,7 @@ function compare {
 }
 
 function buildHist {
-    python $DIR/histData.py $3 $DIR/../Logs/$1 $2 level-$2.csv bit-$2.csv
+    python $DIR/histData.py $3 $4 $DIR/../Logs/$1 $2 level-$2.csv bit-$2.csv
     $DIR/plot_hist.sh 3 level-$2.csv | gnuplot
     $DIR/plot_hist.sh 3 bit-$2.csv | gnuplot
 }

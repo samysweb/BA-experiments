@@ -3,14 +3,15 @@ import os
 import sys
 
 def main():
-    if len(sys.argv) < 5:
-        print("python buildCsv.py [benchArgId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN] [LogPrefix] [levelHistFile] [bitHistFile]", file=sys.stderr)
+    if len(sys.argv) < 6:
+        print("python buildCsv.py [benchArgId] [bitLevelId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN] [LogPrefix] [levelHistFile] [bitHistFile]", file=sys.stderr)
         return
     benchArg = int(sys.argv[1])
+    bitLevelId = int(sys.argv[2])
     logPrefix = sys.argv[-3]
     levelHistFile = sys.argv[-2]
     bitHistFile = sys.argv[-1]
-    sys.argv = sys.argv[2:-3]
+    sys.argv = sys.argv[3:-3]
     baseDir = os.curdir
     with open(levelHistFile, "w") as levelF:
         with open(bitHistFile, "w") as bitF:
@@ -61,7 +62,7 @@ def main():
                                 parts = line.strip().split(" ")
                                 level = parts[3]
                                 print(benchmark.strip()+" "+satUnsat.strip()+" "+level, file=levelF)
-                                if int(level) == 2:
+                                if int(level) == bitLevelId:
                                     bit = parts[-1]
                                     print(benchmark.strip()+" "+satUnsat.strip()+" "+bit, file=bitF)
                                 continue
