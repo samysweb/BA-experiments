@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Number of benchmarks that are packed into a single job
-BENCHS_PER_JOB=500
+BENCHS_PER_JOB=300
 
 # Timeout used for runlim
 LOWER_TO=1200
@@ -47,5 +47,5 @@ else
     SOURCE_SCRIPT="/raid/steuber/Experiments/Ablector_Mul/source.sh"
     # Anaconda Path
     CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
-    PAR_NUM=4
+    PAR_NUM=1
 fi
