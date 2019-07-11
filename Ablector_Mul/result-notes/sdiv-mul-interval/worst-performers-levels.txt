@@ -1,0 +1,65 @@
+path boolectorResult ablectorResult boolectorTime ablectorTime ROUND # split up by digits of boolectorTime
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Commute/commute08.sf.smt2 UNSAT UNKNOWN 106 1175860000 21
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Commute/commute64.sf.smt2 UNSAT UNKNOWN 106 1182650000 6
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Commute/commute16.sf.smt2 UNSAT UNKNOWN 112 1170470000 45
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Commute/commute48.sf.smt2 UNSAT UNKNOWN 112 1185470000 45
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Distrib/distrib16.sf.smt2 UNSAT UNKNOWN 121 1150830000 36
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Distrib/distrib08.sf.smt2 UNSAT UNKNOWN 129 1194820000 24
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Commute/commute32.sf.smt2 UNSAT UNKNOWN 147 1195840000 75
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Distrib/distrib64.sf.smt2 UNSAT UNKNOWN 153 1168580000 27
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Distrib/distrib32.sf.smt2 UNSAT UNKNOWN 155 1176380000 66
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/wienand-cav2008/Distrib/distrib48.sf.smt2 UNSAT UNKNOWN 177 1171150000 51
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_7_true.c.17.smt2 UNSAT UNKNOWN 62749 1179330000 2
+omit 0 (Bit 1,12,11)
+omit 0,1 (Bit 1,12,13)
+omit 0,1,2 (Bit 2,12,13)
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_7_true.c.21.smt2 UNSAT UNKNOWN 101306 1198940000 2
+omit 0,1,2 (Bit 2,12,13)
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_2_true.c.17.smt2 UNSAT UNKNOWN 113914 1158480000 2
+? normal (Bit 1)
+omit 0,1 (Bit 1)
+omit 0,1,2 (Bit 2)
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_6_true.c.17.smt2 UNSAT UNKNOWN 150485 1175880000 10
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_2_true.c.21.smt2 UNSAT UNKNOWN 187417 1163630000 1
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_4_true.c.17.smt2 UNSAT UNKNOWN 192186 1183790000 1
+omit 0,1,2 (Bit 2)
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_6_true.c.21.smt2 UNSAT UNKNOWN 222260 1177850000 2
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/bmc-bv-svcomp14/jain_4_true.c.21.smt2 UNSAT UNKNOWN 284791 1164400000 0
+omit 0,1,2 (Bit 2)
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_17416.smt2 UNSAT UNKNOWN 13209936 1178610000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_9793.smt2 UNSAT UNKNOWN 52692721 1190890000 0
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_17707.smt2 UNSAT UNKNOWN 384788026 1165590000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_10328.smt2 UNSAT UNKNOWN 468203126 1198000000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_11010.smt2 UNSAT UNKNOWN 508186623 1199060000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_13594.smt2 UNSAT UNKNOWN 519151245 1183130000 0
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_12141.smt2 UNSAT UNKNOWN 609296035 1191140000 0
+? normal (Level 0)
+omit 0 (Level 1)
+omit 0,1 (Level 2)
+omit 0,1,2 (Level 3)
+
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_9140.smt2 UNSAT UNKNOWN 614686956 1183740000 0
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_16951.smt2 UNSAT UNKNOWN 837890806 1141270000 0
+? normal (Level 0)
+omit 0 (Level 1)
+omit 0,1 (Level 2)
+omit 0,1,2 (Bit 1)
+
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_392.smt2 UNSAT UNKNOWN 904267560 1193400000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_13211.smt2 UNSAT UNKNOWN 959352244 1170050000 0
+
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_188.smt2 UNSAT UNKNOWN 1046743077 1186690000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_16062.smt2 UNSAT UNKNOWN 1058722764 1184230000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/Sage2/bench_9036.smt2 UNSAT UNKNOWN 1098397479 1174030000 0
+/raid/steuber/Benchmarks/srem_sdiv_mul/QF_BV/log-slicing/bvurem_16.smt2 UNSAT UNKNOWN 1101621058 1199300000 0
