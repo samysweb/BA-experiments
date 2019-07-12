@@ -65,3 +65,10 @@ if newDir results/all/belatedUF-fullMul-vs-self
 then
     compare mul Ablector_Mul/all/2019-07-06T16:11+02:00 2 selfmade Ablector_Mul/all/2019-06-26T15:59+02:00 2 real time satpart
 fi
+
+if newDir results/all/sdiv-mul-interval-serial-vs-parallel
+then
+    compare parallel Ablector_Mul/all/2019-07-06T12:27+02:00 2 single Ablector_Mul/all/2019-07-11T14:39+02:00 2 real time satpart
+    buildHist Ablector_Mul/all/2019-07-11T14:39+02:00 MulNode 2 3
+    buildHist Ablector_Mul/all/2019-07-11T14:39+02:00 SdivNode 2 3
+fi
