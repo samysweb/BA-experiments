@@ -33,3 +33,6 @@ Fourth stage: interval wise division
 #2019-07-06T16:11+02:00
 Ablector commit `fb6af50376ae9fc05ea7356b1e898be739fc8b10`
 Just like 2019-06-26T15:59+02:00 (belated-uf) but with "original" multiplication
+#2019-07-11T14:39+02:00
+Ablector commit `391fd7f5cd480478aec68afdc16154bd86b26361`
+More or less the same like `2019-07-06T12:27+02:00` but with one instance run per processor
