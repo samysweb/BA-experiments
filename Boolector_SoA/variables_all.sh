@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Number of benchmarks that are packed into a single job
-BENCHS_PER_JOB=500
+BENCHS_PER_JOB=300
 
 # Timeout used for runlim
 LOWER_TO=1200
@@ -45,6 +45,6 @@ else
     PARALLEL_PATH="/raid/steuber/Software/parallel-20190522/src/parallel"
     # Experiment directory
     EXPERIMENT_DIR="/raid/steuber/Experiments/"
-    PAR_NUM=4
+    PAR_NUM=1
     SOURCE_SCRIPT="/dev/null"
 fi
