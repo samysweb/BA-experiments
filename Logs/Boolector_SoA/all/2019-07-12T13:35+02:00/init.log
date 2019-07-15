@@ -1,0 +1,45 @@
+******* Information on experiment repository ******* 
+
+******* Information on software packages in /raid/steuber/Software ******* 
+******* Information on repository . ******* 
+
+******* Information on repository ./PyBench ******* 
+commit 0e0b386b3d6c83cac05d5725cff38902c47873ae
+Author: Samuel Teuber <samuel@samweb.org>
+
+    Fixed a few bugs
+
+ 1 file changed, 13 insertions(+), 7 deletions(-)
+On branch master
+nothing to commit, working directory clean
+
+******* Information on repository ./ablector ******* 
+commit 391fd7f5cd480478aec68afdc16154bd86b26361
+Author: Samuel Teuber <samuel@samweb.org>
+
+    Implemented options parsing for omitting mul stages
+
+ 6 files changed, 92 insertions(+), 21 deletions(-)
+On branch experiment-sdiv
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ablector/src/nodes/mul.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+******* Information on repository ./boolector ******* 
+commit bf753acfef843b2bf01e5bbecaaefcae5b7fb009
+Author: Samuel Teuber <samuel@samweb.org>
+
+    Added a measurement of sat time checking for boolector
+
+ 1 file changed, 6 insertions(+)
+On branch sat-time-measure
+nothing to commit, working directory clean
+
+******* Information on repository ./parallel-20190522 ******* 
+
+******* Information on repository ./runlim-1.10 ******* 
+
