@@ -36,3 +36,8 @@ Just like 2019-06-26T15:59+02:00 (belated-uf) but with "original" multiplication
 #2019-07-11T14:39+02:00
 Ablector commit `391fd7f5cd480478aec68afdc16154bd86b26361`
 More or less the same like `2019-07-06T12:27+02:00` but with one instance run per processor
+#2019-07-15T10:23+02:00
+Ablector commit `69a6b9423ca6c318d714128f65875d52ff47349b`
+Based on `2019-07-11T14:39+02:00` but additions:
+- beforehand rewriting to check for for (assert false) statements (abort if exits)
+- solve power 2 cases in stage 0

@@ -77,3 +77,10 @@ if newDir results/all/Boolector-single-vs-parallel
 then
     compare parallel Boolector_SoA/all/2019-06-26T15:59+02:00 1 single Boolector_SoA/all/2019-07-12T13:35+02:00 1 real time satpart
 fi
+
+if newDir results/all/sdiv-pow2-rewriting
+then
+    compare sdiv Ablector_Mul/all/2019-07-15T10:23+02:00 2 boolector Boolector_SoA/all/2019-07-12T13:35+02:00 1 real time satpart
+    buildHist Ablector_Mul/all/2019-07-15T10:23+02:00 MulNode 2 3
+    buildHist Ablector_Mul/all/2019-07-15T10:23+02:00 SdivNode 2 3
+fi
