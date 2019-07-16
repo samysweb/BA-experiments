@@ -64,7 +64,7 @@ def main():
                         real = 0
                         satPart = None
                         satUnsat = None
-                        roundNum = 0
+                        roundNum = -1
                         result = 0
                         status = ""
                     parts = line.strip().split("\t\t")
