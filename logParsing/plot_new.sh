@@ -62,16 +62,17 @@ echo "set style line 1 lt 1 lw 1 lc rgb '#fbb252'"
 
 echo "plot xout ls 1 notitle"
 echo "set arrow from $border,$offset to $border,$scale_border nohead ls 1"
-echo "replot f(x) lc rgb '#e27152' lt 1 lw 1 notitle"
-echo "replot g(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
-echo "replot h(x) lc rgb '#fbb252' lt 0 lw 1 notitle"
 
-echo "replot '$tmp' u (strcol(2) eq strcol(3) && !(strcol(2) eq 'UNKNOWN')) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 2"
+echo "replot '$tmp' u (strcol(2) eq strcol(3) && !(strcol(2) eq 'UNKNOWN')) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 3"
 
-echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00cc00' pt 3"
+echo "replot '$tmp' u (strcol(2) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))   ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t2' with points lc rgb '#00cc00' pt 2"
 echo "replot '$tmp' u (strcol(3) eq 'UNKNOWN' && !(strcol(2) eq strcol(3)))     ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'only solved by $t1' with points lc rgb '#ff0000' pt 4"
 
-echo "replot '$tmp' u (strcol(2) eq strcol(3) && strcol(2) eq 'UNKNOWN') ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'unknown to both' with points lc rgb '#ff00ff' pt 1"
+echo "replot '$tmp' u (strcol(2) eq strcol(3) && strcol(2) eq 'UNKNOWN') ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'unknown to both' with points lc rgb '#0000ff' pt 1"
+
+echo "replot f(x) lc rgb '#ff00ff' lt 1 lw 1 notitle"
+echo "replot g(x) lc rgb '#ff00ff' lt 2 lw 1 notitle"
+echo "replot h(x) lc rgb '#ff00ff' lt 2 lw 1 notitle"
 
 
 #echo "set terminal postscript eps enhanced color"
