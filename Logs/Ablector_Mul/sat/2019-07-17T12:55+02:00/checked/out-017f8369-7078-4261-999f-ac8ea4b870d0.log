@@ -1,0 +1,682 @@
+******* Machine details *******
+$ hostname
+cn13
+$ lscpu
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 23
+Model name:            Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz
+Stepping:              10
+CPU MHz:               2666.960
+BogoMIPS:              5333.57
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              6144K
+NUMA node0 CPU(s):     0-7
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 xsave lahf_lm kaiser tpr_shadow vnmi flexpriority dtherm
+$ cat /proc/meminfo
+MemTotal:       32945784 kB
+MemFree:        31238796 kB
+MemAvailable:   32045112 kB
+Buffers:          182168 kB
+Cached:           937556 kB
+SwapCached:         2156 kB
+Active:           827216 kB
+Inactive:         671304 kB
+Active(anon):     398452 kB
+Inactive(anon):     4460 kB
+Active(file):     428764 kB
+Inactive(file):   666844 kB
+Unevictable:       27420 kB
+Mlocked:           27420 kB
+SwapTotal:      33554428 kB
+SwapFree:       33470868 kB
+Dirty:                32 kB
+Writeback:             0 kB
+AnonPages:        405144 kB
+Mapped:            35632 kB
+Shmem:              2828 kB
+Slab:              80028 kB
+SReclaimable:      56184 kB
+SUnreclaim:        23844 kB
+KernelStack:        2528 kB
+PageTables:         3860 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    50027320 kB
+Committed_AS:     655352 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:       97216 kB
+DirectMap2M:    33456128 kB
+$ cat /proc/version
+Linux version 4.4.0-139-generic (buildd@lcy01-amd64-006) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) ) #165-Ubuntu SMP Wed Oct 24 10:58:50 UTC 2018
+$ lsblk
+NAME                MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda                   8:0    0 153.4G  0 disk 
+|-sda1                8:1    0   487M  0 part /boot
+|-sda2                8:2    0     1K  0 part 
+`-sda5                8:5    0 152.9G  0 part 
+  |-cn13--vg-root   252:0    0 120.9G  0 lvm  /
+  `-cn13--vg-swap_1 252:1    0    32G  0 lvm  [SWAP]
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2602.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2257.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_798.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_177.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_947.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2089.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_412.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2593.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2173.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_372.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_55.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2258.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_420.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_54.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_313.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1873.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_984.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1164.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2135.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_995.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1459.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2405.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2028.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2598.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_422.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1145.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2472.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_692.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_999.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2005.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_37.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_880.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1559.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1470.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2263.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2383.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_914.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2031.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_176.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2473.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1005.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1431.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2128.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1481.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1916.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_188.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1133.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_836.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_62.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_421.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_335.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1448.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2644.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2322.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_426.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2022.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1173.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1914.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_990.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1208.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2088.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1156.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2133.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_169.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_184.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1877.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2529.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_799.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1141.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2252.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2481.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2024.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1525.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_338.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_352.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1143.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2594.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_60.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1917.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_443.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2330.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_53.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2586.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_334.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1168.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_349.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2025.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_344.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2020.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1007.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2547.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_181.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2376.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2660.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2588.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_343.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2477.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1152.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2428.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1182.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1204.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_134.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_419.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_185.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_993.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2371.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_413.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_183.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2270.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2582.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_99.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_429.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_407.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1920.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_411.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2124.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2375.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1150.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_61.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2367.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2595.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_52.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2461.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2365.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_345.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_681.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2293.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_174.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2138.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_29.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_356.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_858.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1439.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2370.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_997.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2474.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2141.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2587.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1190.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_847.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1139.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1915.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2004.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1001.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_201.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_182.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2468.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_2129.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_342.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1177.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_4.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app1/bench_1924.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3846.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4728.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5439.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_605.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5774.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_597.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_310.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3720.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4885.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4132.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_329.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3831.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3939.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_682.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3718.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4753.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5037.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4365.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_302.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5593.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_789.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4613.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2228.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4121.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_805.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3932.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_268.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4447.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5752.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5440.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5063.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5675.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_304.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4626.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4035.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4246.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2110.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5488.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_856.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4354.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_767.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2071.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_531.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4123.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4257.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3832.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_609.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5468.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4348.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2278.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2140.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5441.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5519.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5041.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4762.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4900.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_433.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5563.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2021.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_797.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_845.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_862.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_784.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_924.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4152.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3711.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3810.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3816.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2067.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4749.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4372.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_675.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4863.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_580.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_612.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5493.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2105.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5433.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4750.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_423.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_331.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5353.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2116.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2119.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_831.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2597.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4487.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3742.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4033.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5432.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2467.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4140.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3716.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4597.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2238.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_355.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2257.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2221.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_798.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3945.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3730.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3824.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2115.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3820.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4873.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_771.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3948.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5032.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5492.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5330.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5513.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4489.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_855.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2173.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3729.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2018.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4468.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4220.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5641.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2121.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4595.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_930.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5408.smt2
+UNSAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5424.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4223.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3930.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3722.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_509.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5443.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5509.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4020.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5045.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4735.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_3829.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2283.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_522.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4733.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4126.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_2187.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4235.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4628.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5039.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4610.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5061.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_5525.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4866.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4731.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/sage/app12/bench_4344.smt2
+SAT

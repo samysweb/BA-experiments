@@ -1,0 +1,292 @@
+******* Machine details *******
+$ hostname
+cn18
+$ lscpu
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 23
+Model name:            Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz
+Stepping:              10
+CPU MHz:               2666.798
+BogoMIPS:              5333.57
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              6144K
+NUMA node0 CPU(s):     0-7
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 xsave lahf_lm kaiser tpr_shadow vnmi flexpriority dtherm
+$ cat /proc/meminfo
+MemTotal:       32945784 kB
+MemFree:        31534244 kB
+MemAvailable:   32169228 kB
+Buffers:          137336 kB
+Cached:           814484 kB
+SwapCached:         5608 kB
+Active:           512452 kB
+Inactive:         698340 kB
+Active(anon):     271496 kB
+Inactive(anon):    10772 kB
+Active(file):     240956 kB
+Inactive(file):   687568 kB
+Unevictable:       27416 kB
+Mlocked:           27416 kB
+SwapTotal:      33554428 kB
+SwapFree:       33468856 kB
+Dirty:                 4 kB
+Writeback:             0 kB
+AnonPages:        281504 kB
+Mapped:            37112 kB
+Shmem:              2008 kB
+Slab:              71084 kB
+SReclaimable:      47684 kB
+SUnreclaim:        23400 kB
+KernelStack:        2528 kB
+PageTables:         4180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    50027320 kB
+Committed_AS:     477064 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:       91072 kB
+DirectMap2M:    33462272 kB
+$ cat /proc/version
+Linux version 4.4.0-139-generic (buildd@lcy01-amd64-006) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) ) #165-Ubuntu SMP Wed Oct 24 10:58:50 UTC 2018
+$ lsblk
+NAME                MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda                   8:0    0 153.4G  0 disk 
+|-sda1                8:1    0   487M  0 part /boot
+|-sda2                8:2    0     1K  0 part 
+`-sda5                8:5    0 152.9G  0 part 
+  |-cn18--vg-root   252:0    0 120.9G  0 lvm  /
+  `-cn18--vg-swap_1 252:1    0    32G  0 lvm  [SWAP]
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32637.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33344.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21448.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25420.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33541.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37260.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36602.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36608.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32642.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33743.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21020.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21660.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36616.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21453.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21422.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33527.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33735.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32740.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37052.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36620.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21239.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33347.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37224.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33558.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37227.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33738.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37055.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24830.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32662.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33529.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21452.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33528.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21648.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33163.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37231.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33343.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37219.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37243.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33533.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25248.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21225.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33554.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33177.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25437.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21631.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33559.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21034.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21633.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33158.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33164.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21211.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20433.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21212.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24622.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33755.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32481.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21243.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32492.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33170.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21637.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21229.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24623.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36615.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33342.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33538.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21435.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21430.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25444.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21666.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37046.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25456.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21220.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20417.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21427.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21209.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33736.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33354.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21440.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24797.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21661.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37030.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36619.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33725.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21237.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33752.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24809.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25436.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32653.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33162.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21242.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20428.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33741.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21655.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36461.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24828.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25223.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33552.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33732.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33182.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33348.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32638.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36459.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33535.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32661.smt2
+SAT
+[runner] /raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/20170531-Hansen-Check/division_by_zero.smt2
+UNSAT
