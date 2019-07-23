@@ -41,3 +41,6 @@ Ablector commit `69a6b9423ca6c318d714128f65875d52ff47349b`
 Based on `2019-07-11T14:39+02:00` but additions:
 - beforehand rewriting to check for for (assert false) statements (abort if exits)
 - solve power 2 cases in stage 0
+#2019-07-22T10:05+02:00
+Ablector commit `3b25ada04f3434edcaae6fd5d8aa829e4957062a`
+Based on `2019-07-15T10:23+02:00` but with fixed bugs
