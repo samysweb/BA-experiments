@@ -84,3 +84,10 @@ then
     buildHist Ablector_Mul/all/2019-07-15T10:23+02:00 MulNode 2 3
     buildHist Ablector_Mul/all/2019-07-15T10:23+02:00 SdivNode 2 3
 fi
+
+if newDir results/all/sdiv-pow2-rewriting-repaired
+then
+    compare sdiv Ablector_Mul/all/2019-07-22T10:05+02:00 2 boolector Boolector_SoA/all/2019-07-12T13:35+02:00 1 real time satpart
+    buildHist Ablector_Mul/all/2019-07-22T10:05+02:00 MulNode 2 3
+    buildHist Ablector_Mul/all/2019-07-22T10:05+02:00 SdivNode 2 3
+fi
