@@ -28,6 +28,8 @@ if [ `hostname` = "hal9000" ]; then
     SOURCE_SCRIPT=`pwd`"/Ablector_Mul/source.sh"
     # Number of parallel tasks
     PAR_NUM=1
+    # Additional arguments for ablector
+    ARGS="--ufReuse=1"
 else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
@@ -48,4 +50,6 @@ else
     # Anaconda Path
     CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
     PAR_NUM=1
+    # Additional arguments for ablector
+    ARGS="--ufReuse=1"
 fi
