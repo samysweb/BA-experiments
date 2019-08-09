@@ -1,0 +1,3315 @@
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_13469.smt2
+[runlim] start:			Thu Aug  8 13:28:14 2019
+[runlim] main pid:		10328
+[runlim] sample:		10.0 seconds, 94.1 MB
+[runlim] sample:		20.0 seconds, 84.3 MB
+[runlim] sample:		30.0 seconds, 84.7 MB
+[runlim] sample:		40.0 seconds, 93.3 MB
+[runlim] sample:		50.0 seconds, 93.2 MB
+[runlim] sample:		60.0 seconds, 96.0 MB
+[runlim] sample:		70.0 seconds, 95.7 MB
+[runlim] sample:		80.0 seconds, 96.4 MB
+[runlim] sample:		90.0 seconds, 97.0 MB
+[runlim] sample:		100.0 seconds, 97.0 MB
+[runlim] sample:		110.0 seconds, 98.7 MB
+[runlim] sample:		120.0 seconds, 100.1 MB
+[runlim] sample:		130.0 seconds, 102.9 MB
+[runlim] sample:		140.0 seconds, 118.5 MB
+[runlim] sample:		150.0 seconds, 123.0 MB
+[runlim] sample:		160.0 seconds, 124.8 MB
+[runlim] sample:		170.0 seconds, 123.8 MB
+[runlim] sample:		180.0 seconds, 111.9 MB
+[runlim] sample:		190.0 seconds, 125.5 MB
+[runlim] sample:		200.0 seconds, 112.2 MB
+[runlim] sample:		210.0 seconds, 126.8 MB
+[runlim] sample:		220.0 seconds, 125.9 MB
+[runlim] sample:		230.0 seconds, 127.9 MB
+[runlim] sample:		240.0 seconds, 127.9 MB
+[runlim] sample:		250.0 seconds, 130.1 MB
+[runlim] sample:		260.0 seconds, 131.9 MB
+[runlim] sample:		270.0 seconds, 144.4 MB
+[runlim] sample:		280.0 seconds, 143.8 MB
+[runlim] sample:		290.0 seconds, 151.4 MB
+[runlim] sample:		300.0 seconds, 151.9 MB
+[runlim] sample:		310.0 seconds, 151.9 MB
+[runlim] sample:		320.0 seconds, 159.3 MB
+[runlim] sample:		330.0 seconds, 159.3 MB
+[runlim] sample:		340.0 seconds, 166.8 MB
+[runlim] sample:		350.0 seconds, 166.3 MB
+[runlim] sample:		360.0 seconds, 166.3 MB
+[runlim] sample:		370.0 seconds, 166.3 MB
+[runlim] sample:		380.0 seconds, 168.4 MB
+[runlim] sample:		390.0 seconds, 167.3 MB
+[runlim] sample:		400.0 seconds, 167.3 MB
+[runlim] sample:		410.0 seconds, 167.3 MB
+[runlim] sample:		420.0 seconds, 167.3 MB
+[runlim] sample:		430.0 seconds, 171.8 MB
+[runlim] sample:		440.0 seconds, 182.5 MB
+[runlim] sample:		450.0 seconds, 182.5 MB
+[runlim] sample:		460.0 seconds, 182.5 MB
+[runlim] sample:		470.0 seconds, 185.0 MB
+[runlim] sample:		480.0 seconds, 184.0 MB
+[runlim] sample:		490.0 seconds, 184.0 MB
+[runlim] sample:		500.0 seconds, 184.0 MB
+[runlim] sample:		510.0 seconds, 229.6 MB
+[runlim] sample:		520.0 seconds, 229.6 MB
+[runlim] sample:		530.0 seconds, 188.6 MB
+[runlim] sample:		540.0 seconds, 188.6 MB
+[runlim] sample:		550.0 seconds, 188.6 MB
+[runlim] sample:		560.0 seconds, 188.6 MB
+[runlim] sample:		570.0 seconds, 238.9 MB
+[runlim] sample:		580.0 seconds, 166.4 MB
+[runlim] sample:		590.0 seconds, 193.8 MB
+[runlim] sample:		600.0 seconds, 193.8 MB
+[runlim] sample:		610.0 seconds, 193.8 MB
+[runlim] sample:		620.0 seconds, 193.8 MB
+[runlim] sample:		630.0 seconds, 195.9 MB
+[runlim] sample:		640.0 seconds, 195.4 MB
+[runlim] sample:		650.0 seconds, 192.9 MB
+[runlim] sample:		660.0 seconds, 192.9 MB
+[runlim] sample:		670.0 seconds, 192.9 MB
+[runlim] sample:		680.0 seconds, 192.9 MB
+[runlim] sample:		690.0 seconds, 247.5 MB
+[runlim] sample:		700.0 seconds, 247.5 MB
+[runlim] sample:		710.0 seconds, 197.0 MB
+[runlim] sample:		720.0 seconds, 261.6 MB
+[runlim] sample:		730.0 seconds, 263.1 MB
+[runlim] sample:		740.0 seconds, 264.1 MB
+[runlim] sample:		750.0 seconds, 323.7 MB
+[runlim] sample:		760.0 seconds, 236.9 MB
+[runlim] sample:		770.0 seconds, 270.0 MB
+[runlim] sample:		780.0 seconds, 271.5 MB
+[runlim] sample:		790.0 seconds, 239.2 MB
+[runlim] sample:		800.0 seconds, 336.5 MB
+[runlim] sample:		810.0 seconds, 337.0 MB
+[runlim] sample:		820.0 seconds, 243.4 MB
+[runlim] sample:		830.0 seconds, 243.4 MB
+[runlim] sample:		840.0 seconds, 243.0 MB
+[runlim] sample:		850.0 seconds, 275.5 MB
+[runlim] sample:		860.0 seconds, 277.0 MB
+[runlim] sample:		870.0 seconds, 277.5 MB
+[runlim] sample:		880.0 seconds, 278.5 MB
+[runlim] sample:		890.0 seconds, 343.2 MB
+[runlim] sample:		900.0 seconds, 213.8 MB
+[runlim] sample:		910.0 seconds, 284.9 MB
+[runlim] sample:		920.0 seconds, 285.4 MB
+[runlim] sample:		930.0 seconds, 286.5 MB
+[runlim] sample:		940.0 seconds, 287.1 MB
+[runlim] sample:		950.0 seconds, 318.2 MB
+[runlim] sample:		960.0 seconds, 356.8 MB
+[runlim] sample:		970.0 seconds, 292.2 MB
+[runlim] sample:		980.0 seconds, 293.1 MB
+[runlim] sample:		990.0 seconds, 254.5 MB
+[runlim] sample:		1000.0 seconds, 295.2 MB
+[runlim] sample:		1010.0 seconds, 367.2 MB
+[runlim] sample:		1020.0 seconds, 367.9 MB
+[runlim] sample:		1030.0 seconds, 368.5 MB
+[runlim] sample:		1040.0 seconds, 258.3 MB
+[runlim] sample:		1050.0 seconds, 297.3 MB
+[runlim] sample:		1060.0 seconds, 297.8 MB
+[runlim] sample:		1070.0 seconds, 298.9 MB
+[runlim] sample:		1080.0 seconds, 371.4 MB
+[runlim] sample:		1090.0 seconds, 371.9 MB
+[runlim] sample:		1100.0 seconds, 372.4 MB
+[runlim] sample:		1110.0 seconds, 373.4 MB
+[runlim] sample:		1120.0 seconds, 374.0 MB
+[runlim] sample:		1130.0 seconds, 262.8 MB
+[runlim] sample:		1140.0 seconds, 305.1 MB
+[runlim] sample:		1150.0 seconds, 305.9 MB
+[runlim] sample:		1160.0 seconds, 306.5 MB
+[runlim] sample:		1170.0 seconds, 381.8 MB
+[runlim] sample:		1180.0 seconds, 382.5 MB
+[runlim] sample:		1190.0 seconds, 383.0 MB
+[runlim] end:			Thu Aug  8 13:48:14 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.10 seconds
+[runlim] time:			1199.48 seconds
+[runlim] space:			410.0 MB
+[runlim] samples:		11995
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_14022.smt2
+[runlim] start:			Thu Aug  8 13:48:14 2019
+[runlim] main pid:		10372
+[runlim] sample:		10.0 seconds, 64.2 MB
+[runlim] sample:		20.0 seconds, 54.1 MB
+[runlim] sample:		30.0 seconds, 53.1 MB
+[runlim] sample:		40.0 seconds, 53.4 MB
+[runlim] sample:		50.0 seconds, 53.0 MB
+[runlim] sample:		60.0 seconds, 53.6 MB
+[runlim] sample:		70.0 seconds, 54.0 MB
+[runlim] sample:		80.0 seconds, 51.2 MB
+[runlim] sample:		90.0 seconds, 58.8 MB
+[runlim] sample:		100.0 seconds, 69.7 MB
+[runlim] sample:		110.0 seconds, 64.4 MB
+[runlim] sample:		120.0 seconds, 87.0 MB
+[runlim] sample:		130.0 seconds, 91.2 MB
+[runlim] sample:		140.0 seconds, 81.7 MB
+[runlim] sample:		150.0 seconds, 98.7 MB
+[runlim] sample:		160.0 seconds, 100.9 MB
+[runlim] sample:		170.0 seconds, 120.8 MB
+[runlim] sample:		180.0 seconds, 104.5 MB
+[runlim] sample:		190.0 seconds, 125.8 MB
+[runlim] sample:		200.0 seconds, 127.0 MB
+[runlim] sample:		210.0 seconds, 110.7 MB
+[runlim] sample:		220.0 seconds, 133.9 MB
+[runlim] sample:		230.0 seconds, 114.9 MB
+[runlim] sample:		240.0 seconds, 139.5 MB
+[runlim] sample:		250.0 seconds, 140.6 MB
+[runlim] sample:		260.0 seconds, 142.1 MB
+[runlim] sample:		270.0 seconds, 121.4 MB
+[runlim] sample:		280.0 seconds, 147.9 MB
+[runlim] sample:		290.0 seconds, 149.0 MB
+[runlim] sample:		300.0 seconds, 109.6 MB
+[runlim] sample:		310.0 seconds, 155.4 MB
+[runlim] sample:		320.0 seconds, 156.7 MB
+[runlim] sample:		330.0 seconds, 157.8 MB
+[runlim] sample:		340.0 seconds, 130.3 MB
+[runlim] sample:		350.0 seconds, 159.9 MB
+[runlim] sample:		360.0 seconds, 161.0 MB
+[runlim] sample:		370.0 seconds, 161.9 MB
+[runlim] sample:		380.0 seconds, 167.9 MB
+[runlim] sample:		390.0 seconds, 168.7 MB
+[runlim] sample:		400.0 seconds, 169.4 MB
+[runlim] sample:		410.0 seconds, 170.3 MB
+[runlim] sample:		420.0 seconds, 141.2 MB
+[runlim] sample:		430.0 seconds, 174.0 MB
+[runlim] sample:		440.0 seconds, 174.9 MB
+[runlim] sample:		450.0 seconds, 175.6 MB
+[runlim] sample:		460.0 seconds, 123.3 MB
+[runlim] sample:		470.0 seconds, 149.6 MB
+[runlim] sample:		480.0 seconds, 185.6 MB
+[runlim] sample:		490.0 seconds, 186.5 MB
+[runlim] sample:		500.0 seconds, 187.5 MB
+[runlim] sample:		510.0 seconds, 154.7 MB
+[runlim] sample:		520.0 seconds, 191.7 MB
+[runlim] sample:		530.0 seconds, 192.7 MB
+[runlim] sample:		540.0 seconds, 193.7 MB
+[runlim] sample:		550.0 seconds, 194.2 MB
+[runlim] sample:		560.0 seconds, 195.2 MB
+[runlim] sample:		570.0 seconds, 196.2 MB
+[runlim] sample:		580.0 seconds, 196.4 MB
+[runlim] sample:		590.0 seconds, 163.5 MB
+[runlim] sample:		600.0 seconds, 203.6 MB
+[runlim] sample:		610.0 seconds, 204.2 MB
+[runlim] sample:		620.0 seconds, 205.1 MB
+[runlim] sample:		630.0 seconds, 205.6 MB
+[runlim] sample:		640.0 seconds, 206.1 MB
+[runlim] sample:		650.0 seconds, 138.8 MB
+[runlim] sample:		660.0 seconds, 174.0 MB
+[runlim] sample:		670.0 seconds, 215.8 MB
+[runlim] sample:		680.0 seconds, 216.3 MB
+[runlim] sample:		690.0 seconds, 216.8 MB
+[runlim] sample:		700.0 seconds, 217.2 MB
+[runlim] sample:		710.0 seconds, 218.3 MB
+[runlim] sample:		720.0 seconds, 218.8 MB
+[runlim] sample:		730.0 seconds, 180.6 MB
+[runlim] sample:		740.0 seconds, 224.6 MB
+[runlim] sample:		750.0 seconds, 225.6 MB
+[runlim] sample:		760.0 seconds, 226.1 MB
+[runlim] sample:		770.0 seconds, 226.6 MB
+[runlim] sample:		780.0 seconds, 226.8 MB
+[runlim] sample:		790.0 seconds, 227.3 MB
+[runlim] sample:		800.0 seconds, 228.3 MB
+[runlim] sample:		810.0 seconds, 186.7 MB
+[runlim] sample:		820.0 seconds, 233.1 MB
+[runlim] sample:		830.0 seconds, 233.6 MB
+[runlim] sample:		840.0 seconds, 234.0 MB
+[runlim] sample:		850.0 seconds, 234.2 MB
+[runlim] sample:		860.0 seconds, 234.8 MB
+[runlim] sample:		870.0 seconds, 235.2 MB
+[runlim] sample:		880.0 seconds, 199.5 MB
+[runlim] sample:		890.0 seconds, 193.4 MB
+[runlim] sample:		900.0 seconds, 241.6 MB
+[runlim] sample:		910.0 seconds, 242.2 MB
+[runlim] sample:		920.0 seconds, 242.6 MB
+[runlim] sample:		930.0 seconds, 243.2 MB
+[runlim] sample:		940.0 seconds, 243.6 MB
+[runlim] sample:		950.0 seconds, 243.8 MB
+[runlim] sample:		960.0 seconds, 206.2 MB
+[runlim] sample:		970.0 seconds, 245.3 MB
+[runlim] sample:		980.0 seconds, 200.3 MB
+[runlim] sample:		990.0 seconds, 251.4 MB
+[runlim] sample:		1000.0 seconds, 251.9 MB
+[runlim] sample:		1010.0 seconds, 252.4 MB
+[runlim] sample:		1020.0 seconds, 253.0 MB
+[runlim] sample:		1030.0 seconds, 253.5 MB
+[runlim] sample:		1040.0 seconds, 254.0 MB
+[runlim] sample:		1050.0 seconds, 254.6 MB
+[runlim] sample:		1060.0 seconds, 214.2 MB
+[runlim] sample:		1070.0 seconds, 255.1 MB
+[runlim] sample:		1080.0 seconds, 209.9 MB
+[runlim] sample:		1090.0 seconds, 210.0 MB
+[runlim] sample:		1100.0 seconds, 264.3 MB
+[runlim] sample:		1110.0 seconds, 222.6 MB
+[runlim] sample:		1120.0 seconds, 264.8 MB
+[runlim] sample:		1130.0 seconds, 265.3 MB
+[runlim] sample:		1140.0 seconds, 265.9 MB
+[runlim] sample:		1150.0 seconds, 266.4 MB
+[runlim] sample:		1160.0 seconds, 266.9 MB
+[runlim] sample:		1170.0 seconds, 266.9 MB
+[runlim] sample:		1180.0 seconds, 267.4 MB
+[runlim] sample:		1190.0 seconds, 268.0 MB
+[runlim] end:			Thu Aug  8 14:08:14 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.02 seconds
+[runlim] time:			1199.87 seconds
+[runlim] space:			285.2 MB
+[runlim] samples:		11999
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1431.smt2
+[runlim] start:			Thu Aug  8 14:08:14 2019
+[runlim] main pid:		10416
+[runlim] sample:		10.0 seconds, 14.3 MB
+[runlim] sample:		20.0 seconds, 20.2 MB
+[runlim] sample:		30.0 seconds, 22.4 MB
+[runlim] sample:		40.0 seconds, 27.7 MB
+[BTOR>check_sat] 41.205564 seconds
+[runlim] end:			Thu Aug  8 14:08:55 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			41.25 seconds
+[runlim] time:			41.19 seconds
+[runlim] space:			33.3 MB
+[runlim] samples:		412
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_3447.smt2
+[runlim] start:			Thu Aug  8 14:08:55 2019
+[runlim] main pid:		10422
+[runlim] sample:		10.0 seconds, 14.1 MB
+[runlim] sample:		20.0 seconds, 18.6 MB
+[runlim] sample:		30.0 seconds, 22.8 MB
+[runlim] sample:		40.0 seconds, 23.6 MB
+[runlim] sample:		50.0 seconds, 29.1 MB
+[runlim] sample:		60.0 seconds, 29.3 MB
+[runlim] sample:		70.0 seconds, 29.7 MB
+[runlim] sample:		80.0 seconds, 30.1 MB
+[runlim] sample:		90.0 seconds, 36.9 MB
+[BTOR>check_sat] 92.980469 seconds
+[runlim] end:			Thu Aug  8 14:10:28 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			93.24 seconds
+[runlim] time:			92.89 seconds
+[runlim] space:			38.2 MB
+[runlim] samples:		929
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_3724.smt2
+[runlim] start:			Thu Aug  8 14:10:28 2019
+[runlim] main pid:		10437
+[runlim] sample:		10.0 seconds, 14.9 MB
+[runlim] sample:		20.0 seconds, 19.0 MB
+[runlim] sample:		30.0 seconds, 25.1 MB
+[runlim] sample:		40.0 seconds, 25.3 MB
+[BTOR>check_sat] 49.694834 seconds
+[runlim] end:			Thu Aug  8 14:11:17 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			49.95 seconds
+[runlim] time:			49.69 seconds
+[runlim] space:			34.0 MB
+[runlim] samples:		497
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4875.smt2
+[runlim] start:			Thu Aug  8 14:11:17 2019
+[runlim] main pid:		10443
+[runlim] sample:		10.0 seconds, 83.5 MB
+[runlim] sample:		20.0 seconds, 75.2 MB
+[runlim] sample:		30.0 seconds, 74.8 MB
+[runlim] sample:		40.0 seconds, 74.6 MB
+[runlim] sample:		50.0 seconds, 76.7 MB
+[runlim] sample:		60.0 seconds, 77.6 MB
+[runlim] sample:		70.0 seconds, 84.4 MB
+[runlim] sample:		80.0 seconds, 84.8 MB
+[runlim] sample:		90.0 seconds, 84.8 MB
+[runlim] sample:		100.0 seconds, 86.4 MB
+[runlim] sample:		110.0 seconds, 86.4 MB
+[runlim] sample:		120.0 seconds, 86.9 MB
+[runlim] sample:		130.0 seconds, 87.8 MB
+[runlim] sample:		140.0 seconds, 89.5 MB
+[runlim] sample:		150.0 seconds, 93.1 MB
+[runlim] sample:		160.0 seconds, 95.1 MB
+[runlim] sample:		170.0 seconds, 95.1 MB
+[runlim] sample:		180.0 seconds, 97.6 MB
+[runlim] sample:		190.0 seconds, 98.6 MB
+[runlim] sample:		200.0 seconds, 98.6 MB
+[runlim] sample:		210.0 seconds, 100.1 MB
+[runlim] sample:		220.0 seconds, 100.1 MB
+[runlim] sample:		230.0 seconds, 101.8 MB
+[BTOR>check_sat] 230.500716 seconds
+[runlim] end:			Thu Aug  8 14:15:08 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			231.55 seconds
+[runlim] time:			230.49 seconds
+[runlim] space:			120.9 MB
+[runlim] samples:		2305
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_6012.smt2
+[runlim] start:			Thu Aug  8 14:15:08 2019
+[runlim] main pid:		10458
+[BTOR>check_sat] 5.862189 seconds
+[runlim] end:			Thu Aug  8 14:15:14 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			6.51 seconds
+[runlim] time:			5.86 seconds
+[runlim] space:			19.9 MB
+[runlim] samples:		59
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1415.smt2
+[runlim] start:			Thu Aug  8 14:15:14 2019
+[runlim] main pid:		10462
+[runlim] sample:		10.0 seconds, 372.3 MB
+[runlim] sample:		20.0 seconds, 373.4 MB
+[runlim] sample:		30.0 seconds, 364.1 MB
+[runlim] sample:		40.0 seconds, 381.8 MB
+[runlim] sample:		50.0 seconds, 415.2 MB
+[runlim] sample:		60.0 seconds, 359.9 MB
+[runlim] sample:		70.0 seconds, 424.3 MB
+[runlim] sample:		80.0 seconds, 424.3 MB
+[runlim] sample:		90.0 seconds, 482.0 MB
+[runlim] sample:		100.0 seconds, 482.0 MB
+[runlim] sample:		110.0 seconds, 455.2 MB
+[runlim] sample:		120.0 seconds, 455.2 MB
+[runlim] sample:		130.0 seconds, 455.2 MB
+[runlim] sample:		140.0 seconds, 455.2 MB
+[runlim] sample:		150.0 seconds, 455.2 MB
+[runlim] sample:		160.0 seconds, 347.9 MB
+[runlim] sample:		170.0 seconds, 387.0 MB
+[runlim] sample:		180.0 seconds, 430.9 MB
+[runlim] sample:		190.0 seconds, 386.9 MB
+[runlim] sample:		200.0 seconds, 386.6 MB
+[runlim] sample:		210.0 seconds, 422.4 MB
+[runlim] sample:		220.0 seconds, 328.6 MB
+[runlim] sample:		230.0 seconds, 435.7 MB
+[runlim] sample:		240.0 seconds, 388.3 MB
+[runlim] sample:		250.0 seconds, 389.4 MB
+[runlim] sample:		260.0 seconds, 440.9 MB
+[runlim] sample:		270.0 seconds, 440.9 MB
+[runlim] sample:		280.0 seconds, 440.9 MB
+[runlim] sample:		290.0 seconds, 440.9 MB
+[runlim] sample:		300.0 seconds, 440.9 MB
+[runlim] sample:		310.0 seconds, 440.9 MB
+[runlim] sample:		320.0 seconds, 440.9 MB
+[runlim] sample:		330.0 seconds, 440.9 MB
+[runlim] sample:		340.0 seconds, 390.1 MB
+[runlim] sample:		350.0 seconds, 396.4 MB
+[runlim] sample:		360.0 seconds, 449.1 MB
+[runlim] sample:		370.0 seconds, 336.5 MB
+[runlim] sample:		380.0 seconds, 471.8 MB
+[runlim] sample:		390.0 seconds, 452.3 MB
+[runlim] sample:		400.0 seconds, 452.3 MB
+[runlim] sample:		410.0 seconds, 452.3 MB
+[runlim] sample:		420.0 seconds, 397.5 MB
+[runlim] sample:		430.0 seconds, 399.1 MB
+[runlim] sample:		440.0 seconds, 398.3 MB
+[runlim] sample:		450.0 seconds, 338.9 MB
+[runlim] sample:		460.0 seconds, 455.4 MB
+[runlim] sample:		470.0 seconds, 455.4 MB
+[runlim] sample:		480.0 seconds, 401.1 MB
+[runlim] sample:		490.0 seconds, 458.3 MB
+[runlim] sample:		500.0 seconds, 458.3 MB
+[runlim] sample:		510.0 seconds, 458.3 MB
+[runlim] sample:		520.0 seconds, 458.3 MB
+[runlim] sample:		530.0 seconds, 401.9 MB
+[runlim] sample:		540.0 seconds, 403.5 MB
+[runlim] sample:		550.0 seconds, 404.8 MB
+[runlim] sample:		560.0 seconds, 408.1 MB
+[runlim] sample:		570.0 seconds, 410.2 MB
+[runlim] sample:		580.0 seconds, 466.1 MB
+[runlim] sample:		590.0 seconds, 466.1 MB
+[runlim] sample:		600.0 seconds, 466.1 MB
+[runlim] sample:		610.0 seconds, 466.1 MB
+[runlim] sample:		620.0 seconds, 466.1 MB
+[runlim] sample:		630.0 seconds, 466.1 MB
+[runlim] sample:		640.0 seconds, 410.1 MB
+[runlim] sample:		650.0 seconds, 410.1 MB
+[runlim] sample:		660.0 seconds, 347.6 MB
+[runlim] sample:		670.0 seconds, 469.4 MB
+[runlim] sample:		680.0 seconds, 469.4 MB
+[runlim] sample:		690.0 seconds, 469.4 MB
+[runlim] sample:		700.0 seconds, 469.4 MB
+[runlim] sample:		710.0 seconds, 469.4 MB
+[runlim] sample:		720.0 seconds, 469.4 MB
+[runlim] sample:		730.0 seconds, 393.4 MB
+[runlim] sample:		740.0 seconds, 412.2 MB
+[runlim] sample:		750.0 seconds, 412.7 MB
+[runlim] sample:		760.0 seconds, 414.2 MB
+[runlim] sample:		770.0 seconds, 414.2 MB
+[runlim] sample:		780.0 seconds, 415.4 MB
+[runlim] sample:		790.0 seconds, 472.5 MB
+[runlim] sample:		800.0 seconds, 472.5 MB
+[runlim] sample:		810.0 seconds, 472.5 MB
+[runlim] sample:		820.0 seconds, 472.5 MB
+[runlim] sample:		830.0 seconds, 472.5 MB
+[runlim] sample:		840.0 seconds, 472.5 MB
+[runlim] sample:		850.0 seconds, 415.4 MB
+[runlim] sample:		860.0 seconds, 415.4 MB
+[runlim] sample:		870.0 seconds, 423.4 MB
+[runlim] sample:		880.0 seconds, 483.4 MB
+[runlim] sample:		890.0 seconds, 427.3 MB
+[runlim] sample:		900.0 seconds, 427.3 MB
+[runlim] sample:		910.0 seconds, 427.3 MB
+[runlim] sample:		920.0 seconds, 447.3 MB
+[runlim] sample:		930.0 seconds, 432.2 MB
+[runlim] sample:		940.0 seconds, 432.2 MB
+[runlim] sample:		950.0 seconds, 432.2 MB
+[runlim] sample:		960.0 seconds, 432.2 MB
+[runlim] sample:		970.0 seconds, 447.3 MB
+[runlim] sample:		980.0 seconds, 499.9 MB
+[runlim] sample:		990.0 seconds, 499.9 MB
+[runlim] sample:		1000.0 seconds, 499.9 MB
+[runlim] sample:		1010.0 seconds, 499.9 MB
+[runlim] sample:		1020.0 seconds, 499.9 MB
+[runlim] sample:		1030.0 seconds, 499.9 MB
+[runlim] sample:		1040.0 seconds, 442.6 MB
+[runlim] sample:		1050.0 seconds, 442.6 MB
+[runlim] sample:		1060.0 seconds, 442.6 MB
+[runlim] sample:		1070.0 seconds, 447.6 MB
+[runlim] sample:		1080.0 seconds, 447.1 MB
+[runlim] sample:		1090.0 seconds, 447.1 MB
+[runlim] sample:		1100.0 seconds, 447.1 MB
+[runlim] sample:		1110.0 seconds, 447.1 MB
+[runlim] sample:		1120.0 seconds, 447.1 MB
+[runlim] sample:		1130.0 seconds, 447.1 MB
+[runlim] sample:		1140.0 seconds, 448.6 MB
+[runlim] sample:		1150.0 seconds, 448.6 MB
+[runlim] sample:		1160.0 seconds, 448.6 MB
+[runlim] sample:		1170.0 seconds, 448.6 MB
+[runlim] sample:		1180.0 seconds, 448.6 MB
+[runlim] sample:		1190.0 seconds, 457.7 MB
+[runlim] end:			Thu Aug  8 14:35:14 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.04 seconds
+[runlim] time:			1199.47 seconds
+[runlim] space:			556.9 MB
+[runlim] samples:		11995
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5403.smt2
+[runlim] start:			Thu Aug  8 14:35:14 2019
+[runlim] main pid:		10510
+[runlim] sample:		10.0 seconds, 14.5 MB
+[runlim] sample:		20.0 seconds, 20.3 MB
+[runlim] sample:		30.0 seconds, 24.4 MB
+[BTOR>check_sat] 31.625219 seconds
+[runlim] end:			Thu Aug  8 14:35:45 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			31.70 seconds
+[runlim] time:			31.57 seconds
+[runlim] space:			26.9 MB
+[runlim] samples:		316
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_9837.smt2
+[runlim] start:			Thu Aug  8 14:35:45 2019
+[runlim] main pid:		10514
+[BTOR>check_sat] 1.535355 seconds
+[runlim] end:			Thu Aug  8 14:35:47 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			2.95 seconds
+[runlim] time:			2.11 seconds
+[runlim] space:			55.0 MB
+[runlim] samples:		22
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1349.smt2
+[runlim] start:			Thu Aug  8 14:35:47 2019
+[runlim] main pid:		10518
+[runlim] sample:		10.0 seconds, 14.5 MB
+[runlim] sample:		20.0 seconds, 20.0 MB
+[runlim] sample:		30.0 seconds, 21.6 MB
+[runlim] sample:		40.0 seconds, 23.3 MB
+[runlim] sample:		50.0 seconds, 25.1 MB
+[runlim] sample:		60.0 seconds, 28.6 MB
+[runlim] sample:		70.0 seconds, 30.9 MB
+[runlim] sample:		80.0 seconds, 35.1 MB
+[runlim] sample:		90.0 seconds, 35.6 MB
+[runlim] sample:		100.0 seconds, 35.8 MB
+[runlim] sample:		110.0 seconds, 35.8 MB
+[BTOR>check_sat] 110.825315 seconds
+[runlim] end:			Thu Aug  8 14:37:38 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			111.79 seconds
+[runlim] time:			110.79 seconds
+[runlim] space:			45.1 MB
+[runlim] samples:		1108
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_284.smt2
+[runlim] start:			Thu Aug  8 14:37:38 2019
+[runlim] main pid:		10535
+[BTOR>check_sat] 4.731995 seconds
+[runlim] end:			Thu Aug  8 14:37:43 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			5.56 seconds
+[runlim] time:			4.69 seconds
+[runlim] space:			31.3 MB
+[runlim] samples:		47
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1247.smt2
+[runlim] start:			Thu Aug  8 14:37:43 2019
+[runlim] main pid:		10539
+[runlim] sample:		10.0 seconds, 14.8 MB
+[runlim] sample:		20.0 seconds, 18.3 MB
+[runlim] sample:		30.0 seconds, 22.4 MB
+[BTOR>check_sat] 33.791220 seconds
+[runlim] end:			Thu Aug  8 14:38:17 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			34.37 seconds
+[runlim] time:			33.79 seconds
+[runlim] space:			22.9 MB
+[runlim] samples:		338
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2155.smt2
+[runlim] start:			Thu Aug  8 14:38:17 2019
+[runlim] main pid:		10543
+[runlim] sample:		10.0 seconds, 44.3 MB
+[runlim] sample:		20.0 seconds, 46.0 MB
+[runlim] sample:		30.0 seconds, 45.9 MB
+[BTOR>check_sat] 35.322670 seconds
+[runlim] end:			Thu Aug  8 14:38:52 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			35.75 seconds
+[runlim] time:			35.29 seconds
+[runlim] space:			46.6 MB
+[runlim] samples:		353
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_3872.smt2
+[runlim] start:			Thu Aug  8 14:38:52 2019
+[runlim] main pid:		10549
+[runlim] sample:		10.0 seconds, 23.5 MB
+[BTOR>check_sat] 12.323278 seconds
+[runlim] end:			Thu Aug  8 14:39:05 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			13.18 seconds
+[runlim] time:			12.37 seconds
+[runlim] space:			28.2 MB
+[runlim] samples:		124
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2943.smt2
+[runlim] start:			Thu Aug  8 14:39:05 2019
+[runlim] main pid:		10553
+[runlim] sample:		10.0 seconds, 14.3 MB
+[runlim] sample:		20.0 seconds, 17.0 MB
+[runlim] sample:		30.0 seconds, 22.1 MB
+[runlim] sample:		40.0 seconds, 23.1 MB
+[BTOR>check_sat] 44.936317 seconds
+[runlim] end:			Thu Aug  8 14:39:50 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			45.13 seconds
+[runlim] time:			44.89 seconds
+[runlim] space:			30.5 MB
+[runlim] samples:		449
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_3258.smt2
+[runlim] start:			Thu Aug  8 14:39:50 2019
+[runlim] main pid:		10559
+[runlim] sample:		10.0 seconds, 11.9 MB
+[runlim] sample:		20.0 seconds, 14.4 MB
+[runlim] sample:		30.0 seconds, 15.9 MB
+[runlim] sample:		40.0 seconds, 16.7 MB
+[runlim] sample:		50.0 seconds, 19.1 MB
+[runlim] sample:		60.0 seconds, 19.6 MB
+[runlim] sample:		70.0 seconds, 20.3 MB
+[runlim] sample:		80.0 seconds, 21.4 MB
+[runlim] sample:		90.0 seconds, 24.8 MB
+[runlim] sample:		100.0 seconds, 25.4 MB
+[runlim] sample:		110.0 seconds, 26.2 MB
+[runlim] sample:		120.0 seconds, 29.2 MB
+[runlim] sample:		130.0 seconds, 29.8 MB
+[BTOR>check_sat] 139.406973 seconds
+[runlim] end:			Thu Aug  8 14:42:09 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			139.56 seconds
+[runlim] time:			139.39 seconds
+[runlim] space:			30.5 MB
+[runlim] samples:		1394
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5235.smt2
+[runlim] start:			Thu Aug  8 14:42:09 2019
+[runlim] main pid:		10565
+[runlim] sample:		10.0 seconds, 13.1 MB
+[runlim] sample:		20.0 seconds, 17.3 MB
+[runlim] sample:		30.0 seconds, 23.8 MB
+[BTOR>check_sat] 33.898092 seconds
+[runlim] end:			Thu Aug  8 14:42:43 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			34.49 seconds
+[runlim] time:			33.88 seconds
+[runlim] space:			24.4 MB
+[runlim] samples:		339
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_11769.smt2
+[runlim] start:			Thu Aug  8 14:42:43 2019
+[runlim] main pid:		10571
+[runlim] sample:		10.0 seconds, 86.5 MB
+[runlim] sample:		20.0 seconds, 70.3 MB
+[runlim] sample:		30.0 seconds, 75.8 MB
+[runlim] sample:		40.0 seconds, 75.8 MB
+[runlim] sample:		50.0 seconds, 75.7 MB
+[runlim] sample:		60.0 seconds, 76.6 MB
+[runlim] sample:		70.0 seconds, 76.7 MB
+[runlim] sample:		80.0 seconds, 77.1 MB
+[runlim] sample:		90.0 seconds, 77.1 MB
+[runlim] sample:		100.0 seconds, 78.7 MB
+[runlim] sample:		110.0 seconds, 78.7 MB
+[runlim] sample:		120.0 seconds, 82.5 MB
+[runlim] sample:		130.0 seconds, 82.5 MB
+[runlim] sample:		140.0 seconds, 84.1 MB
+[runlim] sample:		150.0 seconds, 93.0 MB
+[runlim] sample:		160.0 seconds, 93.0 MB
+[runlim] sample:		170.0 seconds, 93.0 MB
+[runlim] sample:		180.0 seconds, 101.1 MB
+[runlim] sample:		190.0 seconds, 101.1 MB
+[runlim] sample:		200.0 seconds, 107.0 MB
+[runlim] sample:		210.0 seconds, 107.0 MB
+[runlim] sample:		220.0 seconds, 107.0 MB
+[runlim] sample:		230.0 seconds, 119.4 MB
+[runlim] sample:		240.0 seconds, 119.3 MB
+[runlim] sample:		250.0 seconds, 119.3 MB
+[runlim] sample:		260.0 seconds, 119.3 MB
+[runlim] sample:		270.0 seconds, 132.2 MB
+[runlim] sample:		280.0 seconds, 132.2 MB
+[runlim] sample:		290.0 seconds, 132.2 MB
+[runlim] sample:		300.0 seconds, 134.2 MB
+[runlim] sample:		310.0 seconds, 137.7 MB
+[runlim] sample:		320.0 seconds, 137.7 MB
+[runlim] sample:		330.0 seconds, 137.7 MB
+[runlim] sample:		340.0 seconds, 137.7 MB
+[runlim] sample:		350.0 seconds, 149.2 MB
+[runlim] sample:		360.0 seconds, 149.8 MB
+[runlim] sample:		370.0 seconds, 149.8 MB
+[runlim] sample:		380.0 seconds, 149.8 MB
+[runlim] sample:		390.0 seconds, 149.8 MB
+[runlim] sample:		400.0 seconds, 178.2 MB
+[runlim] sample:		410.0 seconds, 182.2 MB
+[runlim] sample:		420.0 seconds, 182.8 MB
+[runlim] sample:		430.0 seconds, 169.8 MB
+[runlim] sample:		440.0 seconds, 169.5 MB
+[runlim] sample:		450.0 seconds, 184.3 MB
+[BTOR>check_sat] 453.961333 seconds
+[runlim] end:			Thu Aug  8 14:50:17 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			454.52 seconds
+[runlim] time:			453.99 seconds
+[runlim] space:			184.3 MB
+[runlim] samples:		4540
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4234.smt2
+[runlim] start:			Thu Aug  8 14:50:17 2019
+[runlim] main pid:		10587
+[runlim] sample:		9.9 seconds, 40.2 MB
+[runlim] sample:		19.9 seconds, 47.4 MB
+[runlim] sample:		29.9 seconds, 44.8 MB
+[BTOR>check_sat] 32.597555 seconds
+[runlim] end:			Thu Aug  8 14:50:50 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			33.61 seconds
+[runlim] time:			32.89 seconds
+[runlim] space:			56.7 MB
+[runlim] samples:		330
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1037.smt2
+[runlim] start:			Thu Aug  8 14:50:50 2019
+[runlim] main pid:		10591
+[runlim] sample:		10.0 seconds, 15.8 MB
+[BTOR>check_sat] 12.407177 seconds
+[runlim] end:			Thu Aug  8 14:51:03 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			13.04 seconds
+[runlim] time:			12.39 seconds
+[runlim] space:			15.8 MB
+[runlim] samples:		124
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_10474.smt2
+[runlim] start:			Thu Aug  8 14:51:03 2019
+[runlim] main pid:		10598
+[runlim] sample:		10.0 seconds, 64.2 MB
+[runlim] sample:		20.0 seconds, 56.4 MB
+[runlim] sample:		30.0 seconds, 54.8 MB
+[runlim] sample:		40.0 seconds, 54.6 MB
+[runlim] sample:		50.0 seconds, 50.8 MB
+[runlim] sample:		60.0 seconds, 54.2 MB
+[runlim] sample:		70.0 seconds, 54.1 MB
+[runlim] sample:		80.0 seconds, 53.7 MB
+[runlim] sample:		90.0 seconds, 54.2 MB
+[runlim] sample:		100.0 seconds, 55.9 MB
+[runlim] sample:		110.0 seconds, 56.9 MB
+[runlim] sample:		120.0 seconds, 58.4 MB
+[runlim] sample:		130.0 seconds, 68.3 MB
+[runlim] sample:		140.0 seconds, 74.3 MB
+[runlim] sample:		150.0 seconds, 76.9 MB
+[runlim] sample:		160.0 seconds, 84.9 MB
+[runlim] sample:		170.0 seconds, 114.5 MB
+[runlim] sample:		180.0 seconds, 103.7 MB
+[runlim] sample:		190.0 seconds, 122.4 MB
+[runlim] sample:		200.0 seconds, 99.2 MB
+[runlim] sample:		210.0 seconds, 110.1 MB
+[runlim] sample:		220.0 seconds, 113.4 MB
+[runlim] sample:		230.0 seconds, 133.8 MB
+[runlim] sample:		240.0 seconds, 124.1 MB
+[runlim] sample:		250.0 seconds, 126.1 MB
+[runlim] sample:		260.0 seconds, 123.7 MB
+[runlim] sample:		270.0 seconds, 129.8 MB
+[runlim] sample:		280.0 seconds, 117.2 MB
+[runlim] sample:		290.0 seconds, 154.7 MB
+[runlim] sample:		300.0 seconds, 156.8 MB
+[runlim] sample:		310.0 seconds, 135.7 MB
+[runlim] sample:		320.0 seconds, 137.7 MB
+[runlim] sample:		330.0 seconds, 139.3 MB
+[runlim] sample:		340.0 seconds, 163.4 MB
+[runlim] sample:		350.0 seconds, 141.7 MB
+[runlim] sample:		360.0 seconds, 123.8 MB
+[runlim] sample:		370.0 seconds, 169.2 MB
+[runlim] sample:		380.0 seconds, 144.4 MB
+[runlim] sample:		390.0 seconds, 172.1 MB
+[runlim] sample:		400.0 seconds, 152.0 MB
+[runlim] sample:		410.0 seconds, 160.1 MB
+[runlim] sample:		420.0 seconds, 192.6 MB
+[runlim] sample:		430.0 seconds, 193.8 MB
+[runlim] sample:		440.0 seconds, 142.6 MB
+[runlim] sample:		450.0 seconds, 194.9 MB
+[runlim] sample:		460.0 seconds, 166.6 MB
+[runlim] sample:		470.0 seconds, 197.7 MB
+[runlim] sample:		480.0 seconds, 200.1 MB
+[runlim] sample:		490.0 seconds, 170.0 MB
+[runlim] sample:		500.0 seconds, 202.2 MB
+[runlim] sample:		510.0 seconds, 203.1 MB
+[runlim] sample:		520.0 seconds, 172.4 MB
+[runlim] sample:		530.0 seconds, 174.0 MB
+[runlim] sample:		540.0 seconds, 208.2 MB
+[runlim] sample:		550.0 seconds, 209.2 MB
+[runlim] sample:		560.0 seconds, 177.8 MB
+[runlim] sample:		570.0 seconds, 179.0 MB
+[runlim] sample:		580.0 seconds, 214.9 MB
+[runlim] sample:		590.0 seconds, 180.4 MB
+[runlim] sample:		600.0 seconds, 216.2 MB
+[runlim] sample:		610.0 seconds, 220.5 MB
+[runlim] sample:		620.0 seconds, 220.8 MB
+[runlim] sample:		630.0 seconds, 221.8 MB
+[runlim] sample:		640.0 seconds, 185.1 MB
+[runlim] sample:		650.0 seconds, 222.4 MB
+[runlim] sample:		660.0 seconds, 187.5 MB
+[runlim] sample:		670.0 seconds, 226.0 MB
+[runlim] sample:		680.0 seconds, 226.2 MB
+[runlim] sample:		690.0 seconds, 190.9 MB
+[runlim] sample:		700.0 seconds, 230.5 MB
+[runlim] sample:		710.0 seconds, 191.5 MB
+[runlim] sample:		720.0 seconds, 231.4 MB
+[runlim] sample:		730.0 seconds, 202.5 MB
+[runlim] sample:		740.0 seconds, 234.3 MB
+[runlim] sample:		750.0 seconds, 195.1 MB
+[runlim] sample:		760.0 seconds, 235.8 MB
+[runlim] sample:		770.0 seconds, 236.7 MB
+[runlim] sample:		780.0 seconds, 236.9 MB
+[runlim] sample:		790.0 seconds, 198.2 MB
+[runlim] sample:		800.0 seconds, 240.2 MB
+[runlim] sample:		810.0 seconds, 165.5 MB
+[runlim] sample:		820.0 seconds, 240.6 MB
+[runlim] sample:		830.0 seconds, 241.2 MB
+[runlim] sample:		840.0 seconds, 241.6 MB
+[runlim] sample:		850.0 seconds, 210.6 MB
+[runlim] sample:		860.0 seconds, 203.9 MB
+[runlim] sample:		870.0 seconds, 248.4 MB
+[runlim] sample:		880.0 seconds, 204.1 MB
+[runlim] sample:		890.0 seconds, 248.1 MB
+[runlim] sample:		900.0 seconds, 206.7 MB
+[runlim] sample:		910.0 seconds, 252.1 MB
+[runlim] sample:		920.0 seconds, 252.5 MB
+[runlim] sample:		930.0 seconds, 254.7 MB
+[runlim] sample:		940.0 seconds, 255.6 MB
+[runlim] sample:		950.0 seconds, 254.4 MB
+[runlim] sample:		960.0 seconds, 210.6 MB
+[runlim] sample:		970.0 seconds, 256.2 MB
+[runlim] sample:		980.0 seconds, 212.6 MB
+[runlim] sample:		990.0 seconds, 259.8 MB
+[runlim] sample:		1000.0 seconds, 260.6 MB
+[runlim] sample:		1010.0 seconds, 261.0 MB
+[runlim] sample:		1020.0 seconds, 152.7 MB
+[runlim] sample:		1030.0 seconds, 215.1 MB
+[runlim] sample:		1040.0 seconds, 262.6 MB
+[runlim] sample:		1050.0 seconds, 262.7 MB
+[runlim] sample:		1060.0 seconds, 263.2 MB
+[runlim] sample:		1070.0 seconds, 268.3 MB
+[runlim] sample:		1080.0 seconds, 268.6 MB
+[runlim] sample:		1090.0 seconds, 269.0 MB
+[runlim] sample:		1100.0 seconds, 220.1 MB
+[runlim] sample:		1110.0 seconds, 220.5 MB
+[runlim] sample:		1120.0 seconds, 270.2 MB
+[runlim] sample:		1130.0 seconds, 221.3 MB
+[runlim] sample:		1140.0 seconds, 271.3 MB
+[runlim] sample:		1150.0 seconds, 271.5 MB
+[runlim] sample:		1160.0 seconds, 231.0 MB
+[runlim] sample:		1170.0 seconds, 272.5 MB
+[runlim] sample:		1180.0 seconds, 275.2 MB
+[runlim] sample:		1190.0 seconds, 275.6 MB
+[runlim] sample:		1200.0 seconds, 224.3 MB
+[runlim] end:			Thu Aug  8 15:11:03 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.05 seconds
+[runlim] time:			1199.96 seconds
+[runlim] space:			317.5 MB
+[runlim] samples:		12000
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4764.smt2
+[runlim] start:			Thu Aug  8 15:11:03 2019
+[runlim] main pid:		10641
+[BTOR>check_sat] 4.748015 seconds
+[runlim] end:			Thu Aug  8 15:11:07 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			4.87 seconds
+[runlim] time:			4.78 seconds
+[runlim] space:			17.4 MB
+[runlim] samples:		48
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_13588.smt2
+[runlim] start:			Thu Aug  8 15:11:07 2019
+[runlim] main pid:		10645
+[BTOR>check_sat] 5.910369 seconds
+[runlim] end:			Thu Aug  8 15:11:13 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			6.86 seconds
+[runlim] time:			5.88 seconds
+[runlim] space:			18.2 MB
+[runlim] samples:		59
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1371.smt2
+[runlim] start:			Thu Aug  8 15:11:13 2019
+[runlim] main pid:		10649
+[runlim] sample:		10.0 seconds, 14.4 MB
+[runlim] sample:		20.0 seconds, 19.4 MB
+[runlim] sample:		30.0 seconds, 22.1 MB
+[runlim] sample:		40.0 seconds, 26.7 MB
+[runlim] sample:		50.0 seconds, 26.9 MB
+[BTOR>check_sat] 51.414709 seconds
+[runlim] end:			Thu Aug  8 15:12:05 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			52.28 seconds
+[runlim] time:			51.39 seconds
+[runlim] space:			28.5 MB
+[runlim] samples:		514
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_956.smt2
+[runlim] start:			Thu Aug  8 15:12:05 2019
+[runlim] main pid:		10653
+[runlim] sample:		9.9 seconds, 109.7 MB
+[runlim] sample:		19.9 seconds, 82.6 MB
+[runlim] sample:		29.9 seconds, 92.2 MB
+[runlim] sample:		40.0 seconds, 90.5 MB
+[runlim] sample:		50.0 seconds, 89.1 MB
+[runlim] sample:		60.0 seconds, 90.6 MB
+[runlim] sample:		70.0 seconds, 90.0 MB
+[runlim] sample:		80.0 seconds, 89.1 MB
+[runlim] sample:		90.0 seconds, 88.9 MB
+[runlim] sample:		100.0 seconds, 88.4 MB
+[runlim] sample:		110.0 seconds, 88.0 MB
+[runlim] sample:		120.0 seconds, 87.9 MB
+[runlim] sample:		129.9 seconds, 87.8 MB
+[runlim] sample:		139.9 seconds, 80.4 MB
+[runlim] sample:		149.9 seconds, 87.5 MB
+[runlim] sample:		159.9 seconds, 88.4 MB
+[runlim] sample:		169.9 seconds, 88.5 MB
+[runlim] sample:		179.9 seconds, 89.4 MB
+[runlim] sample:		189.9 seconds, 92.3 MB
+[runlim] sample:		199.9 seconds, 95.3 MB
+[runlim] sample:		209.9 seconds, 104.8 MB
+[runlim] sample:		219.9 seconds, 124.0 MB
+[runlim] sample:		229.9 seconds, 124.0 MB
+[runlim] sample:		239.9 seconds, 131.3 MB
+[runlim] sample:		249.9 seconds, 133.8 MB
+[runlim] sample:		259.9 seconds, 133.8 MB
+[runlim] sample:		269.9 seconds, 137.7 MB
+[runlim] sample:		279.9 seconds, 137.7 MB
+[runlim] sample:		289.9 seconds, 139.2 MB
+[runlim] sample:		299.9 seconds, 139.5 MB
+[runlim] sample:		309.9 seconds, 139.5 MB
+[runlim] sample:		319.9 seconds, 140.0 MB
+[runlim] sample:		329.9 seconds, 167.3 MB
+[runlim] sample:		339.9 seconds, 168.8 MB
+[runlim] sample:		349.9 seconds, 199.0 MB
+[runlim] sample:		359.9 seconds, 200.1 MB
+[runlim] sample:		369.9 seconds, 174.7 MB
+[runlim] sample:		379.9 seconds, 175.9 MB
+[runlim] sample:		389.9 seconds, 146.1 MB
+[runlim] sample:		399.9 seconds, 180.1 MB
+[runlim] sample:		409.9 seconds, 181.2 MB
+[runlim] sample:		419.9 seconds, 166.1 MB
+[runlim] sample:		429.9 seconds, 183.4 MB
+[runlim] sample:		439.9 seconds, 184.1 MB
+[runlim] sample:		449.9 seconds, 221.1 MB
+[runlim] sample:		459.9 seconds, 221.7 MB
+[runlim] sample:		469.9 seconds, 188.5 MB
+[runlim] sample:		479.9 seconds, 189.5 MB
+[runlim] sample:		489.9 seconds, 190.2 MB
+[runlim] sample:		499.9 seconds, 229.0 MB
+[runlim] sample:		509.9 seconds, 194.1 MB
+[runlim] sample:		520.0 seconds, 195.0 MB
+[runlim] sample:		530.0 seconds, 235.4 MB
+[runlim] sample:		540.0 seconds, 176.7 MB
+[runlim] sample:		549.9 seconds, 199.7 MB
+[runlim] sample:		559.9 seconds, 200.7 MB
+[runlim] sample:		569.9 seconds, 242.8 MB
+[runlim] sample:		579.9 seconds, 243.8 MB
+[runlim] sample:		589.9 seconds, 181.1 MB
+[runlim] sample:		599.9 seconds, 206.0 MB
+[runlim] sample:		609.9 seconds, 206.7 MB
+[runlim] sample:		619.9 seconds, 251.9 MB
+[runlim] sample:		629.9 seconds, 252.4 MB
+[runlim] sample:		639.9 seconds, 253.3 MB
+[runlim] sample:		649.9 seconds, 211.3 MB
+[runlim] sample:		659.9 seconds, 212.3 MB
+[runlim] sample:		669.9 seconds, 258.9 MB
+[runlim] sample:		679.9 seconds, 259.3 MB
+[runlim] sample:		689.9 seconds, 260.0 MB
+[runlim] sample:		699.9 seconds, 260.4 MB
+[runlim] sample:		709.9 seconds, 217.0 MB
+[runlim] sample:		719.9 seconds, 217.2 MB
+[runlim] sample:		729.9 seconds, 218.1 MB
+[runlim] sample:		739.9 seconds, 266.7 MB
+[runlim] sample:		749.9 seconds, 267.2 MB
+[runlim] sample:		759.9 seconds, 267.8 MB
+[runlim] sample:		769.9 seconds, 192.2 MB
+[runlim] sample:		779.9 seconds, 222.0 MB
+[runlim] sample:		789.9 seconds, 222.4 MB
+[runlim] sample:		799.9 seconds, 272.5 MB
+[runlim] sample:		809.9 seconds, 272.9 MB
+[runlim] sample:		819.9 seconds, 273.6 MB
+[runlim] sample:		829.9 seconds, 274.0 MB
+[runlim] sample:		839.9 seconds, 170.2 MB
+[runlim] sample:		849.9 seconds, 196.3 MB
+[runlim] sample:		859.9 seconds, 280.3 MB
+[runlim] sample:		869.9 seconds, 280.9 MB
+[runlim] sample:		879.9 seconds, 281.6 MB
+[runlim] sample:		889.9 seconds, 282.1 MB
+[runlim] sample:		899.9 seconds, 282.6 MB
+[runlim] sample:		909.9 seconds, 283.1 MB
+[runlim] sample:		919.9 seconds, 234.3 MB
+[runlim] sample:		929.9 seconds, 234.5 MB
+[runlim] sample:		939.9 seconds, 288.9 MB
+[runlim] sample:		949.9 seconds, 289.3 MB
+[runlim] sample:		959.9 seconds, 290.0 MB
+[runlim] sample:		969.9 seconds, 290.4 MB
+[runlim] sample:		979.9 seconds, 290.9 MB
+[runlim] sample:		989.9 seconds, 291.4 MB
+[runlim] sample:		999.9 seconds, 204.2 MB
+[runlim] sample:		1009.9 seconds, 239.8 MB
+[runlim] sample:		1019.9 seconds, 240.2 MB
+[runlim] sample:		1029.9 seconds, 296.9 MB
+[runlim] sample:		1039.9 seconds, 297.1 MB
+[runlim] sample:		1049.9 seconds, 297.6 MB
+[runlim] sample:		1059.9 seconds, 298.1 MB
+[runlim] sample:		1069.9 seconds, 298.5 MB
+[runlim] sample:		1079.9 seconds, 299.1 MB
+[runlim] sample:		1089.9 seconds, 299.5 MB
+[runlim] sample:		1099.9 seconds, 246.9 MB
+[runlim] sample:		1109.9 seconds, 306.1 MB
+[runlim] sample:		1119.9 seconds, 306.2 MB
+[runlim] sample:		1129.9 seconds, 306.8 MB
+[runlim] sample:		1139.9 seconds, 307.3 MB
+[runlim] sample:		1149.9 seconds, 307.3 MB
+[runlim] sample:		1159.9 seconds, 307.8 MB
+[runlim] sample:		1169.9 seconds, 308.3 MB
+[runlim] sample:		1179.9 seconds, 309.2 MB
+[runlim] sample:		1189.9 seconds, 309.7 MB
+[runlim] end:			Thu Aug  8 15:32:05 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.11 seconds
+[runlim] time:			1199.74 seconds
+[runlim] space:			355.6 MB
+[runlim] samples:		11998
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_17667.smt2
+[runlim] start:			Thu Aug  8 15:32:05 2019
+[runlim] main pid:		10715
+[runlim] sample:		10.0 seconds, 125.4 MB
+[runlim] sample:		20.0 seconds, 132.8 MB
+[runlim] sample:		30.0 seconds, 116.4 MB
+[runlim] sample:		40.0 seconds, 132.1 MB
+[runlim] sample:		50.0 seconds, 132.2 MB
+[runlim] sample:		60.0 seconds, 135.3 MB
+[runlim] sample:		70.0 seconds, 135.2 MB
+[runlim] sample:		80.0 seconds, 135.7 MB
+[runlim] sample:		90.0 seconds, 135.7 MB
+[runlim] sample:		100.0 seconds, 135.1 MB
+[runlim] sample:		110.0 seconds, 135.1 MB
+[runlim] sample:		120.0 seconds, 134.6 MB
+[runlim] sample:		130.0 seconds, 133.7 MB
+[runlim] sample:		140.0 seconds, 133.7 MB
+[runlim] sample:		150.0 seconds, 133.7 MB
+[runlim] sample:		160.0 seconds, 132.5 MB
+[runlim] sample:		170.0 seconds, 126.4 MB
+[runlim] sample:		180.0 seconds, 132.4 MB
+[runlim] sample:		190.0 seconds, 131.6 MB
+[runlim] sample:		200.0 seconds, 131.4 MB
+[runlim] sample:		210.0 seconds, 115.6 MB
+[runlim] sample:		220.0 seconds, 131.0 MB
+[runlim] sample:		230.0 seconds, 145.0 MB
+[runlim] sample:		240.0 seconds, 146.5 MB
+[runlim] sample:		250.0 seconds, 145.1 MB
+[runlim] sample:		260.0 seconds, 145.6 MB
+[runlim] sample:		270.0 seconds, 145.0 MB
+[runlim] sample:		280.0 seconds, 143.5 MB
+[runlim] sample:		290.0 seconds, 142.5 MB
+[runlim] sample:		300.0 seconds, 144.0 MB
+[runlim] sample:		310.0 seconds, 142.9 MB
+[runlim] sample:		320.0 seconds, 144.0 MB
+[runlim] sample:		330.0 seconds, 143.0 MB
+[runlim] sample:		340.0 seconds, 130.3 MB
+[runlim] sample:		350.0 seconds, 144.6 MB
+[runlim] sample:		360.0 seconds, 144.6 MB
+[runlim] sample:		370.0 seconds, 153.3 MB
+[runlim] sample:		380.0 seconds, 152.8 MB
+[runlim] sample:		390.0 seconds, 151.9 MB
+[runlim] sample:		400.0 seconds, 153.1 MB
+[runlim] sample:		410.0 seconds, 152.4 MB
+[runlim] sample:		420.0 seconds, 152.4 MB
+[runlim] sample:		430.0 seconds, 153.9 MB
+[runlim] sample:		440.0 seconds, 153.9 MB
+[runlim] sample:		450.0 seconds, 157.0 MB
+[runlim] sample:		460.0 seconds, 156.7 MB
+[runlim] sample:		470.0 seconds, 155.6 MB
+[runlim] sample:		480.0 seconds, 155.6 MB
+[runlim] sample:		490.0 seconds, 158.2 MB
+[runlim] sample:		500.0 seconds, 158.0 MB
+[runlim] sample:		510.0 seconds, 158.0 MB
+[runlim] sample:		520.0 seconds, 160.2 MB
+[runlim] sample:		530.0 seconds, 160.2 MB
+[runlim] sample:		540.0 seconds, 163.7 MB
+[runlim] sample:		550.0 seconds, 163.6 MB
+[runlim] sample:		560.0 seconds, 160.7 MB
+[runlim] sample:		570.0 seconds, 164.4 MB
+[BTOR>check_sat] 570.400537 seconds
+[runlim] end:			Thu Aug  8 15:41:36 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			571.53 seconds
+[runlim] time:			571.36 seconds
+[runlim] space:			199.7 MB
+[runlim] samples:		5714
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1721.smt2
+[runlim] start:			Thu Aug  8 15:41:36 2019
+[runlim] main pid:		10753
+[runlim] sample:		10.0 seconds, 15.3 MB
+[runlim] sample:		20.0 seconds, 18.8 MB
+[runlim] sample:		30.0 seconds, 23.5 MB
+[runlim] sample:		40.0 seconds, 24.5 MB
+[BTOR>check_sat] 47.907581 seconds
+[runlim] end:			Thu Aug  8 15:42:24 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			48.46 seconds
+[runlim] time:			47.89 seconds
+[runlim] space:			28.4 MB
+[runlim] samples:		479
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1801.smt2
+[runlim] start:			Thu Aug  8 15:42:24 2019
+[runlim] main pid:		10759
+[runlim] sample:		10.0 seconds, 13.5 MB
+[runlim] sample:		20.0 seconds, 17.6 MB
+[runlim] sample:		30.0 seconds, 23.1 MB
+[runlim] sample:		40.0 seconds, 24.4 MB
+[BTOR>check_sat] 40.415994 seconds
+[runlim] end:			Thu Aug  8 15:43:04 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			40.89 seconds
+[runlim] time:			40.39 seconds
+[runlim] space:			29.2 MB
+[runlim] samples:		404
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_12204.smt2
+[runlim] start:			Thu Aug  8 15:43:04 2019
+[runlim] main pid:		10763
+[runlim] sample:		10.0 seconds, 250.8 MB
+[runlim] sample:		20.0 seconds, 247.8 MB
+[runlim] sample:		30.0 seconds, 291.2 MB
+[runlim] sample:		40.0 seconds, 254.7 MB
+[runlim] sample:		50.0 seconds, 254.7 MB
+[runlim] sample:		60.0 seconds, 261.2 MB
+[runlim] sample:		70.0 seconds, 295.1 MB
+[runlim] sample:		80.0 seconds, 295.1 MB
+[runlim] sample:		90.0 seconds, 295.1 MB
+[runlim] sample:		100.0 seconds, 254.5 MB
+[BTOR>check_sat] 105.444263 seconds
+[runlim] end:			Thu Aug  8 15:44:50 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			106.60 seconds
+[runlim] time:			105.68 seconds
+[runlim] space:			348.0 MB
+[runlim] samples:		1057
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_11717.smt2
+[runlim] start:			Thu Aug  8 15:44:50 2019
+[runlim] main pid:		10775
+[runlim] sample:		10.0 seconds, 11.0 MB
+[runlim] sample:		20.0 seconds, 11.9 MB
+[runlim] sample:		30.0 seconds, 14.0 MB
+[runlim] sample:		40.0 seconds, 17.2 MB
+[runlim] sample:		50.0 seconds, 17.8 MB
+[runlim] sample:		60.0 seconds, 20.7 MB
+[runlim] sample:		70.0 seconds, 21.0 MB
+[runlim] sample:		80.0 seconds, 21.2 MB
+[runlim] sample:		90.0 seconds, 24.5 MB
+[runlim] sample:		100.0 seconds, 25.1 MB
+[runlim] sample:		110.0 seconds, 25.6 MB
+[runlim] sample:		120.0 seconds, 25.8 MB
+[runlim] sample:		130.0 seconds, 26.4 MB
+[runlim] sample:		140.0 seconds, 27.2 MB
+[BTOR>check_sat] 143.680331 seconds
+[runlim] end:			Thu Aug  8 15:47:14 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			144.30 seconds
+[runlim] time:			143.59 seconds
+[runlim] space:			31.0 MB
+[runlim] samples:		1436
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_6856.smt2
+[runlim] start:			Thu Aug  8 15:47:14 2019
+[runlim] main pid:		10790
+[runlim] sample:		10.0 seconds, 52.7 MB
+[runlim] sample:		20.0 seconds, 46.8 MB
+[runlim] sample:		30.0 seconds, 48.7 MB
+[runlim] sample:		40.0 seconds, 50.2 MB
+[runlim] sample:		50.0 seconds, 51.1 MB
+[runlim] sample:		60.0 seconds, 51.4 MB
+[runlim] sample:		70.0 seconds, 51.4 MB
+[runlim] sample:		80.0 seconds, 52.0 MB
+[runlim] sample:		90.0 seconds, 53.5 MB
+[runlim] sample:		100.0 seconds, 66.0 MB
+[runlim] sample:		110.0 seconds, 72.4 MB
+[runlim] sample:		120.0 seconds, 66.7 MB
+[runlim] sample:		130.0 seconds, 75.8 MB
+[runlim] sample:		140.0 seconds, 81.2 MB
+[runlim] sample:		150.0 seconds, 81.2 MB
+[runlim] sample:		160.0 seconds, 83.3 MB
+[runlim] sample:		170.0 seconds, 83.3 MB
+[runlim] sample:		180.0 seconds, 83.3 MB
+[runlim] sample:		190.0 seconds, 85.8 MB
+[runlim] sample:		200.0 seconds, 85.8 MB
+[runlim] sample:		210.0 seconds, 85.8 MB
+[runlim] sample:		220.0 seconds, 87.6 MB
+[runlim] sample:		230.0 seconds, 87.7 MB
+[runlim] sample:		240.0 seconds, 87.7 MB
+[runlim] sample:		250.0 seconds, 87.7 MB
+[runlim] sample:		260.0 seconds, 103.8 MB
+[runlim] sample:		270.0 seconds, 103.8 MB
+[runlim] sample:		280.0 seconds, 103.8 MB
+[runlim] sample:		290.0 seconds, 103.8 MB
+[runlim] sample:		300.0 seconds, 103.8 MB
+[runlim] sample:		310.0 seconds, 108.1 MB
+[runlim] sample:		320.0 seconds, 108.1 MB
+[runlim] sample:		330.0 seconds, 108.1 MB
+[runlim] sample:		340.0 seconds, 136.3 MB
+[BTOR>check_sat] 349.157643 seconds
+[runlim] end:			Thu Aug  8 15:53:03 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			349.53 seconds
+[runlim] time:			349.17 seconds
+[runlim] space:			136.3 MB
+[runlim] samples:		3492
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_9299.smt2
+[runlim] start:			Thu Aug  8 15:53:03 2019
+[runlim] main pid:		10824
+[runlim] sample:		10.0 seconds, 16.9 MB
+[runlim] sample:		20.0 seconds, 21.7 MB
+[runlim] sample:		30.0 seconds, 24.7 MB
+[runlim] sample:		40.0 seconds, 28.0 MB
+[runlim] sample:		50.0 seconds, 28.9 MB
+[BTOR>check_sat] 55.034160 seconds
+[runlim] end:			Thu Aug  8 15:53:58 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			55.60 seconds
+[runlim] time:			54.97 seconds
+[runlim] space:			29.0 MB
+[runlim] samples:		550
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4558.smt2
+[runlim] start:			Thu Aug  8 15:53:58 2019
+[runlim] main pid:		10830
+[runlim] sample:		10.0 seconds, 102.8 MB
+[runlim] sample:		20.0 seconds, 89.3 MB
+[runlim] sample:		30.0 seconds, 89.3 MB
+[runlim] sample:		40.0 seconds, 90.1 MB
+[runlim] sample:		50.0 seconds, 89.4 MB
+[runlim] sample:		60.0 seconds, 91.0 MB
+[runlim] sample:		70.0 seconds, 90.1 MB
+[runlim] sample:		80.0 seconds, 90.1 MB
+[runlim] sample:		90.0 seconds, 88.9 MB
+[runlim] sample:		100.0 seconds, 88.5 MB
+[runlim] sample:		110.0 seconds, 88.3 MB
+[runlim] sample:		120.0 seconds, 87.3 MB
+[runlim] sample:		130.0 seconds, 86.7 MB
+[runlim] sample:		140.0 seconds, 86.9 MB
+[runlim] sample:		150.0 seconds, 86.4 MB
+[runlim] sample:		160.0 seconds, 86.8 MB
+[runlim] sample:		170.0 seconds, 87.9 MB
+[runlim] sample:		180.0 seconds, 87.8 MB
+[runlim] sample:		190.0 seconds, 89.3 MB
+[runlim] sample:		200.0 seconds, 90.3 MB
+[runlim] sample:		210.0 seconds, 91.6 MB
+[runlim] sample:		220.0 seconds, 91.5 MB
+[runlim] sample:		230.0 seconds, 97.9 MB
+[runlim] sample:		240.0 seconds, 97.9 MB
+[runlim] sample:		250.0 seconds, 112.2 MB
+[runlim] sample:		260.0 seconds, 112.2 MB
+[runlim] sample:		270.0 seconds, 114.3 MB
+[runlim] sample:		280.0 seconds, 114.2 MB
+[runlim] sample:		290.0 seconds, 114.2 MB
+[runlim] sample:		300.0 seconds, 115.4 MB
+[runlim] sample:		310.0 seconds, 115.4 MB
+[runlim] sample:		320.0 seconds, 126.0 MB
+[runlim] sample:		330.0 seconds, 149.5 MB
+[runlim] sample:		340.0 seconds, 150.4 MB
+[runlim] sample:		350.0 seconds, 151.6 MB
+[runlim] sample:		360.0 seconds, 141.1 MB
+[runlim] sample:		370.0 seconds, 154.4 MB
+[runlim] sample:		380.0 seconds, 155.5 MB
+[runlim] sample:		390.0 seconds, 186.3 MB
+[runlim] sample:		400.0 seconds, 159.0 MB
+[runlim] sample:		410.0 seconds, 159.8 MB
+[runlim] sample:		420.0 seconds, 160.7 MB
+[runlim] sample:		430.0 seconds, 132.7 MB
+[runlim] sample:		440.0 seconds, 163.4 MB
+[runlim] sample:		450.0 seconds, 164.0 MB
+[runlim] sample:		460.0 seconds, 165.0 MB
+[runlim] sample:		470.0 seconds, 150.2 MB
+[runlim] sample:		480.0 seconds, 168.0 MB
+[runlim] sample:		490.0 seconds, 168.5 MB
+[runlim] sample:		500.0 seconds, 169.1 MB
+[runlim] sample:		510.0 seconds, 205.0 MB
+[runlim] sample:		520.0 seconds, 168.3 MB
+[runlim] sample:		530.0 seconds, 174.1 MB
+[runlim] sample:		540.0 seconds, 212.4 MB
+[runlim] sample:		550.0 seconds, 213.2 MB
+[runlim] sample:		560.0 seconds, 178.1 MB
+[runlim] sample:		570.0 seconds, 178.7 MB
+[runlim] sample:		580.0 seconds, 179.6 MB
+[runlim] sample:		590.0 seconds, 219.7 MB
+[runlim] sample:		600.0 seconds, 220.5 MB
+[runlim] sample:		610.0 seconds, 221.5 MB
+[runlim] sample:		620.0 seconds, 222.4 MB
+[runlim] sample:		630.0 seconds, 163.4 MB
+[runlim] sample:		640.0 seconds, 163.3 MB
+[runlim] sample:		650.0 seconds, 186.9 MB
+[runlim] sample:		660.0 seconds, 187.3 MB
+[runlim] sample:		670.0 seconds, 188.3 MB
+[runlim] sample:		680.0 seconds, 231.1 MB
+[runlim] sample:		690.0 seconds, 231.8 MB
+[runlim] sample:		700.0 seconds, 232.7 MB
+[runlim] sample:		710.0 seconds, 233.3 MB
+[runlim] sample:		720.0 seconds, 233.7 MB
+[runlim] sample:		730.0 seconds, 194.2 MB
+[runlim] sample:		740.0 seconds, 194.7 MB
+[runlim] sample:		750.0 seconds, 195.4 MB
+[runlim] sample:		760.0 seconds, 240.6 MB
+[runlim] sample:		770.0 seconds, 241.5 MB
+[runlim] sample:		780.0 seconds, 242.0 MB
+[runlim] sample:		790.0 seconds, 200.5 MB
+[runlim] sample:		800.0 seconds, 201.0 MB
+[runlim] sample:		810.0 seconds, 202.0 MB
+[runlim] sample:		820.0 seconds, 250.1 MB
+[runlim] sample:		830.0 seconds, 251.1 MB
+[runlim] sample:		840.0 seconds, 251.4 MB
+[runlim] sample:		850.0 seconds, 151.9 MB
+[runlim] sample:		860.0 seconds, 176.0 MB
+[runlim] sample:		870.0 seconds, 205.1 MB
+[runlim] sample:		880.0 seconds, 205.2 MB
+[runlim] sample:		890.0 seconds, 254.1 MB
+[runlim] sample:		900.0 seconds, 254.6 MB
+[runlim] sample:		910.0 seconds, 255.2 MB
+[runlim] sample:		920.0 seconds, 255.7 MB
+[runlim] sample:		930.0 seconds, 256.3 MB
+[runlim] sample:		940.0 seconds, 211.6 MB
+[runlim] sample:		950.0 seconds, 212.1 MB
+[runlim] sample:		960.0 seconds, 212.6 MB
+[runlim] sample:		970.0 seconds, 264.6 MB
+[runlim] sample:		980.0 seconds, 265.2 MB
+[runlim] sample:		990.0 seconds, 265.7 MB
+[runlim] sample:		1000.0 seconds, 266.2 MB
+[runlim] sample:		1009.9 seconds, 266.4 MB
+[runlim] sample:		1020.0 seconds, 216.7 MB
+[runlim] sample:		1030.0 seconds, 217.1 MB
+[runlim] sample:		1040.0 seconds, 217.6 MB
+[runlim] sample:		1050.0 seconds, 271.0 MB
+[runlim] sample:		1059.9 seconds, 271.5 MB
+[runlim] sample:		1070.0 seconds, 271.9 MB
+[runlim] sample:		1080.0 seconds, 272.4 MB
+[runlim] sample:		1090.0 seconds, 272.9 MB
+[runlim] sample:		1099.9 seconds, 273.4 MB
+[runlim] sample:		1110.0 seconds, 203.8 MB
+[runlim] sample:		1119.9 seconds, 238.4 MB
+[runlim] sample:		1129.9 seconds, 238.4 MB
+[runlim] sample:		1140.0 seconds, 294.6 MB
+[runlim] sample:		1150.0 seconds, 295.2 MB
+[runlim] sample:		1159.9 seconds, 295.9 MB
+[runlim] sample:		1170.0 seconds, 260.3 MB
+[runlim] sample:		1179.9 seconds, 296.8 MB
+[runlim] sample:		1190.0 seconds, 297.4 MB
+[runlim] end:			Thu Aug  8 16:13:58 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.02 seconds
+[runlim] time:			1199.34 seconds
+[runlim] space:			328.8 MB
+[runlim] samples:		11994
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5217.smt2
+[runlim] start:			Thu Aug  8 16:13:58 2019
+[runlim] main pid:		10881
+[runlim] sample:		10.0 seconds, 13.3 MB
+[runlim] sample:		20.0 seconds, 16.5 MB
+[runlim] sample:		30.0 seconds, 22.5 MB
+[runlim] sample:		40.0 seconds, 24.7 MB
+[runlim] sample:		50.0 seconds, 26.0 MB
+[runlim] sample:		60.0 seconds, 33.2 MB
+[runlim] sample:		70.0 seconds, 35.4 MB
+[runlim] sample:		80.0 seconds, 35.7 MB
+[runlim] sample:		90.0 seconds, 45.3 MB
+[runlim] sample:		100.0 seconds, 46.3 MB
+[runlim] sample:		110.0 seconds, 47.3 MB
+[runlim] sample:		120.0 seconds, 38.3 MB
+[runlim] sample:		130.0 seconds, 42.4 MB
+[runlim] sample:		140.0 seconds, 42.5 MB
+[runlim] sample:		150.0 seconds, 44.0 MB
+[runlim] sample:		160.0 seconds, 53.8 MB
+[BTOR>check_sat] 163.960985 seconds
+[runlim] end:			Thu Aug  8 16:16:42 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			164.02 seconds
+[runlim] time:			163.87 seconds
+[runlim] space:			54.1 MB
+[runlim] samples:		1639
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_588.smt2
+[runlim] start:			Thu Aug  8 16:16:42 2019
+[runlim] main pid:		10890
+[runlim] sample:		10.0 seconds, 14.1 MB
+[runlim] sample:		20.0 seconds, 17.4 MB
+[runlim] sample:		30.0 seconds, 21.6 MB
+[runlim] sample:		40.0 seconds, 24.7 MB
+[runlim] sample:		50.0 seconds, 25.3 MB
+[runlim] sample:		60.0 seconds, 29.8 MB
+[BTOR>check_sat] 62.940619 seconds
+[runlim] end:			Thu Aug  8 16:17:44 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			63.00 seconds
+[runlim] time:			62.87 seconds
+[runlim] space:			30.7 MB
+[runlim] samples:		629
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_14686.smt2
+[runlim] start:			Thu Aug  8 16:17:45 2019
+[runlim] main pid:		10899
+[runlim] sample:		10.0 seconds, 23.5 MB
+[runlim] sample:		20.0 seconds, 26.4 MB
+[runlim] sample:		30.0 seconds, 29.3 MB
+[BTOR>check_sat] 36.136884 seconds
+[runlim] end:			Thu Aug  8 16:18:21 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			36.23 seconds
+[runlim] time:			36.19 seconds
+[runlim] space:			36.5 MB
+[runlim] samples:		362
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_49.smt2
+[runlim] start:			Thu Aug  8 16:18:21 2019
+[runlim] main pid:		10903
+[runlim] sample:		10.0 seconds, 92.7 MB
+[runlim] sample:		20.0 seconds, 81.1 MB
+[runlim] sample:		30.0 seconds, 81.1 MB
+[runlim] sample:		40.0 seconds, 81.1 MB
+[runlim] sample:		50.0 seconds, 83.5 MB
+[runlim] sample:		60.0 seconds, 83.4 MB
+[runlim] sample:		70.0 seconds, 84.0 MB
+[runlim] sample:		80.0 seconds, 75.8 MB
+[runlim] sample:		90.0 seconds, 83.9 MB
+[runlim] sample:		100.0 seconds, 84.0 MB
+[runlim] sample:		110.0 seconds, 75.8 MB
+[runlim] sample:		120.0 seconds, 83.8 MB
+[runlim] sample:		130.0 seconds, 84.5 MB
+[runlim] sample:		140.0 seconds, 85.8 MB
+[runlim] sample:		150.0 seconds, 85.3 MB
+[runlim] sample:		160.0 seconds, 87.0 MB
+[runlim] sample:		170.0 seconds, 88.6 MB
+[runlim] sample:		180.0 seconds, 88.5 MB
+[runlim] sample:		190.0 seconds, 98.0 MB
+[runlim] sample:		200.0 seconds, 97.5 MB
+[runlim] sample:		210.0 seconds, 105.4 MB
+[runlim] sample:		220.0 seconds, 97.3 MB
+[runlim] sample:		230.0 seconds, 108.9 MB
+[runlim] sample:		240.0 seconds, 108.9 MB
+[runlim] sample:		250.0 seconds, 110.5 MB
+[runlim] sample:		260.0 seconds, 110.4 MB
+[runlim] sample:		270.0 seconds, 110.4 MB
+[runlim] sample:		280.0 seconds, 113.6 MB
+[runlim] sample:		290.0 seconds, 118.8 MB
+[runlim] sample:		300.0 seconds, 120.7 MB
+[runlim] sample:		310.0 seconds, 123.3 MB
+[runlim] sample:		320.0 seconds, 124.8 MB
+[runlim] sample:		330.0 seconds, 154.7 MB
+[runlim] sample:		340.0 seconds, 156.3 MB
+[runlim] sample:		350.0 seconds, 130.1 MB
+[runlim] sample:		360.0 seconds, 131.7 MB
+[runlim] sample:		370.0 seconds, 163.6 MB
+[runlim] sample:		380.0 seconds, 134.3 MB
+[runlim] sample:		390.0 seconds, 135.4 MB
+[runlim] sample:		400.0 seconds, 169.4 MB
+[runlim] sample:		410.0 seconds, 128.6 MB
+[runlim] sample:		420.0 seconds, 145.8 MB
+[runlim] sample:		430.0 seconds, 145.8 MB
+[runlim] sample:		440.0 seconds, 180.6 MB
+[runlim] sample:		450.0 seconds, 180.6 MB
+[runlim] sample:		460.0 seconds, 148.9 MB
+[runlim] sample:		470.0 seconds, 148.9 MB
+[runlim] sample:		480.0 seconds, 226.8 MB
+[runlim] sample:		490.0 seconds, 151.5 MB
+[runlim] sample:		500.0 seconds, 172.0 MB
+[runlim] sample:		510.0 seconds, 233.5 MB
+[runlim] sample:		520.0 seconds, 234.8 MB
+[runlim] sample:		530.0 seconds, 235.5 MB
+[runlim] sample:		540.0 seconds, 176.4 MB
+[runlim] sample:		550.0 seconds, 199.5 MB
+[runlim] sample:		560.0 seconds, 200.5 MB
+[runlim] sample:		570.0 seconds, 243.8 MB
+[runlim] sample:		580.0 seconds, 244.8 MB
+[runlim] sample:		590.0 seconds, 158.2 MB
+[runlim] sample:		600.0 seconds, 180.4 MB
+[runlim] sample:		610.0 seconds, 204.3 MB
+[runlim] sample:		620.0 seconds, 249.3 MB
+[runlim] sample:		630.0 seconds, 249.9 MB
+[runlim] sample:		640.0 seconds, 250.8 MB
+[runlim] sample:		650.0 seconds, 209.5 MB
+[runlim] sample:		660.0 seconds, 210.4 MB
+[runlim] sample:		670.0 seconds, 257.4 MB
+[runlim] sample:		680.0 seconds, 258.1 MB
+[runlim] sample:		690.0 seconds, 215.5 MB
+[runlim] sample:		700.0 seconds, 216.3 MB
+[runlim] sample:		710.0 seconds, 266.1 MB
+[runlim] sample:		720.0 seconds, 267.1 MB
+[runlim] sample:		730.0 seconds, 267.7 MB
+[runlim] sample:		740.0 seconds, 268.6 MB
+[runlim] sample:		750.0 seconds, 269.6 MB
+[runlim] sample:		760.0 seconds, 167.7 MB
+[runlim] sample:		770.0 seconds, 224.2 MB
+[runlim] sample:		780.0 seconds, 224.7 MB
+[runlim] sample:		790.0 seconds, 277.5 MB
+[runlim] sample:		800.0 seconds, 278.7 MB
+[runlim] sample:		810.0 seconds, 247.4 MB
+[runlim] sample:		820.0 seconds, 279.8 MB
+[runlim] sample:		830.0 seconds, 229.4 MB
+[runlim] sample:		840.0 seconds, 251.4 MB
+[runlim] sample:		850.0 seconds, 284.5 MB
+[runlim] sample:		860.0 seconds, 285.4 MB
+[runlim] sample:		870.0 seconds, 285.9 MB
+[runlim] sample:		880.0 seconds, 286.7 MB
+[runlim] sample:		890.0 seconds, 234.6 MB
+[runlim] sample:		900.0 seconds, 235.6 MB
+[runlim] sample:		910.0 seconds, 291.7 MB
+[runlim] sample:		920.0 seconds, 292.6 MB
+[runlim] sample:		930.0 seconds, 293.1 MB
+[runlim] sample:		940.0 seconds, 258.6 MB
+[runlim] sample:		950.0 seconds, 294.6 MB
+[runlim] sample:		960.0 seconds, 295.1 MB
+[runlim] sample:		970.0 seconds, 296.1 MB
+[runlim] sample:		980.0 seconds, 296.7 MB
+[runlim] sample:		990.0 seconds, 207.0 MB
+[runlim] sample:		1000.0 seconds, 207.0 MB
+[runlim] sample:		1010.0 seconds, 243.3 MB
+[runlim] sample:		1020.0 seconds, 244.2 MB
+[runlim] sample:		1030.0 seconds, 303.4 MB
+[runlim] sample:		1040.0 seconds, 303.9 MB
+[runlim] sample:		1050.0 seconds, 304.9 MB
+[runlim] sample:		1060.0 seconds, 305.5 MB
+[runlim] sample:		1070.0 seconds, 305.6 MB
+[runlim] sample:		1080.0 seconds, 250.7 MB
+[runlim] sample:		1090.0 seconds, 251.2 MB
+[runlim] sample:		1100.0 seconds, 313.9 MB
+[runlim] sample:		1110.0 seconds, 314.8 MB
+[runlim] sample:		1120.0 seconds, 315.3 MB
+[runlim] sample:		1130.0 seconds, 315.8 MB
+[runlim] sample:		1140.0 seconds, 316.2 MB
+[runlim] sample:		1150.0 seconds, 216.1 MB
+[runlim] sample:		1160.0 seconds, 257.1 MB
+[runlim] sample:		1170.0 seconds, 257.4 MB
+[runlim] sample:		1180.0 seconds, 322.3 MB
+[runlim] sample:		1190.0 seconds, 322.8 MB
+[runlim] end:			Thu Aug  8 16:38:21 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.05 seconds
+[runlim] time:			1199.77 seconds
+[runlim] space:			363.2 MB
+[runlim] samples:		11998
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_8870.smt2
+[runlim] start:			Thu Aug  8 16:38:21 2019
+[runlim] main pid:		10947
+[runlim] sample:		9.9 seconds, 163.3 MB
+[runlim] sample:		19.9 seconds, 148.5 MB
+[runlim] sample:		29.9 seconds, 174.7 MB
+[runlim] sample:		39.9 seconds, 173.1 MB
+[runlim] sample:		49.9 seconds, 173.1 MB
+[runlim] sample:		60.0 seconds, 172.9 MB
+[runlim] sample:		70.0 seconds, 172.9 MB
+[runlim] sample:		79.9 seconds, 171.3 MB
+[runlim] sample:		89.9 seconds, 172.5 MB
+[runlim] sample:		99.9 seconds, 172.5 MB
+[runlim] sample:		109.9 seconds, 136.6 MB
+[runlim] sample:		119.9 seconds, 136.6 MB
+[runlim] sample:		129.9 seconds, 154.9 MB
+[runlim] sample:		139.9 seconds, 154.9 MB
+[runlim] sample:		149.9 seconds, 153.1 MB
+[runlim] sample:		159.9 seconds, 136.7 MB
+[runlim] sample:		169.9 seconds, 152.4 MB
+[runlim] sample:		179.9 seconds, 151.8 MB
+[runlim] sample:		189.9 seconds, 151.4 MB
+[runlim] sample:		199.9 seconds, 135.5 MB
+[runlim] sample:		209.9 seconds, 149.9 MB
+[runlim] sample:		219.9 seconds, 149.4 MB
+[runlim] sample:		229.9 seconds, 149.4 MB
+[runlim] sample:		239.9 seconds, 149.1 MB
+[runlim] sample:		249.9 seconds, 147.8 MB
+[runlim] sample:		259.9 seconds, 148.1 MB
+[runlim] sample:		269.9 seconds, 147.7 MB
+[runlim] sample:		279.9 seconds, 147.7 MB
+[runlim] sample:		289.9 seconds, 146.6 MB
+[runlim] sample:		299.9 seconds, 146.0 MB
+[runlim] sample:		309.9 seconds, 145.2 MB
+[runlim] sample:		319.9 seconds, 145.7 MB
+[runlim] sample:		329.9 seconds, 145.6 MB
+[runlim] sample:		339.9 seconds, 145.1 MB
+[runlim] sample:		349.9 seconds, 144.5 MB
+[runlim] sample:		359.9 seconds, 144.1 MB
+[runlim] sample:		369.9 seconds, 145.1 MB
+[runlim] sample:		379.9 seconds, 146.2 MB
+[runlim] sample:		389.9 seconds, 146.1 MB
+[runlim] sample:		399.9 seconds, 145.5 MB
+[runlim] sample:		409.9 seconds, 147.6 MB
+[runlim] sample:		419.9 seconds, 147.1 MB
+[runlim] sample:		429.9 seconds, 147.1 MB
+[runlim] sample:		439.9 seconds, 171.9 MB
+[runlim] sample:		449.9 seconds, 171.9 MB
+[runlim] sample:		459.9 seconds, 175.3 MB
+[runlim] sample:		469.9 seconds, 166.1 MB
+[runlim] sample:		479.9 seconds, 173.8 MB
+[runlim] sample:		489.9 seconds, 176.1 MB
+[runlim] sample:		499.9 seconds, 177.5 MB
+[runlim] sample:		509.9 seconds, 177.5 MB
+[runlim] sample:		519.9 seconds, 177.5 MB
+[runlim] sample:		529.9 seconds, 182.7 MB
+[runlim] sample:		539.9 seconds, 182.7 MB
+[runlim] sample:		549.9 seconds, 182.7 MB
+[runlim] sample:		559.9 seconds, 173.0 MB
+[runlim] sample:		569.9 seconds, 188.9 MB
+[runlim] sample:		579.9 seconds, 204.2 MB
+[runlim] sample:		589.9 seconds, 204.3 MB
+[runlim] sample:		599.9 seconds, 188.1 MB
+[runlim] sample:		609.9 seconds, 188.1 MB
+[runlim] sample:		619.9 seconds, 188.1 MB
+[runlim] sample:		629.9 seconds, 192.6 MB
+[runlim] sample:		639.9 seconds, 192.6 MB
+[runlim] sample:		649.9 seconds, 192.6 MB
+[runlim] sample:		659.9 seconds, 192.6 MB
+[runlim] sample:		669.9 seconds, 192.6 MB
+[runlim] sample:		679.9 seconds, 201.0 MB
+[runlim] sample:		689.9 seconds, 211.2 MB
+[runlim] sample:		699.9 seconds, 194.2 MB
+[runlim] sample:		709.9 seconds, 194.2 MB
+[runlim] sample:		719.9 seconds, 194.2 MB
+[runlim] sample:		729.9 seconds, 194.2 MB
+[runlim] sample:		739.9 seconds, 194.2 MB
+[runlim] sample:		749.9 seconds, 194.7 MB
+[runlim] sample:		759.9 seconds, 194.7 MB
+[runlim] sample:		769.9 seconds, 194.7 MB
+[runlim] sample:		779.9 seconds, 194.7 MB
+[runlim] sample:		789.9 seconds, 194.7 MB
+[runlim] sample:		799.9 seconds, 194.7 MB
+[runlim] sample:		809.9 seconds, 198.2 MB
+[runlim] sample:		819.9 seconds, 198.2 MB
+[runlim] sample:		829.9 seconds, 198.2 MB
+[runlim] sample:		839.9 seconds, 198.2 MB
+[runlim] sample:		849.9 seconds, 198.2 MB
+[runlim] sample:		859.9 seconds, 196.4 MB
+[runlim] sample:		869.9 seconds, 200.9 MB
+[runlim] sample:		879.9 seconds, 200.4 MB
+[runlim] sample:		889.9 seconds, 200.4 MB
+[runlim] sample:		899.9 seconds, 200.4 MB
+[runlim] sample:		909.9 seconds, 200.4 MB
+[runlim] sample:		919.9 seconds, 200.4 MB
+[runlim] sample:		929.9 seconds, 216.3 MB
+[runlim] sample:		939.9 seconds, 211.1 MB
+[runlim] sample:		949.9 seconds, 211.1 MB
+[runlim] sample:		959.9 seconds, 211.1 MB
+[runlim] sample:		969.9 seconds, 211.1 MB
+[runlim] sample:		979.9 seconds, 211.1 MB
+[runlim] sample:		989.9 seconds, 217.3 MB
+[runlim] sample:		999.9 seconds, 217.3 MB
+[runlim] sample:		1009.9 seconds, 217.3 MB
+[runlim] sample:		1019.9 seconds, 217.3 MB
+[runlim] sample:		1029.9 seconds, 217.3 MB
+[runlim] sample:		1039.9 seconds, 217.3 MB
+[runlim] sample:		1049.9 seconds, 223.8 MB
+[runlim] sample:		1059.9 seconds, 224.0 MB
+[runlim] sample:		1069.9 seconds, 222.9 MB
+[runlim] sample:		1079.9 seconds, 222.9 MB
+[runlim] sample:		1089.9 seconds, 222.9 MB
+[runlim] sample:		1099.9 seconds, 222.9 MB
+[runlim] sample:		1109.9 seconds, 222.9 MB
+[runlim] sample:		1119.9 seconds, 222.9 MB
+[runlim] sample:		1129.9 seconds, 222.9 MB
+[runlim] sample:		1139.9 seconds, 229.9 MB
+[runlim] sample:		1149.9 seconds, 229.9 MB
+[runlim] sample:		1159.9 seconds, 229.9 MB
+[runlim] sample:		1169.9 seconds, 229.9 MB
+[runlim] sample:		1179.9 seconds, 229.9 MB
+[runlim] sample:		1189.9 seconds, 229.9 MB
+[runlim] sample:		1199.9 seconds, 229.9 MB
+[runlim] end:			Thu Aug  8 16:58:21 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.08 seconds
+[runlim] time:			1199.93 seconds
+[runlim] space:			264.7 MB
+[runlim] samples:		12000
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2691.smt2
+[runlim] start:			Thu Aug  8 16:58:21 2019
+[runlim] main pid:		11001
+[runlim] sample:		10.0 seconds, 14.2 MB
+[runlim] sample:		20.0 seconds, 21.0 MB
+[runlim] sample:		30.0 seconds, 25.1 MB
+[runlim] sample:		40.0 seconds, 27.6 MB
+[runlim] sample:		50.0 seconds, 29.7 MB
+[BTOR>check_sat] 55.159543 seconds
+[runlim] end:			Thu Aug  8 16:59:16 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			55.25 seconds
+[runlim] time:			55.09 seconds
+[runlim] space:			29.8 MB
+[runlim] samples:		551
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1016.smt2
+[runlim] start:			Thu Aug  8 16:59:16 2019
+[runlim] main pid:		11007
+[BTOR>check_sat] 4.330653 seconds
+[runlim] end:			Thu Aug  8 16:59:20 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			4.78 seconds
+[runlim] time:			4.48 seconds
+[runlim] space:			49.1 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_3494.smt2
+[runlim] start:			Thu Aug  8 16:59:20 2019
+[runlim] main pid:		11011
+[runlim] sample:		10.0 seconds, 13.3 MB
+[runlim] sample:		20.0 seconds, 19.2 MB
+[runlim] sample:		30.0 seconds, 24.0 MB
+[runlim] sample:		40.0 seconds, 27.0 MB
+[runlim] sample:		50.0 seconds, 27.9 MB
+[runlim] sample:		60.0 seconds, 29.8 MB
+[runlim] sample:		70.0 seconds, 30.3 MB
+[BTOR>check_sat] 75.164236 seconds
+[runlim] end:			Thu Aug  8 17:00:35 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			75.96 seconds
+[runlim] time:			75.09 seconds
+[runlim] space:			30.4 MB
+[runlim] samples:		751
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1633.smt2
+[runlim] start:			Thu Aug  8 17:00:35 2019
+[runlim] main pid:		11017
+[runlim] sample:		10.0 seconds, 14.5 MB
+[runlim] sample:		20.0 seconds, 19.8 MB
+[runlim] sample:		30.0 seconds, 24.2 MB
+[runlim] sample:		40.0 seconds, 27.1 MB
+[runlim] sample:		50.0 seconds, 28.0 MB
+[BTOR>check_sat] 56.017511 seconds
+[runlim] end:			Thu Aug  8 17:01:31 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			56.99 seconds
+[runlim] time:			55.99 seconds
+[runlim] space:			33.8 MB
+[runlim] samples:		560
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4184.smt2
+[runlim] start:			Thu Aug  8 17:01:31 2019
+[runlim] main pid:		11023
+[runlim] sample:		10.0 seconds, 375.1 MB
+[runlim] sample:		20.0 seconds, 386.4 MB
+[runlim] sample:		30.0 seconds, 402.6 MB
+[runlim] sample:		40.0 seconds, 345.9 MB
+[runlim] sample:		50.0 seconds, 380.7 MB
+[runlim] sample:		60.0 seconds, 350.7 MB
+[runlim] sample:		70.0 seconds, 421.4 MB
+[runlim] sample:		80.0 seconds, 421.4 MB
+[runlim] sample:		90.0 seconds, 479.4 MB
+[runlim] sample:		100.0 seconds, 479.4 MB
+[runlim] sample:		110.0 seconds, 479.4 MB
+[runlim] sample:		120.0 seconds, 479.4 MB
+[runlim] sample:		130.0 seconds, 479.4 MB
+[runlim] sample:		140.0 seconds, 479.4 MB
+[runlim] sample:		150.0 seconds, 609.5 MB
+[runlim] sample:		160.0 seconds, 609.5 MB
+[runlim] sample:		170.0 seconds, 525.5 MB
+[runlim] sample:		180.0 seconds, 537.1 MB
+[runlim] sample:		190.0 seconds, 476.6 MB
+[runlim] sample:		200.0 seconds, 446.3 MB
+[runlim] sample:		210.0 seconds, 479.6 MB
+[runlim] sample:		220.0 seconds, 481.6 MB
+[runlim] sample:		230.0 seconds, 447.4 MB
+[runlim] sample:		240.0 seconds, 480.6 MB
+[runlim] sample:		250.0 seconds, 480.6 MB
+[runlim] sample:		260.0 seconds, 483.6 MB
+[runlim] sample:		270.0 seconds, 484.6 MB
+[runlim] sample:		280.0 seconds, 484.6 MB
+[runlim] sample:		290.0 seconds, 484.6 MB
+[runlim] sample:		300.0 seconds, 484.6 MB
+[runlim] sample:		310.0 seconds, 484.6 MB
+[runlim] sample:		320.0 seconds, 484.6 MB
+[runlim] sample:		330.0 seconds, 484.6 MB
+[runlim] sample:		340.0 seconds, 484.6 MB
+[runlim] sample:		350.0 seconds, 388.4 MB
+[runlim] sample:		360.0 seconds, 487.3 MB
+[runlim] sample:		370.0 seconds, 487.3 MB
+[runlim] sample:		380.0 seconds, 389.2 MB
+[runlim] sample:		390.0 seconds, 449.8 MB
+[runlim] sample:		400.0 seconds, 489.2 MB
+[runlim] sample:		410.0 seconds, 489.2 MB
+[runlim] sample:		420.0 seconds, 489.2 MB
+[runlim] sample:		430.0 seconds, 449.6 MB
+[runlim] sample:		440.0 seconds, 463.1 MB
+[runlim] sample:		450.0 seconds, 451.3 MB
+[runlim] sample:		460.0 seconds, 391.6 MB
+[runlim] sample:		470.0 seconds, 493.2 MB
+[runlim] sample:		480.0 seconds, 538.0 MB
+[runlim] sample:		490.0 seconds, 453.7 MB
+[runlim] sample:		500.0 seconds, 495.3 MB
+[runlim] sample:		510.0 seconds, 495.3 MB
+[runlim] sample:		520.0 seconds, 495.3 MB
+[runlim] sample:		530.0 seconds, 454.7 MB
+[runlim] sample:		540.0 seconds, 454.7 MB
+[runlim] sample:		550.0 seconds, 454.7 MB
+[runlim] sample:		560.0 seconds, 456.8 MB
+[runlim] sample:		570.0 seconds, 457.2 MB
+[runlim] sample:		580.0 seconds, 457.2 MB
+[runlim] sample:		590.0 seconds, 523.7 MB
+[runlim] sample:		600.0 seconds, 499.9 MB
+[runlim] sample:		610.0 seconds, 499.9 MB
+[runlim] sample:		620.0 seconds, 499.9 MB
+[runlim] sample:		630.0 seconds, 499.9 MB
+[runlim] sample:		640.0 seconds, 499.9 MB
+[runlim] sample:		650.0 seconds, 499.9 MB
+[runlim] sample:		660.0 seconds, 459.2 MB
+[runlim] sample:		670.0 seconds, 459.2 MB
+[runlim] sample:		680.0 seconds, 491.7 MB
+[runlim] sample:		690.0 seconds, 504.6 MB
+[runlim] sample:		700.0 seconds, 504.6 MB
+[runlim] sample:		710.0 seconds, 504.6 MB
+[runlim] sample:		720.0 seconds, 504.6 MB
+[runlim] sample:		730.0 seconds, 504.6 MB
+[runlim] sample:		740.0 seconds, 504.6 MB
+[runlim] sample:		750.0 seconds, 504.6 MB
+[runlim] sample:		760.0 seconds, 463.2 MB
+[runlim] sample:		770.0 seconds, 463.2 MB
+[runlim] sample:		780.0 seconds, 439.7 MB
+[runlim] sample:		790.0 seconds, 448.9 MB
+[runlim] sample:		800.0 seconds, 465.7 MB
+[runlim] sample:		810.0 seconds, 465.7 MB
+[runlim] sample:		820.0 seconds, 508.6 MB
+[runlim] sample:		830.0 seconds, 508.6 MB
+[runlim] sample:		840.0 seconds, 508.6 MB
+[runlim] sample:		850.0 seconds, 508.6 MB
+[runlim] sample:		860.0 seconds, 508.6 MB
+[runlim] sample:		870.0 seconds, 508.6 MB
+[runlim] sample:		880.0 seconds, 517.7 MB
+[runlim] sample:		890.0 seconds, 466.9 MB
+[runlim] sample:		900.0 seconds, 466.9 MB
+[runlim] sample:		910.0 seconds, 466.9 MB
+[runlim] sample:		920.0 seconds, 469.0 MB
+[runlim] sample:		930.0 seconds, 469.0 MB
+[runlim] sample:		940.0 seconds, 469.0 MB
+[runlim] sample:		950.0 seconds, 469.0 MB
+[runlim] sample:		960.0 seconds, 471.0 MB
+[runlim] sample:		970.0 seconds, 470.7 MB
+[runlim] sample:		980.0 seconds, 470.7 MB
+[runlim] sample:		990.0 seconds, 470.7 MB
+[runlim] sample:		1000.0 seconds, 470.7 MB
+[runlim] sample:		1010.0 seconds, 527.6 MB
+[runlim] sample:		1020.0 seconds, 515.4 MB
+[runlim] sample:		1030.0 seconds, 515.4 MB
+[runlim] sample:		1040.0 seconds, 515.4 MB
+[runlim] sample:		1050.0 seconds, 515.4 MB
+[runlim] sample:		1060.0 seconds, 515.4 MB
+[runlim] sample:		1070.0 seconds, 515.4 MB
+[runlim] sample:		1080.0 seconds, 473.4 MB
+[runlim] sample:		1090.0 seconds, 473.4 MB
+[runlim] sample:		1100.0 seconds, 473.4 MB
+[runlim] sample:		1110.0 seconds, 473.4 MB
+[runlim] sample:		1120.0 seconds, 476.8 MB
+[runlim] sample:		1130.0 seconds, 477.9 MB
+[runlim] sample:		1140.0 seconds, 477.8 MB
+[runlim] sample:		1150.0 seconds, 477.8 MB
+[runlim] sample:		1160.0 seconds, 477.8 MB
+[runlim] sample:		1170.0 seconds, 477.8 MB
+[runlim] sample:		1180.0 seconds, 479.9 MB
+[runlim] sample:		1190.0 seconds, 482.4 MB
+[runlim] end:			Thu Aug  8 17:21:31 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.03 seconds
+[runlim] time:			1198.97 seconds
+[runlim] space:			713.2 MB
+[runlim] samples:		11990
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_12136.smt2
+[runlim] start:			Thu Aug  8 17:21:31 2019
+[runlim] main pid:		11097
+[BTOR>check_sat] 5.507748 seconds
+[runlim] end:			Thu Aug  8 17:21:36 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			5.64 seconds
+[runlim] time:			5.59 seconds
+[runlim] space:			29.0 MB
+[runlim] samples:		56
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2656.smt2
+[runlim] start:			Thu Aug  8 17:21:36 2019
+[runlim] main pid:		11101
+[runlim] sample:		10.0 seconds, 13.5 MB
+[runlim] sample:		20.0 seconds, 18.6 MB
+[runlim] sample:		30.0 seconds, 22.7 MB
+[runlim] sample:		40.0 seconds, 25.8 MB
+[runlim] sample:		50.0 seconds, 26.3 MB
+[runlim] sample:		60.0 seconds, 29.7 MB
+[runlim] sample:		70.0 seconds, 33.1 MB
+[runlim] sample:		80.0 seconds, 33.1 MB
+[runlim] sample:		90.0 seconds, 34.0 MB
+[runlim] sample:		100.0 seconds, 34.1 MB
+[BTOR>check_sat] 108.753876 seconds
+[runlim] end:			Thu Aug  8 17:23:25 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			109.41 seconds
+[runlim] time:			108.68 seconds
+[runlim] space:			43.4 MB
+[runlim] samples:		1087
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_15880.smt2
+[runlim] start:			Thu Aug  8 17:23:25 2019
+[runlim] main pid:		11124
+[runlim] sample:		10.0 seconds, 210.1 MB
+[runlim] sample:		20.0 seconds, 229.0 MB
+[runlim] sample:		30.0 seconds, 202.0 MB
+[runlim] sample:		40.0 seconds, 223.9 MB
+[runlim] sample:		50.0 seconds, 244.5 MB
+[BTOR>check_sat] 53.612561 seconds
+[runlim] end:			Thu Aug  8 17:24:19 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			54.26 seconds
+[runlim] time:			53.78 seconds
+[runlim] space:			301.2 MB
+[runlim] samples:		538
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_6488.smt2
+[runlim] start:			Thu Aug  8 17:24:19 2019
+[runlim] main pid:		11129
+[runlim] sample:		9.9 seconds, 67.3 MB
+[runlim] sample:		19.9 seconds, 66.2 MB
+[runlim] sample:		29.9 seconds, 66.7 MB
+[runlim] sample:		40.0 seconds, 66.2 MB
+[runlim] sample:		49.9 seconds, 66.7 MB
+[BTOR>check_sat] 53.797445 seconds
+[runlim] end:			Thu Aug  8 17:25:13 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			54.35 seconds
+[runlim] time:			53.95 seconds
+[runlim] space:			73.4 MB
+[runlim] samples:		540
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4285.smt2
+[runlim] start:			Thu Aug  8 17:25:13 2019
+[runlim] main pid:		11135
+[runlim] sample:		10.0 seconds, 23.1 MB
+[runlim] sample:		20.0 seconds, 23.8 MB
+[runlim] sample:		30.0 seconds, 25.4 MB
+[BTOR>check_sat] 37.232035 seconds
+[runlim] end:			Thu Aug  8 17:25:50 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			37.61 seconds
+[runlim] time:			37.19 seconds
+[runlim] space:			26.6 MB
+[runlim] samples:		372
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_9009.smt2
+[runlim] start:			Thu Aug  8 17:25:50 2019
+[runlim] main pid:		11139
+[runlim] sample:		10.0 seconds, 88.8 MB
+[runlim] sample:		20.0 seconds, 79.4 MB
+[runlim] sample:		30.0 seconds, 82.0 MB
+[runlim] sample:		40.0 seconds, 82.1 MB
+[runlim] sample:		50.0 seconds, 82.1 MB
+[runlim] sample:		60.0 seconds, 84.1 MB
+[runlim] sample:		70.0 seconds, 85.7 MB
+[runlim] sample:		80.0 seconds, 85.8 MB
+[runlim] sample:		90.0 seconds, 86.4 MB
+[runlim] sample:		100.0 seconds, 86.4 MB
+[runlim] sample:		110.0 seconds, 87.5 MB
+[runlim] sample:		120.0 seconds, 87.3 MB
+[runlim] sample:		130.0 seconds, 88.2 MB
+[runlim] sample:		140.0 seconds, 98.3 MB
+[runlim] sample:		150.0 seconds, 99.5 MB
+[runlim] sample:		160.0 seconds, 102.9 MB
+[runlim] sample:		170.0 seconds, 102.9 MB
+[runlim] sample:		180.0 seconds, 107.8 MB
+[runlim] sample:		190.0 seconds, 109.3 MB
+[runlim] sample:		200.0 seconds, 109.3 MB
+[runlim] sample:		210.0 seconds, 109.3 MB
+[runlim] sample:		220.0 seconds, 110.8 MB
+[runlim] sample:		230.0 seconds, 110.8 MB
+[runlim] sample:		240.0 seconds, 110.8 MB
+[runlim] sample:		250.0 seconds, 115.0 MB
+[runlim] sample:		260.0 seconds, 115.0 MB
+[runlim] sample:		270.0 seconds, 115.0 MB
+[runlim] sample:		280.0 seconds, 130.0 MB
+[runlim] sample:		290.0 seconds, 130.0 MB
+[runlim] sample:		300.0 seconds, 130.0 MB
+[runlim] sample:		310.0 seconds, 130.0 MB
+[runlim] sample:		320.0 seconds, 135.5 MB
+[runlim] sample:		330.0 seconds, 135.5 MB
+[runlim] sample:		340.0 seconds, 135.5 MB
+[runlim] sample:		350.0 seconds, 135.5 MB
+[runlim] sample:		360.0 seconds, 137.2 MB
+[runlim] sample:		370.0 seconds, 137.2 MB
+[runlim] sample:		380.0 seconds, 152.1 MB
+[runlim] sample:		390.0 seconds, 151.7 MB
+[runlim] sample:		400.0 seconds, 151.7 MB
+[runlim] sample:		410.0 seconds, 151.7 MB
+[runlim] sample:		420.0 seconds, 151.7 MB
+[runlim] sample:		430.0 seconds, 151.7 MB
+[runlim] sample:		440.0 seconds, 157.3 MB
+[runlim] sample:		450.0 seconds, 157.3 MB
+[BTOR>check_sat] 454.668731 seconds
+[runlim] end:			Thu Aug  8 17:33:25 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			455.37 seconds
+[runlim] time:			454.67 seconds
+[runlim] space:			167.0 MB
+[runlim] samples:		4547
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2065.smt2
+[runlim] start:			Thu Aug  8 17:33:25 2019
+[runlim] main pid:		11157
+[runlim] sample:		10.0 seconds, 14.2 MB
+[runlim] sample:		20.0 seconds, 18.0 MB
+[BTOR>check_sat] 22.547396 seconds
+[runlim] end:			Thu Aug  8 17:33:47 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			22.94 seconds
+[runlim] time:			22.49 seconds
+[runlim] space:			20.5 MB
+[runlim] samples:		225
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_10815.smt2
+[runlim] start:			Thu Aug  8 17:33:47 2019
+[runlim] main pid:		11162
+[runlim] sample:		10.0 seconds, 35.4 MB
+[runlim] sample:		20.0 seconds, 38.9 MB
+[runlim] sample:		30.0 seconds, 40.2 MB
+[runlim] sample:		40.0 seconds, 36.0 MB
+[runlim] sample:		50.0 seconds, 41.0 MB
+[runlim] sample:		60.0 seconds, 42.0 MB
+[runlim] sample:		70.0 seconds, 47.7 MB
+[runlim] sample:		80.0 seconds, 52.7 MB
+[runlim] sample:		90.0 seconds, 54.7 MB
+[runlim] sample:		100.0 seconds, 55.3 MB
+[runlim] sample:		110.0 seconds, 66.0 MB
+[runlim] sample:		120.0 seconds, 67.0 MB
+[runlim] sample:		130.0 seconds, 68.0 MB
+[runlim] sample:		140.0 seconds, 74.8 MB
+[runlim] sample:		150.0 seconds, 75.3 MB
+[runlim] sample:		160.0 seconds, 76.3 MB
+[runlim] sample:		170.0 seconds, 77.1 MB
+[runlim] sample:		180.0 seconds, 78.1 MB
+[runlim] sample:		190.0 seconds, 78.7 MB
+[runlim] sample:		200.0 seconds, 72.5 MB
+[runlim] sample:		210.0 seconds, 83.9 MB
+[runlim] sample:		220.0 seconds, 84.0 MB
+[runlim] sample:		230.0 seconds, 84.7 MB
+[runlim] sample:		240.0 seconds, 85.5 MB
+[BTOR>check_sat] 244.577544 seconds
+[runlim] end:			Thu Aug  8 17:37:52 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			245.56 seconds
+[runlim] time:			244.59 seconds
+[runlim] space:			104.3 MB
+[runlim] samples:		2446
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_8579.smt2
+[runlim] start:			Thu Aug  8 17:37:52 2019
+[runlim] main pid:		11173
+[BTOR>check_sat] 2.754997 seconds
+[runlim] end:			Thu Aug  8 17:37:55 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			3.40 seconds
+[runlim] time:			2.77 seconds
+[runlim] space:			18.6 MB
+[runlim] samples:		28
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_6926.smt2
+[runlim] start:			Thu Aug  8 17:37:55 2019
+[runlim] main pid:		11177
+[runlim] sample:		9.9 seconds, 23.9 MB
+[runlim] sample:		19.9 seconds, 24.3 MB
+[runlim] sample:		29.9 seconds, 25.5 MB
+[BTOR>check_sat] 33.177715 seconds
+[runlim] end:			Thu Aug  8 17:38:28 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			33.71 seconds
+[runlim] time:			33.25 seconds
+[runlim] space:			29.1 MB
+[runlim] samples:		333
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_17335.smt2
+[runlim] start:			Thu Aug  8 17:38:28 2019
+[runlim] main pid:		11182
+[runlim] sample:		10.0 seconds, 71.9 MB
+[runlim] sample:		20.0 seconds, 65.4 MB
+[runlim] sample:		30.0 seconds, 68.4 MB
+[runlim] sample:		40.0 seconds, 70.3 MB
+[runlim] sample:		50.0 seconds, 70.7 MB
+[runlim] sample:		60.0 seconds, 74.2 MB
+[runlim] sample:		70.0 seconds, 74.6 MB
+[runlim] sample:		80.0 seconds, 74.9 MB
+[runlim] sample:		90.0 seconds, 74.6 MB
+[runlim] sample:		100.0 seconds, 76.1 MB
+[runlim] sample:		110.0 seconds, 76.7 MB
+[runlim] sample:		120.0 seconds, 77.2 MB
+[runlim] sample:		130.0 seconds, 77.2 MB
+[runlim] sample:		140.0 seconds, 78.7 MB
+[runlim] sample:		150.0 seconds, 78.7 MB
+[runlim] sample:		160.0 seconds, 81.0 MB
+[runlim] sample:		170.0 seconds, 80.6 MB
+[runlim] sample:		180.0 seconds, 89.8 MB
+[runlim] sample:		190.0 seconds, 89.8 MB
+[runlim] sample:		200.0 seconds, 91.7 MB
+[runlim] sample:		210.0 seconds, 99.8 MB
+[runlim] sample:		220.0 seconds, 99.8 MB
+[runlim] sample:		230.0 seconds, 100.3 MB
+[runlim] sample:		240.0 seconds, 101.8 MB
+[runlim] sample:		250.0 seconds, 101.8 MB
+[runlim] sample:		260.0 seconds, 104.7 MB
+[runlim] sample:		270.0 seconds, 106.0 MB
+[runlim] sample:		280.0 seconds, 126.9 MB
+[runlim] sample:		290.0 seconds, 126.9 MB
+[runlim] sample:		300.0 seconds, 126.9 MB
+[runlim] sample:		310.0 seconds, 126.9 MB
+[runlim] sample:		320.0 seconds, 135.6 MB
+[runlim] sample:		330.0 seconds, 135.6 MB
+[runlim] sample:		340.0 seconds, 135.6 MB
+[runlim] sample:		350.0 seconds, 135.6 MB
+[runlim] sample:		360.0 seconds, 135.6 MB
+[runlim] sample:		370.0 seconds, 142.6 MB
+[runlim] sample:		380.0 seconds, 142.6 MB
+[runlim] sample:		390.0 seconds, 142.6 MB
+[runlim] sample:		400.0 seconds, 142.6 MB
+[runlim] sample:		410.0 seconds, 125.3 MB
+[runlim] sample:		420.0 seconds, 144.6 MB
+[runlim] sample:		430.0 seconds, 144.4 MB
+[runlim] sample:		440.0 seconds, 144.4 MB
+[BTOR>check_sat] 440.495867 seconds
+[runlim] end:			Thu Aug  8 17:45:49 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			441.26 seconds
+[runlim] time:			440.48 seconds
+[runlim] space:			168.5 MB
+[runlim] samples:		4405
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_10378.smt2
+[runlim] start:			Thu Aug  8 17:45:49 2019
+[runlim] main pid:		11209
+[BTOR>check_sat] 1.695842 seconds
+[runlim] end:			Thu Aug  8 17:45:51 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			2.39 seconds
+[runlim] time:			2.08 seconds
+[runlim] space:			53.6 MB
+[runlim] samples:		21
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5270.smt2
+[runlim] start:			Thu Aug  8 17:45:51 2019
+[runlim] main pid:		11214
+[BTOR>check_sat] 2.780743 seconds
+[runlim] end:			Thu Aug  8 17:45:54 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			3.28 seconds
+[runlim] time:			2.75 seconds
+[runlim] space:			17.4 MB
+[runlim] samples:		28
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2930.smt2
+[runlim] start:			Thu Aug  8 17:45:54 2019
+[runlim] main pid:		11218
+[runlim] sample:		10.0 seconds, 14.4 MB
+[runlim] sample:		20.0 seconds, 19.2 MB
+[runlim] sample:		30.0 seconds, 21.2 MB
+[BTOR>check_sat] 36.961962 seconds
+[runlim] end:			Thu Aug  8 17:46:31 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			37.26 seconds
+[runlim] time:			36.89 seconds
+[runlim] space:			29.3 MB
+[runlim] samples:		369
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_14872.smt2
+[runlim] start:			Thu Aug  8 17:46:31 2019
+[runlim] main pid:		11224
+[runlim] sample:		10.0 seconds, 238.9 MB
+[runlim] sample:		20.0 seconds, 239.7 MB
+[runlim] sample:		30.0 seconds, 241.2 MB
+[runlim] sample:		40.0 seconds, 257.6 MB
+[runlim] sample:		50.0 seconds, 257.2 MB
+[runlim] sample:		60.0 seconds, 253.2 MB
+[runlim] sample:		70.0 seconds, 254.6 MB
+[runlim] sample:		80.0 seconds, 254.6 MB
+[runlim] sample:		90.0 seconds, 227.0 MB
+[runlim] sample:		100.0 seconds, 257.6 MB
+[runlim] sample:		110.0 seconds, 257.6 MB
+[runlim] sample:		120.0 seconds, 257.6 MB
+[runlim] sample:		130.0 seconds, 259.1 MB
+[runlim] sample:		140.0 seconds, 259.1 MB
+[runlim] sample:		150.0 seconds, 259.1 MB
+[runlim] sample:		160.0 seconds, 258.3 MB
+[runlim] sample:		170.0 seconds, 242.9 MB
+[runlim] sample:		180.0 seconds, 260.8 MB
+[runlim] sample:		190.0 seconds, 300.4 MB
+[runlim] sample:		200.0 seconds, 262.3 MB
+[runlim] sample:		210.0 seconds, 262.3 MB
+[runlim] sample:		220.0 seconds, 262.3 MB
+[runlim] sample:		230.0 seconds, 261.8 MB
+[runlim] sample:		240.0 seconds, 263.2 MB
+[runlim] sample:		250.0 seconds, 263.3 MB
+[runlim] sample:		260.0 seconds, 263.3 MB
+[runlim] sample:		270.0 seconds, 265.7 MB
+[runlim] sample:		280.0 seconds, 265.7 MB
+[runlim] sample:		290.0 seconds, 265.7 MB
+[runlim] sample:		300.0 seconds, 265.2 MB
+[runlim] sample:		310.0 seconds, 265.2 MB
+[runlim] sample:		320.0 seconds, 232.0 MB
+[runlim] sample:		330.0 seconds, 266.8 MB
+[runlim] sample:		340.0 seconds, 266.8 MB
+[runlim] sample:		350.0 seconds, 266.8 MB
+[runlim] sample:		360.0 seconds, 266.8 MB
+[runlim] sample:		370.0 seconds, 266.8 MB
+[runlim] sample:		380.0 seconds, 269.4 MB
+[runlim] sample:		390.0 seconds, 268.9 MB
+[runlim] sample:		400.0 seconds, 268.9 MB
+[runlim] sample:		410.0 seconds, 268.9 MB
+[runlim] sample:		420.0 seconds, 268.9 MB
+[runlim] sample:		430.0 seconds, 272.8 MB
+[runlim] sample:		440.0 seconds, 272.8 MB
+[runlim] sample:		450.0 seconds, 272.8 MB
+[runlim] sample:		460.0 seconds, 272.8 MB
+[runlim] sample:		470.0 seconds, 272.8 MB
+[runlim] sample:		480.0 seconds, 272.8 MB
+[runlim] sample:		490.0 seconds, 260.4 MB
+[runlim] sample:		500.0 seconds, 299.1 MB
+[runlim] sample:		510.0 seconds, 299.1 MB
+[runlim] sample:		520.0 seconds, 299.1 MB
+[runlim] sample:		530.0 seconds, 299.1 MB
+[runlim] sample:		540.0 seconds, 299.1 MB
+[runlim] sample:		550.0 seconds, 299.1 MB
+[runlim] sample:		560.0 seconds, 299.1 MB
+[runlim] sample:		570.0 seconds, 299.1 MB
+[runlim] sample:		580.0 seconds, 261.5 MB
+[runlim] sample:		590.0 seconds, 302.7 MB
+[runlim] sample:		600.0 seconds, 302.7 MB
+[runlim] sample:		610.0 seconds, 302.7 MB
+[runlim] sample:		620.0 seconds, 302.7 MB
+[runlim] sample:		630.0 seconds, 302.7 MB
+[runlim] sample:		640.0 seconds, 302.7 MB
+[runlim] sample:		650.0 seconds, 302.7 MB
+[runlim] sample:		660.0 seconds, 302.7 MB
+[runlim] sample:		670.0 seconds, 302.7 MB
+[runlim] sample:		680.0 seconds, 302.7 MB
+[runlim] sample:		690.0 seconds, 302.7 MB
+[runlim] sample:		700.0 seconds, 302.7 MB
+[runlim] sample:		710.0 seconds, 302.7 MB
+[runlim] sample:		720.0 seconds, 308.6 MB
+[runlim] sample:		730.0 seconds, 352.8 MB
+[runlim] sample:		740.0 seconds, 302.7 MB
+[runlim] sample:		750.0 seconds, 302.7 MB
+[runlim] sample:		760.0 seconds, 302.7 MB
+[runlim] sample:		770.0 seconds, 302.7 MB
+[runlim] sample:		780.0 seconds, 302.7 MB
+[runlim] sample:		790.0 seconds, 302.7 MB
+[runlim] sample:		800.0 seconds, 302.7 MB
+[runlim] sample:		810.0 seconds, 302.7 MB
+[runlim] sample:		820.0 seconds, 302.7 MB
+[runlim] sample:		830.0 seconds, 262.9 MB
+[runlim] sample:		840.0 seconds, 305.5 MB
+[runlim] sample:		850.0 seconds, 305.5 MB
+[runlim] sample:		860.0 seconds, 305.5 MB
+[runlim] sample:		870.0 seconds, 305.5 MB
+[runlim] sample:		880.0 seconds, 305.5 MB
+[runlim] sample:		890.0 seconds, 305.5 MB
+[runlim] sample:		900.0 seconds, 305.5 MB
+[runlim] sample:		910.0 seconds, 305.5 MB
+[runlim] sample:		920.0 seconds, 305.5 MB
+[runlim] sample:		930.0 seconds, 305.5 MB
+[runlim] sample:		940.0 seconds, 305.5 MB
+[runlim] sample:		950.0 seconds, 305.5 MB
+[runlim] sample:		960.0 seconds, 305.5 MB
+[runlim] sample:		970.0 seconds, 305.5 MB
+[runlim] sample:		980.0 seconds, 305.5 MB
+[runlim] sample:		990.0 seconds, 305.5 MB
+[runlim] sample:		1000.0 seconds, 336.2 MB
+[runlim] sample:		1010.0 seconds, 311.7 MB
+[runlim] sample:		1020.0 seconds, 311.7 MB
+[runlim] sample:		1030.0 seconds, 311.7 MB
+[runlim] sample:		1040.0 seconds, 311.7 MB
+[runlim] sample:		1050.0 seconds, 311.7 MB
+[runlim] sample:		1060.0 seconds, 311.7 MB
+[runlim] sample:		1070.0 seconds, 311.7 MB
+[runlim] sample:		1080.0 seconds, 311.7 MB
+[runlim] sample:		1090.0 seconds, 311.7 MB
+[runlim] sample:		1100.0 seconds, 311.7 MB
+[runlim] sample:		1110.0 seconds, 311.7 MB
+[runlim] sample:		1120.0 seconds, 311.7 MB
+[runlim] sample:		1130.0 seconds, 311.7 MB
+[runlim] sample:		1140.0 seconds, 311.7 MB
+[runlim] sample:		1150.0 seconds, 311.7 MB
+[runlim] sample:		1160.0 seconds, 311.7 MB
+[runlim] sample:		1170.0 seconds, 317.3 MB
+[runlim] sample:		1180.0 seconds, 340.8 MB
+[runlim] sample:		1190.0 seconds, 340.8 MB
+[runlim] end:			Thu Aug  8 18:06:31 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.08 seconds
+[runlim] time:			1199.78 seconds
+[runlim] space:			387.2 MB
+[runlim] samples:		11998
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5223.smt2
+[runlim] start:			Thu Aug  8 18:06:31 2019
+[runlim] main pid:		11267
+[runlim] sample:		10.0 seconds, 13.7 MB
+[runlim] sample:		20.0 seconds, 18.5 MB
+[runlim] sample:		30.0 seconds, 22.4 MB
+[runlim] sample:		40.0 seconds, 25.4 MB
+[runlim] sample:		50.0 seconds, 27.4 MB
+[runlim] sample:		60.0 seconds, 28.3 MB
+[runlim] sample:		70.0 seconds, 32.1 MB
+[runlim] sample:		80.0 seconds, 32.9 MB
+[runlim] sample:		90.0 seconds, 33.4 MB
+[BTOR>check_sat] 97.399388 seconds
+[runlim] end:			Thu Aug  8 18:08:08 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			97.52 seconds
+[runlim] time:			97.38 seconds
+[runlim] space:			37.5 MB
+[runlim] samples:		974
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_12297.smt2
+[runlim] start:			Thu Aug  8 18:08:08 2019
+[runlim] main pid:		11273
+[runlim] sample:		10.0 seconds, 86.3 MB
+[runlim] sample:		20.0 seconds, 71.0 MB
+[runlim] sample:		30.0 seconds, 74.0 MB
+[runlim] sample:		40.0 seconds, 73.6 MB
+[runlim] sample:		50.0 seconds, 74.0 MB
+[runlim] sample:		60.0 seconds, 74.5 MB
+[runlim] sample:		70.0 seconds, 74.5 MB
+[runlim] sample:		80.0 seconds, 67.8 MB
+[runlim] sample:		90.0 seconds, 68.2 MB
+[runlim] sample:		100.0 seconds, 76.4 MB
+[runlim] sample:		110.0 seconds, 76.9 MB
+[runlim] sample:		120.0 seconds, 76.9 MB
+[runlim] sample:		130.0 seconds, 96.9 MB
+[runlim] sample:		140.0 seconds, 96.5 MB
+[runlim] sample:		150.0 seconds, 97.8 MB
+[runlim] sample:		160.0 seconds, 105.1 MB
+[runlim] sample:		170.0 seconds, 104.8 MB
+[runlim] sample:		180.0 seconds, 107.4 MB
+[runlim] sample:		190.0 seconds, 106.5 MB
+[runlim] sample:		200.0 seconds, 106.5 MB
+[runlim] sample:		210.0 seconds, 116.0 MB
+[runlim] sample:		220.0 seconds, 141.5 MB
+[runlim] sample:		230.0 seconds, 126.8 MB
+[runlim] sample:		240.0 seconds, 126.9 MB
+[runlim] sample:		250.0 seconds, 126.8 MB
+[runlim] sample:		260.0 seconds, 139.9 MB
+[runlim] sample:		270.0 seconds, 144.0 MB
+[runlim] sample:		280.0 seconds, 143.5 MB
+[runlim] sample:		290.0 seconds, 144.5 MB
+[runlim] sample:		300.0 seconds, 144.4 MB
+[runlim] sample:		310.0 seconds, 152.4 MB
+[runlim] sample:		320.0 seconds, 152.4 MB
+[runlim] sample:		330.0 seconds, 153.4 MB
+[runlim] sample:		340.0 seconds, 152.9 MB
+[runlim] sample:		350.0 seconds, 152.9 MB
+[runlim] sample:		360.0 seconds, 154.5 MB
+[runlim] sample:		370.0 seconds, 154.5 MB
+[runlim] sample:		380.0 seconds, 155.4 MB
+[runlim] sample:		390.0 seconds, 155.4 MB
+[runlim] sample:		400.0 seconds, 140.4 MB
+[runlim] sample:		410.0 seconds, 156.5 MB
+[runlim] sample:		420.0 seconds, 156.5 MB
+[runlim] sample:		430.0 seconds, 165.3 MB
+[runlim] sample:		440.0 seconds, 165.3 MB
+[runlim] sample:		450.0 seconds, 165.3 MB
+[runlim] sample:		460.0 seconds, 165.3 MB
+[runlim] sample:		470.0 seconds, 167.3 MB
+[runlim] sample:		480.0 seconds, 167.3 MB
+[runlim] sample:		490.0 seconds, 167.3 MB
+[runlim] sample:		500.0 seconds, 169.4 MB
+[runlim] sample:		510.0 seconds, 169.4 MB
+[runlim] sample:		520.0 seconds, 169.4 MB
+[runlim] sample:		530.0 seconds, 169.4 MB
+[runlim] sample:		540.0 seconds, 170.0 MB
+[runlim] sample:		550.0 seconds, 170.0 MB
+[runlim] sample:		560.0 seconds, 170.0 MB
+[BTOR>check_sat] 566.810082 seconds
+[runlim] end:			Thu Aug  8 18:17:35 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			567.50 seconds
+[runlim] time:			566.88 seconds
+[runlim] space:			170.3 MB
+[runlim] samples:		5669
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1073.smt2
+[runlim] start:			Thu Aug  8 18:17:35 2019
+[runlim] main pid:		11300
+[BTOR>check_sat] 2.670895 seconds
+[runlim] end:			Thu Aug  8 18:17:38 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			3.26 seconds
+[runlim] time:			2.69 seconds
+[runlim] space:			32.1 MB
+[runlim] samples:		27
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4400.smt2
+[runlim] start:			Thu Aug  8 18:17:38 2019
+[runlim] main pid:		11304
+[BTOR>check_sat] 3.699953 seconds
+[runlim] end:			Thu Aug  8 18:17:47 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			9.16 seconds
+[runlim] time:			8.89 seconds
+[runlim] space:			146.0 MB
+[runlim] samples:		89
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_887.smt2
+[runlim] start:			Thu Aug  8 18:17:47 2019
+[runlim] main pid:		11308
+[runlim] sample:		10.0 seconds, 85.2 MB
+[runlim] sample:		20.0 seconds, 74.3 MB
+[runlim] sample:		30.0 seconds, 76.7 MB
+[runlim] sample:		40.0 seconds, 76.3 MB
+[runlim] sample:		50.0 seconds, 78.9 MB
+[runlim] sample:		60.0 seconds, 78.9 MB
+[runlim] sample:		70.0 seconds, 79.4 MB
+[runlim] sample:		80.0 seconds, 78.9 MB
+[runlim] sample:		90.0 seconds, 79.8 MB
+[BTOR>check_sat] 96.180029 seconds
+[runlim] end:			Thu Aug  8 18:19:23 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			96.42 seconds
+[runlim] time:			96.18 seconds
+[runlim] space:			85.2 MB
+[runlim] samples:		962
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_15397.smt2
+[runlim] start:			Thu Aug  8 18:19:23 2019
+[runlim] main pid:		11314
+[runlim] sample:		10.0 seconds, 39.1 MB
+[runlim] sample:		20.0 seconds, 40.6 MB
+[runlim] sample:		30.0 seconds, 40.6 MB
+[runlim] sample:		40.0 seconds, 40.9 MB
+[runlim] sample:		50.0 seconds, 42.2 MB
+[runlim] sample:		60.0 seconds, 43.0 MB
+[runlim] sample:		70.0 seconds, 44.3 MB
+[runlim] sample:		80.0 seconds, 45.2 MB
+[runlim] sample:		90.0 seconds, 49.8 MB
+[runlim] sample:		100.0 seconds, 59.9 MB
+[runlim] sample:		110.0 seconds, 61.4 MB
+[runlim] sample:		120.0 seconds, 64.5 MB
+[runlim] sample:		130.0 seconds, 69.1 MB
+[runlim] sample:		140.0 seconds, 70.8 MB
+[runlim] sample:		150.0 seconds, 71.4 MB
+[runlim] sample:		160.0 seconds, 81.8 MB
+[runlim] sample:		170.0 seconds, 84.3 MB
+[runlim] sample:		180.0 seconds, 85.8 MB
+[runlim] sample:		190.0 seconds, 86.9 MB
+[runlim] sample:		200.0 seconds, 73.4 MB
+[runlim] sample:		210.0 seconds, 100.8 MB
+[BTOR>check_sat] 209.587652 seconds
+[runlim] end:			Thu Aug  8 18:22:53 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			210.82 seconds
+[runlim] time:			210.28 seconds
+[runlim] space:			102.9 MB
+[runlim] samples:		2103
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_11351.smt2
+[runlim] start:			Thu Aug  8 18:22:53 2019
+[runlim] main pid:		11325
+[BTOR>check_sat] 4.874199 seconds
+[runlim] end:			Thu Aug  8 18:22:58 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			5.78 seconds
+[runlim] time:			4.88 seconds
+[runlim] space:			22.1 MB
+[runlim] samples:		49
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5463.smt2
+[runlim] start:			Thu Aug  8 18:22:58 2019
+[runlim] main pid:		11329
+[runlim] sample:		10.0 seconds, 14.3 MB
+[runlim] sample:		20.0 seconds, 19.0 MB
+[BTOR>check_sat] 21.936261 seconds
+[runlim] end:			Thu Aug  8 18:23:20 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			22.73 seconds
+[runlim] time:			21.89 seconds
+[runlim] space:			19.3 MB
+[runlim] samples:		219
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1726.smt2
+[runlim] start:			Thu Aug  8 18:23:20 2019
+[runlim] main pid:		11333
+[runlim] sample:		10.0 seconds, 14.5 MB
+[runlim] sample:		20.0 seconds, 21.8 MB
+[runlim] sample:		30.0 seconds, 25.8 MB
+[runlim] sample:		40.0 seconds, 28.5 MB
+[runlim] sample:		50.0 seconds, 29.3 MB
+[runlim] sample:		60.0 seconds, 29.9 MB
+[BTOR>check_sat] 68.062120 seconds
+[runlim] end:			Thu Aug  8 18:24:28 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			68.81 seconds
+[runlim] time:			68.00 seconds
+[runlim] space:			31.3 MB
+[runlim] samples:		680
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_1109.smt2
+[runlim] start:			Thu Aug  8 18:24:28 2019
+[runlim] main pid:		11347
+[runlim] sample:		10.0 seconds, 15.1 MB
+[runlim] sample:		20.0 seconds, 18.6 MB
+[runlim] sample:		30.0 seconds, 24.7 MB
+[runlim] sample:		40.0 seconds, 25.3 MB
+[runlim] sample:		50.0 seconds, 27.3 MB
+[runlim] sample:		60.0 seconds, 27.6 MB
+[BTOR>check_sat] 69.261235 seconds
+[runlim] end:			Thu Aug  8 18:25:38 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			70.09 seconds
+[runlim] time:			69.19 seconds
+[runlim] space:			33.7 MB
+[runlim] samples:		692
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_14955.smt2
+[runlim] start:			Thu Aug  8 18:25:38 2019
+[runlim] main pid:		11365
+[runlim] sample:		10.0 seconds, 111.4 MB
+[runlim] sample:		20.0 seconds, 125.4 MB
+[runlim] sample:		30.0 seconds, 125.8 MB
+[runlim] sample:		40.0 seconds, 125.8 MB
+[runlim] sample:		50.0 seconds, 125.4 MB
+[runlim] sample:		60.0 seconds, 124.7 MB
+[runlim] sample:		70.0 seconds, 125.4 MB
+[runlim] sample:		80.0 seconds, 124.8 MB
+[runlim] sample:		90.0 seconds, 111.7 MB
+[runlim] sample:		100.0 seconds, 123.4 MB
+[runlim] sample:		110.0 seconds, 122.7 MB
+[runlim] sample:		120.0 seconds, 122.2 MB
+[BTOR>check_sat] 125.615536 seconds
+[runlim] end:			Thu Aug  8 18:27:43 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			125.95 seconds
+[runlim] time:			125.78 seconds
+[runlim] space:			153.7 MB
+[runlim] samples:		1258
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2217.smt2
+[runlim] start:			Thu Aug  8 18:27:43 2019
+[runlim] main pid:		11374
+[runlim] sample:		10.0 seconds, 12.8 MB
+[runlim] sample:		20.0 seconds, 20.1 MB
+[BTOR>check_sat] 25.053517 seconds
+[runlim] end:			Thu Aug  8 18:28:09 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			26.01 seconds
+[runlim] time:			24.99 seconds
+[runlim] space:			20.9 MB
+[runlim] samples:		250
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2530.smt2
+[runlim] start:			Thu Aug  8 18:28:09 2019
+[runlim] main pid:		11378
+[runlim] sample:		10.0 seconds, 14.3 MB
+[runlim] sample:		20.0 seconds, 17.8 MB
+[runlim] sample:		30.0 seconds, 23.4 MB
+[runlim] sample:		40.0 seconds, 26.2 MB
+[runlim] sample:		50.0 seconds, 30.2 MB
+[runlim] sample:		60.0 seconds, 31.1 MB
+[runlim] sample:		70.0 seconds, 33.4 MB
+[runlim] sample:		80.0 seconds, 33.9 MB
+[runlim] sample:		90.0 seconds, 34.4 MB
+[runlim] sample:		100.0 seconds, 34.9 MB
+[BTOR>check_sat] 100.909731 seconds
+[runlim] end:			Thu Aug  8 18:29:49 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			100.94 seconds
+[runlim] time:			100.89 seconds
+[runlim] space:			40.5 MB
+[runlim] samples:		1009
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2523.smt2
+[runlim] start:			Thu Aug  8 18:29:49 2019
+[runlim] main pid:		11386
+[runlim] sample:		10.0 seconds, 15.5 MB
+[runlim] sample:		20.0 seconds, 16.6 MB
+[runlim] sample:		30.0 seconds, 22.3 MB
+[runlim] sample:		40.0 seconds, 26.4 MB
+[BTOR>check_sat] 43.746833 seconds
+[runlim] end:			Thu Aug  8 18:30:33 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			44.71 seconds
+[runlim] time:			43.69 seconds
+[runlim] space:			26.5 MB
+[runlim] samples:		437
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5164.smt2
+[runlim] start:			Thu Aug  8 18:30:33 2019
+[runlim] main pid:		11394
+[runlim] sample:		10.0 seconds, 13.0 MB
+[runlim] sample:		20.0 seconds, 17.6 MB
+[BTOR>check_sat] 28.103678 seconds
+[runlim] end:			Thu Aug  8 18:31:01 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			28.84 seconds
+[runlim] time:			28.07 seconds
+[runlim] space:			19.9 MB
+[runlim] samples:		281
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_5284.smt2
+[runlim] start:			Thu Aug  8 18:31:01 2019
+[runlim] main pid:		11400
+[runlim] sample:		10.0 seconds, 13.3 MB
+[runlim] sample:		20.0 seconds, 17.2 MB
+[runlim] sample:		30.0 seconds, 20.8 MB
+[runlim] sample:		40.0 seconds, 21.4 MB
+[runlim] sample:		50.0 seconds, 25.6 MB
+[runlim] sample:		60.0 seconds, 26.5 MB
+[runlim] sample:		70.0 seconds, 26.6 MB
+[runlim] sample:		80.0 seconds, 30.0 MB
+[BTOR>check_sat] 85.678974 seconds
+[runlim] end:			Thu Aug  8 18:32:27 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			86.55 seconds
+[runlim] time:			85.67 seconds
+[runlim] space:			37.3 MB
+[runlim] samples:		857
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_9398.smt2
+[runlim] start:			Thu Aug  8 18:32:27 2019
+[runlim] main pid:		11410
+[runlim] sample:		10.0 seconds, 170.6 MB
+[runlim] sample:		20.0 seconds, 139.2 MB
+[runlim] sample:		30.0 seconds, 138.5 MB
+[BTOR>check_sat] 35.260419 seconds
+[runlim] end:			Thu Aug  8 18:33:03 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			36.42 seconds
+[runlim] time:			35.76 seconds
+[runlim] space:			170.9 MB
+[runlim] samples:		358
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_4411.smt2
+[runlim] start:			Thu Aug  8 18:33:03 2019
+[runlim] main pid:		11414
+[runlim] sample:		10.0 seconds, 109.7 MB
+[runlim] sample:		20.0 seconds, 89.2 MB
+[runlim] sample:		30.0 seconds, 98.0 MB
+[runlim] sample:		40.0 seconds, 96.9 MB
+[runlim] sample:		50.0 seconds, 95.9 MB
+[runlim] sample:		60.0 seconds, 97.8 MB
+[runlim] sample:		70.0 seconds, 97.4 MB
+[runlim] sample:		80.0 seconds, 96.8 MB
+[runlim] sample:		90.0 seconds, 96.8 MB
+[runlim] sample:		100.0 seconds, 96.2 MB
+[runlim] sample:		110.0 seconds, 95.9 MB
+[runlim] sample:		120.0 seconds, 95.9 MB
+[runlim] sample:		130.0 seconds, 95.1 MB
+[runlim] sample:		140.0 seconds, 94.6 MB
+[runlim] sample:		150.0 seconds, 93.2 MB
+[runlim] sample:		160.0 seconds, 93.2 MB
+[runlim] sample:		170.0 seconds, 86.9 MB
+[runlim] sample:		180.0 seconds, 95.2 MB
+[runlim] sample:		190.0 seconds, 95.8 MB
+[runlim] sample:		200.0 seconds, 95.6 MB
+[runlim] sample:		210.0 seconds, 96.6 MB
+[runlim] sample:		220.0 seconds, 99.2 MB
+[runlim] sample:		230.0 seconds, 115.2 MB
+[runlim] sample:		240.0 seconds, 115.2 MB
+[runlim] sample:		250.0 seconds, 124.0 MB
+[runlim] sample:		260.0 seconds, 135.9 MB
+[runlim] sample:		270.0 seconds, 144.2 MB
+[runlim] sample:		280.0 seconds, 143.8 MB
+[runlim] sample:		290.0 seconds, 145.4 MB
+[runlim] sample:		300.0 seconds, 145.4 MB
+[runlim] sample:		310.0 seconds, 145.4 MB
+[runlim] sample:		320.0 seconds, 154.5 MB
+[runlim] sample:		330.0 seconds, 154.5 MB
+[runlim] sample:		340.0 seconds, 154.5 MB
+[runlim] sample:		350.0 seconds, 154.5 MB
+[runlim] sample:		360.0 seconds, 156.6 MB
+[runlim] sample:		370.0 seconds, 183.9 MB
+[runlim] sample:		380.0 seconds, 184.7 MB
+[runlim] sample:		390.0 seconds, 187.0 MB
+[runlim] sample:		400.0 seconds, 188.0 MB
+[runlim] sample:		410.0 seconds, 189.5 MB
+[runlim] sample:		420.0 seconds, 190.2 MB
+[runlim] sample:		430.0 seconds, 193.1 MB
+[runlim] sample:		440.0 seconds, 194.1 MB
+[runlim] sample:		450.0 seconds, 194.8 MB
+[runlim] sample:		460.0 seconds, 195.8 MB
+[runlim] sample:		470.0 seconds, 199.2 MB
+[runlim] sample:		480.0 seconds, 199.9 MB
+[runlim] sample:		490.0 seconds, 200.7 MB
+[runlim] sample:		500.0 seconds, 202.3 MB
+[runlim] sample:		510.0 seconds, 204.6 MB
+[runlim] sample:		520.0 seconds, 205.6 MB
+[runlim] sample:		530.0 seconds, 206.6 MB
+[runlim] sample:		540.0 seconds, 246.2 MB
+[runlim] sample:		550.0 seconds, 169.0 MB
+[runlim] sample:		560.0 seconds, 210.9 MB
+[runlim] sample:		570.0 seconds, 211.3 MB
+[runlim] sample:		580.0 seconds, 212.2 MB
+[runlim] sample:		590.0 seconds, 254.1 MB
+[runlim] sample:		600.0 seconds, 255.2 MB
+[runlim] sample:		610.0 seconds, 193.8 MB
+[runlim] sample:		620.0 seconds, 216.6 MB
+[runlim] sample:		630.0 seconds, 217.5 MB
+[runlim] sample:		640.0 seconds, 218.1 MB
+[runlim] sample:		650.0 seconds, 262.6 MB
+[runlim] sample:		660.0 seconds, 263.2 MB
+[runlim] sample:		670.0 seconds, 222.7 MB
+[runlim] sample:		680.0 seconds, 223.2 MB
+[runlim] sample:		690.0 seconds, 224.2 MB
+[runlim] sample:		700.0 seconds, 225.2 MB
+[runlim] sample:		710.0 seconds, 271.8 MB
+[runlim] sample:		720.0 seconds, 272.7 MB
+[runlim] sample:		730.0 seconds, 201.0 MB
+[runlim] sample:		740.0 seconds, 228.3 MB
+[runlim] sample:		750.0 seconds, 228.7 MB
+[runlim] sample:		760.0 seconds, 229.2 MB
+[runlim] sample:		770.0 seconds, 230.1 MB
+[runlim] sample:		780.0 seconds, 277.9 MB
+[runlim] sample:		790.0 seconds, 250.0 MB
+[runlim] sample:		800.0 seconds, 279.1 MB
+[runlim] sample:		810.0 seconds, 234.9 MB
+[runlim] sample:		820.0 seconds, 235.2 MB
+[runlim] sample:		830.0 seconds, 236.1 MB
+[runlim] sample:		840.0 seconds, 286.1 MB
+[runlim] sample:		850.0 seconds, 256.6 MB
+[runlim] sample:		860.0 seconds, 287.4 MB
+[runlim] sample:		870.0 seconds, 287.9 MB
+[runlim] sample:		880.0 seconds, 288.4 MB
+[runlim] sample:		890.0 seconds, 242.4 MB
+[runlim] sample:		900.0 seconds, 242.9 MB
+[runlim] sample:		910.0 seconds, 243.4 MB
+[runlim] sample:		920.0 seconds, 297.0 MB
+[runlim] sample:		930.0 seconds, 297.0 MB
+[runlim] sample:		940.0 seconds, 272.5 MB
+[runlim] sample:		950.0 seconds, 298.5 MB
+[runlim] sample:		960.0 seconds, 299.0 MB
+[runlim] sample:		970.0 seconds, 299.0 MB
+[runlim] sample:		980.0 seconds, 248.6 MB
+[runlim] sample:		990.0 seconds, 249.1 MB
+[runlim] sample:		1000.0 seconds, 276.7 MB
+[runlim] sample:		1010.0 seconds, 305.5 MB
+[runlim] sample:		1020.0 seconds, 305.9 MB
+[runlim] sample:		1030.0 seconds, 306.4 MB
+[runlim] sample:		1040.0 seconds, 306.9 MB
+[runlim] sample:		1050.0 seconds, 307.3 MB
+[runlim] sample:		1060.0 seconds, 307.8 MB
+[runlim] sample:		1070.0 seconds, 219.7 MB
+[runlim] sample:		1080.0 seconds, 255.1 MB
+[runlim] sample:		1090.0 seconds, 255.3 MB
+[runlim] sample:		1100.0 seconds, 255.8 MB
+[runlim] sample:		1110.0 seconds, 256.3 MB
+[runlim] sample:		1120.0 seconds, 314.3 MB
+[runlim] sample:		1130.0 seconds, 314.6 MB
+[runlim] sample:		1140.0 seconds, 315.1 MB
+[runlim] sample:		1150.0 seconds, 315.6 MB
+[runlim] sample:		1160.0 seconds, 316.1 MB
+[runlim] sample:		1170.0 seconds, 316.6 MB
+[runlim] sample:		1180.0 seconds, 316.6 MB
+[runlim] sample:		1190.0 seconds, 262.7 MB
+[runlim] end:			Thu Aug  8 18:53:03 2019
+[runlim] status:		out of time
+[runlim] result:		1
+[runlim] children:		0
+[runlim] real:			1200.05 seconds
+[runlim] time:			1199.57 seconds
+[runlim] space:			316.6 MB
+[runlim] samples:		11996
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_7717.smt2
+[runlim] start:			Thu Aug  8 18:53:03 2019
+[runlim] main pid:		11464
+[runlim] sample:		10.0 seconds, 23.7 MB
+[runlim] sample:		20.0 seconds, 27.7 MB
+[runlim] sample:		30.0 seconds, 29.0 MB
+[runlim] sample:		40.0 seconds, 30.7 MB
+[runlim] sample:		50.0 seconds, 37.1 MB
+[runlim] sample:		60.0 seconds, 46.0 MB
+[runlim] sample:		70.0 seconds, 46.4 MB
+[runlim] sample:		80.0 seconds, 48.1 MB
+[runlim] sample:		90.0 seconds, 59.7 MB
+[runlim] sample:		100.0 seconds, 50.0 MB
+[runlim] sample:		110.0 seconds, 56.7 MB
+[runlim] sample:		120.0 seconds, 60.8 MB
+[runlim] sample:		130.0 seconds, 76.4 MB
+[runlim] sample:		140.0 seconds, 71.5 MB
+[runlim] sample:		150.0 seconds, 72.5 MB
+[runlim] sample:		160.0 seconds, 73.1 MB
+[runlim] sample:		170.0 seconds, 91.0 MB
+[runlim] sample:		180.0 seconds, 115.3 MB
+[runlim] sample:		190.0 seconds, 98.2 MB
+[runlim] sample:		200.0 seconds, 100.1 MB
+[runlim] sample:		210.0 seconds, 101.9 MB
+[runlim] sample:		220.0 seconds, 102.5 MB
+[runlim] sample:		230.0 seconds, 104.0 MB
+[runlim] sample:		240.0 seconds, 106.3 MB
+[runlim] sample:		250.0 seconds, 129.6 MB
+[runlim] sample:		260.0 seconds, 109.6 MB
+[runlim] sample:		270.0 seconds, 133.7 MB
+[runlim] sample:		280.0 seconds, 96.7 MB
+[runlim] sample:		290.0 seconds, 136.6 MB
+[runlim] sample:		300.0 seconds, 113.9 MB
+[runlim] sample:		310.0 seconds, 139.1 MB
+[runlim] sample:		320.0 seconds, 116.2 MB
+[runlim] sample:		330.0 seconds, 142.0 MB
+[runlim] sample:		340.0 seconds, 123.5 MB
+[runlim] sample:		350.0 seconds, 150.5 MB
+[runlim] sample:		360.0 seconds, 152.7 MB
+[runlim] sample:		370.0 seconds, 153.7 MB
+[runlim] sample:		380.0 seconds, 127.8 MB
+[runlim] sample:		390.0 seconds, 128.3 MB
+[runlim] sample:		400.0 seconds, 131.7 MB
+[runlim] sample:		410.0 seconds, 161.5 MB
+[runlim] sample:		420.0 seconds, 163.7 MB
+[runlim] sample:		430.0 seconds, 135.5 MB
+[runlim] sample:		440.0 seconds, 136.0 MB
+[runlim] sample:		450.0 seconds, 166.9 MB
+[runlim] sample:		460.0 seconds, 137.8 MB
+[BTOR>check_sat] 460.979867 seconds
+[runlim] end:			Thu Aug  8 19:00:44 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			461.14 seconds
+[runlim] time:			460.96 seconds
+[runlim] space:			201.2 MB
+[runlim] samples:		4610
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_2675.smt2
+[runlim] start:			Thu Aug  8 19:00:44 2019
+[runlim] main pid:		11493
+[runlim] sample:		10.0 seconds, 13.3 MB
+[runlim] sample:		20.0 seconds, 19.0 MB
+[runlim] sample:		30.0 seconds, 24.9 MB
+[runlim] sample:		40.0 seconds, 28.9 MB
+[runlim] sample:		50.0 seconds, 31.2 MB
+[runlim] sample:		60.0 seconds, 31.4 MB
+[runlim] sample:		70.0 seconds, 34.8 MB
+[runlim] sample:		80.0 seconds, 37.6 MB
+[runlim] sample:		90.0 seconds, 38.0 MB
+[runlim] sample:		100.0 seconds, 38.1 MB
+[BTOR>check_sat] 105.390716 seconds
+[runlim] end:			Thu Aug  8 19:02:29 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			105.57 seconds
+[runlim] time:			105.37 seconds
+[runlim] space:			46.8 MB
+[runlim] samples:		1054
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/Sage2/bench_16125.smt2
+[runlim] start:			Thu Aug  8 19:02:29 2019
+[runlim] main pid:		11509
+[BTOR>check_sat] 6.334134 seconds
+[runlim] end:			Thu Aug  8 19:02:35 2019
+[runlim] status:		ok
+[runlim] result:		10
+[runlim] children:		0
+[runlim] real:			6.99 seconds
+[runlim] time:			6.39 seconds
+[runlim] space:			87.5 MB
+[runlim] samples:		64
