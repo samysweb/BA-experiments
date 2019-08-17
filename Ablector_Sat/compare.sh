@@ -16,3 +16,8 @@ then
     buildHist Ablector_Mul/sat/2019-08-10T18:49+02:00 MulNode 2 3
     buildHist Ablector_Mul/sat/2019-08-10T18:49+02:00 SdivNode 2 3
 fi
+
+if newDir results/sat/sdiv-ufReuse1-ufReuseInf
+then
+    compare ufReuse1 Ablector_Mul/sat/2019-08-10T18:49+02:00 2 ufReuseInf Ablector_Mul/sat/2019-07-22T10:04+02:00 2 real time satpart
+fi
