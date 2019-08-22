@@ -29,7 +29,7 @@ if [ `hostname` = "hal9000" ]; then
     # Number of parallel tasks
     PAR_NUM=1
     # Additional arguments for ablector
-    ARGS="--ufReuse=10"
+    ARGS="--ufReuse=0"
 else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
@@ -51,5 +51,5 @@ else
     CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
     PAR_NUM=1
     # Additional arguments for ablector
-    ARGS="--ufReuse=1"
+    ARGS="--ufReuse=0"
 fi
