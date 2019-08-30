@@ -24,6 +24,11 @@ function compare {
         $DIR/plot_new.sh $F2.csv $F1.csv $1 | gnuplot
         mv $F2-vs-$F1.png $F2-vs-$F1-$1.png
         mv $F2-vs-$F1.csv $F2-vs-$F1-$1.csv
+        if [ "$1" = "satpart" ]; then
+            $DIR/plot_new_big.sh $F2.csv $F1.csv $1 | gnuplot
+            mv $F2-vs-$F1-big.png $F2-vs-$F1-$1-big.png
+            mv $F2-vs-$F1-big.csv $F2-vs-$F1-$1-big.csv
+        fi
         shift
     done
     return 0
@@ -31,6 +36,6 @@ function compare {
 
 function buildHist {
     python $DIR/histData.py $3 $4 $DIR/../Logs/$1 $2 level-$2.csv bit-$2.csv
-    $DIR/plot_hist.sh 3 level-$2.csv | gnuplot
-    $DIR/plot_hist.sh 3 bit-$2.csv | gnuplot
+    $DIR/plot_hist.sh 3 level-$2.csv level | gnuplot
+    $DIR/plot_hist.sh 3 bit-$2.csv intervals | gnuplot
 }
