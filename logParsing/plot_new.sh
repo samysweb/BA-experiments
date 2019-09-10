@@ -58,6 +58,9 @@ echo "set ylabel '$title2 of $t2'"
 echo "set xrange [$offset:$scale_border]"
 echo "set yrange [$offset:$scale_border]"
 
+echo 'set xtics ("10⁻⁶" 1, "10⁻⁵" 10, "10⁻⁴" 100, "10⁻³" 1000, "0.01" 10000, "0.1" 100000, "1" 1000000, "10" 10000000, "100" 100000000, "1000" 1000000000)'
+echo 'set ytics ("10⁻⁶" 1, "10⁻⁵" 10, "10⁻⁴" 100, "10⁻³" 1000, "0.01" 10000, "0.1" 100000, "1" 1000000, "10" 10000000, "100" 100000000, "1000" 1000000000)'
+
 echo "set style line 1 lt 1 lw 1 lc rgb '#fbb252'"
 
 echo "plot xout ls 1 notitle"
