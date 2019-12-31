@@ -17,7 +17,7 @@ if [ `hostname` = "hal9000" ]; then
     # List of benchmarks to run (paths relative to BENCHMARK_PATH)
     BENCHMARK_LIST="all"
     # Directory for log writing
-    LOG_DIR=`pwd`"/logs/Ablector_Mul/sat/"`date -Iminutes`
+    LOG_DIR_BASE=`pwd`"/logs/Ablector_Mul/sat/"
     # Binary which should be executed
     BIN="python3 "`pwd`"/../../Work/Software/ablector/ablector"
     # Path to GNU parallel executable
@@ -30,6 +30,8 @@ if [ `hostname` = "hal9000" ]; then
     PAR_NUM=1
     # Additional arguments for ablector
     ARGS="--ufReuse=0"
+    #Temporary directory for files
+    TMP_DIR="//home/steuber/Dokumente/Hortus/Univ/KIT/Semester-8/BA/tmp"
 else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul_sat" #TODO
@@ -38,7 +40,7 @@ else
     # Path to folder containing all software packages potentially used
     SOFTWARE_PATH="/raid/steuber/Software"
     # Directory for log writing
-    LOG_DIR="/raid/steuber/Logs/Ablector_Mul/sat/"`date -Iminutes`"/"
+    LOG_DIR_BASE="/raid/steuber/Logs/Ablector_Mul/sat/"
     # Binary which should be executed
     BIN="python3 /raid/steuber/Software/ablector/ablector"
     # Path to GNU parallel executable
@@ -52,4 +54,6 @@ else
     PAR_NUM=1
     # Additional arguments for ablector
     ARGS="--ufReuse=0"
+    #Temporary directory for files
+    TMP_DIR="/raid/steuber/tmp"
 fi
