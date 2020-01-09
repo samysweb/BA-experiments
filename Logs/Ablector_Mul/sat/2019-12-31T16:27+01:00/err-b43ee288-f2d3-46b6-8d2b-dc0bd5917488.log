@@ -1,0 +1,4838 @@
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18764.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:10:11 2020
+[runlim] main pid:		18984
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[runlim] sample:		10.0 seconds, 147.2 MB
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 4
+[SdivNode] INFO: Level 3 - Bit 4
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 15.701183
+[Ablector] INFO: SAT TIME: 15.690182
+[Ablector] INFO: REF TIME: 0.263833
+[runlim] end:			Thu Jan  2 21:10:27 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			16.82 seconds
+[runlim] time:			16.37 seconds
+[runlim] space:			161.0 MB
+[runlim] samples:		164
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17891.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:10:28 2020
+[runlim] main pid:		19004
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		9.9 seconds, 128.1 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 9.833121
+[Ablector] INFO: SAT TIME: 9.823766
+[Ablector] INFO: REF TIME: 0.139118
+[runlim] end:			Thu Jan  2 21:10:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.21 seconds
+[runlim] time:			10.48 seconds
+[runlim] space:			152.6 MB
+[runlim] samples:		106
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18516.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:10:39 2020
+[runlim] main pid:		19027
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 192.0 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		19.9 seconds, 254.5 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[runlim] sample:		29.9 seconds, 256.4 MB
+[runlim] sample:		39.9 seconds, 256.2 MB
+[runlim] sample:		49.9 seconds, 256.7 MB
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		59.9 seconds, 269.8 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[runlim] sample:		69.9 seconds, 282.2 MB
+[runlim] sample:		79.9 seconds, 282.2 MB
+[Ablector] INFO: *** ROUND 11 - 0
+[runlim] sample:		89.9 seconds, 282.3 MB
+[Ablector] INFO: *** ROUND 12 - 0
+[runlim] sample:		99.9 seconds, 281.4 MB
+[runlim] sample:		109.9 seconds, 281.4 MB
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[runlim] sample:		119.9 seconds, 281.8 MB
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[runlim] sample:		129.9 seconds, 291.2 MB
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[Ablector] INFO: *** ROUND 20 - 0
+[runlim] sample:		139.9 seconds, 291.7 MB
+[Ablector] INFO: *** ROUND 21 - 0
+[runlim] sample:		149.9 seconds, 291.7 MB
+[runlim] sample:		159.9 seconds, 313.5 MB
+[runlim] sample:		169.9 seconds, 313.5 MB
+[Ablector] INFO: *** ROUND 22 - 0
+[SdivNode] INFO: Level 3 - Bit 9
+[MulNode] INFO: Level 3 - Bit 7
+[SdivNode] INFO: Level 3 - Bit 5
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 3 - Bit 8
+[MulNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 10
+[SdivNode] INFO: Level 3 - Bit 7
+[MulNode] INFO: Level 3 - Bit 11
+[SdivNode] INFO: Level 3 - Bit 5
+[Ablector] INFO: ABLECTOR TIME: 177.957039
+[Ablector] INFO: SAT TIME: 177.941810
+[Ablector] INFO: REF TIME: 0.437488
+[runlim] end:			Thu Jan  2 21:13:38 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			179.80 seconds
+[runlim] time:			178.72 seconds
+[runlim] space:			355.4 MB
+[runlim] samples:		1788
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18499.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:13:39 2020
+[runlim] main pid:		19083
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.8 seconds, 136.3 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 3 - Bit 10
+[SdivNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 15.459474
+[Ablector] INFO: SAT TIME: 15.448068
+[Ablector] INFO: REF TIME: 0.193245
+[runlim] end:			Thu Jan  2 21:13:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			16.84 seconds
+[runlim] time:			16.04 seconds
+[runlim] space:			145.1 MB
+[runlim] samples:		162
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17905.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:13:56 2020
+[runlim] main pid:		19103
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 132.1 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[runlim] sample:		20.0 seconds, 229.9 MB
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		30.0 seconds, 256.2 MB
+[runlim] sample:		40.0 seconds, 256.2 MB
+[runlim] sample:		50.0 seconds, 258.1 MB
+[runlim] sample:		60.0 seconds, 258.1 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[runlim] sample:		70.0 seconds, 263.9 MB
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 4
+[MulNode] INFO: Level 3 - Bit 4
+[SdivNode] INFO: Level 3 - Bit 3
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 71.489101
+[Ablector] INFO: SAT TIME: 71.476956
+[Ablector] INFO: REF TIME: 0.286388
+[runlim] end:			Thu Jan  2 21:15:08 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			72.78 seconds
+[runlim] time:			72.18 seconds
+[runlim] space:			297.2 MB
+[runlim] samples:		722
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18510.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:15:09 2020
+[runlim] main pid:		19131
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 134.5 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		20.0 seconds, 182.0 MB
+[runlim] sample:		30.0 seconds, 186.6 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[runlim] sample:		40.0 seconds, 170.0 MB
+[runlim] sample:		50.0 seconds, 189.8 MB
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 2
+[SdivNode] INFO: Level 3 - Bit 2
+[MulNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 6
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 53.987122
+[Ablector] INFO: SAT TIME: 53.976458
+[Ablector] INFO: REF TIME: 0.277013
+[runlim] end:			Thu Jan  2 21:16:04 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			55.42 seconds
+[runlim] time:			54.78 seconds
+[runlim] space:			199.7 MB
+[runlim] samples:		548
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17897.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:16:05 2020
+[runlim] main pid:		19155
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 137.9 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		19.9 seconds, 226.2 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		29.9 seconds, 252.9 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[runlim] sample:		39.9 seconds, 268.6 MB
+[runlim] sample:		49.9 seconds, 268.6 MB
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[runlim] sample:		59.9 seconds, 270.3 MB
+[Ablector] INFO: *** ROUND 12 - 0
+[runlim] sample:		69.9 seconds, 270.0 MB
+[runlim] sample:		79.9 seconds, 270.0 MB
+[runlim] sample:		89.9 seconds, 270.0 MB
+[runlim] sample:		99.9 seconds, 269.3 MB
+[runlim] sample:		109.9 seconds, 269.2 MB
+[runlim] sample:		119.9 seconds, 269.2 MB
+[runlim] sample:		129.9 seconds, 240.8 MB
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[runlim] sample:		139.9 seconds, 269.4 MB
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[SdivNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 9
+[SdivNode] INFO: Level 3 - Bit 7
+[SdivNode] INFO: Level 3 - Bit 7
+[MulNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 143.255619
+[Ablector] INFO: SAT TIME: 143.244206
+[Ablector] INFO: REF TIME: 0.309926
+[runlim] end:			Thu Jan  2 21:18:29 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			144.20 seconds
+[runlim] time:			143.87 seconds
+[runlim] space:			304.6 MB
+[runlim] samples:		1440
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18198.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:18:30 2020
+[runlim] main pid:		19209
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 130.4 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		20.0 seconds, 204.6 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 2
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 3
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 2
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 27.311379
+[Ablector] INFO: SAT TIME: 27.300034
+[Ablector] INFO: REF TIME: 0.282205
+[runlim] end:			Thu Jan  2 21:18:58 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			28.20 seconds
+[runlim] time:			28.12 seconds
+[runlim] space:			241.4 MB
+[runlim] samples:		281
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18517.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:18:58 2020
+[runlim] main pid:		19231
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.8 seconds, 192.3 MB
+[runlim] sample:		19.8 seconds, 183.1 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[runlim] sample:		29.8 seconds, 202.5 MB
+[runlim] sample:		39.8 seconds, 225.9 MB
+[runlim] sample:		49.8 seconds, 225.3 MB
+[Ablector] INFO: *** ROUND 18 - 0
+[runlim] sample:		59.8 seconds, 237.0 MB
+[runlim] sample:		69.8 seconds, 237.0 MB
+[Ablector] INFO: *** ROUND 19 - 0
+[runlim] sample:		79.8 seconds, 216.4 MB
+[Ablector] INFO: *** ROUND 20 - 0
+[runlim] sample:		89.8 seconds, 244.5 MB
+[runlim] sample:		99.8 seconds, 244.1 MB
+[runlim] sample:		109.8 seconds, 244.1 MB
+[Ablector] INFO: *** ROUND 21 - 0
+[Ablector] INFO: *** ROUND 22 - 0
+[runlim] sample:		119.8 seconds, 247.9 MB
+[Ablector] INFO: *** ROUND 23 - 0
+[Ablector] INFO: *** ROUND 24 - 0
+[Ablector] INFO: *** ROUND 25 - 0
+[runlim] sample:		129.8 seconds, 266.4 MB
+[Ablector] INFO: *** ROUND 26 - 0
+[Ablector] INFO: *** ROUND 27 - 0
+[Ablector] INFO: *** ROUND 28 - 0
+[SdivNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 5
+[SdivNode] INFO: Level 3 - Bit 4
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 3 - Bit 2
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 16
+[MulNode] INFO: Level 3 - Bit 4
+[MulNode] INFO: Level 3 - Bit 17
+[SdivNode] INFO: Level 3 - Bit 14
+[MulNode] INFO: Level 3 - Bit 16
+[SdivNode] INFO: Level 3 - Bit 3
+[Ablector] INFO: ABLECTOR TIME: 132.689641
+[Ablector] INFO: SAT TIME: 132.674432
+[Ablector] INFO: REF TIME: 0.460422
+[runlim] end:			Thu Jan  2 21:21:12 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			134.53 seconds
+[runlim] time:			133.34 seconds
+[runlim] space:			278.0 MB
+[runlim] samples:		1335
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17911.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:21:13 2020
+[runlim] main pid:		19263
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 193.9 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[runlim] sample:		20.0 seconds, 244.6 MB
+[runlim] sample:		30.0 seconds, 278.6 MB
+[Ablector] INFO: *** ROUND 6 - 0
+[runlim] sample:		40.0 seconds, 278.0 MB
+[runlim] sample:		50.0 seconds, 279.4 MB
+[runlim] sample:		60.0 seconds, 279.4 MB
+[runlim] sample:		70.0 seconds, 324.7 MB
+[Ablector] INFO: *** ROUND 7 - 0
+[runlim] sample:		80.0 seconds, 306.4 MB
+[runlim] sample:		90.0 seconds, 311.7 MB
+[runlim] sample:		100.0 seconds, 311.7 MB
+[runlim] sample:		110.0 seconds, 271.8 MB
+[runlim] sample:		120.0 seconds, 310.4 MB
+[runlim] sample:		130.0 seconds, 271.8 MB
+[runlim] sample:		140.0 seconds, 310.3 MB
+[runlim] sample:		150.0 seconds, 310.3 MB
+[runlim] sample:		160.0 seconds, 312.2 MB
+[runlim] sample:		170.0 seconds, 313.6 MB
+[runlim] sample:		180.0 seconds, 313.6 MB
+[runlim] sample:		190.0 seconds, 313.6 MB
+[runlim] sample:		200.0 seconds, 313.6 MB
+[runlim] sample:		210.0 seconds, 313.7 MB
+[runlim] sample:		220.0 seconds, 318.4 MB
+[runlim] sample:		230.0 seconds, 319.2 MB
+[runlim] sample:		240.0 seconds, 319.2 MB
+[runlim] sample:		250.0 seconds, 319.2 MB
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		260.0 seconds, 318.9 MB
+[runlim] sample:		270.0 seconds, 318.9 MB
+[runlim] sample:		280.0 seconds, 318.9 MB
+[runlim] sample:		290.0 seconds, 318.7 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[runlim] sample:		300.0 seconds, 319.5 MB
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[runlim] sample:		310.0 seconds, 319.5 MB
+[runlim] sample:		320.0 seconds, 323.4 MB
+[runlim] sample:		330.0 seconds, 297.6 MB
+[runlim] sample:		340.0 seconds, 309.8 MB
+[runlim] sample:		350.0 seconds, 309.9 MB
+[runlim] sample:		360.0 seconds, 313.0 MB
+[runlim] sample:		370.0 seconds, 329.7 MB
+[runlim] sample:		380.0 seconds, 329.7 MB
+[runlim] sample:		390.0 seconds, 320.9 MB
+[runlim] sample:		400.0 seconds, 320.9 MB
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[SdivNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 4
+[MulNode] INFO: Level 3 - Bit 7
+[SdivNode] INFO: Level 3 - Bit 6
+[SdivNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 3 - Bit 11
+[MulNode] INFO: Level 3 - Bit 8
+[SdivNode] INFO: Level 3 - Bit 3
+[SdivNode] INFO: Level 3 - Bit 6
+[Ablector] INFO: ABLECTOR TIME: 408.363834
+[Ablector] INFO: SAT TIME: 408.348829
+[Ablector] INFO: REF TIME: 0.431721
+[runlim] end:			Thu Jan  2 21:28:02 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			409.63 seconds
+[runlim] time:			409.16 seconds
+[runlim] space:			388.4 MB
+[runlim] samples:		4092
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18177.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:28:03 2020
+[runlim] main pid:		19313
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 127.3 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		19.9 seconds, 158.7 MB
+[Ablector] INFO: *** ROUND 3 - 1
+[runlim] sample:		29.9 seconds, 176.8 MB
+[runlim] sample:		39.9 seconds, 179.3 MB
+[runlim] sample:		49.9 seconds, 179.3 MB
+[runlim] sample:		59.9 seconds, 179.3 MB
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[runlim] sample:		69.9 seconds, 182.6 MB
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		79.9 seconds, 235.7 MB
+[runlim] sample:		89.9 seconds, 233.9 MB
+[runlim] sample:		99.9 seconds, 234.0 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[runlim] sample:		109.9 seconds, 234.4 MB
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[SdivNode] INFO: Level 3 - Bit 4
+[MulNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 7
+[Ablector] INFO: ABLECTOR TIME: 116.593511
+[Ablector] INFO: SAT TIME: 116.584190
+[Ablector] INFO: REF TIME: 0.218740
+[runlim] end:			Thu Jan  2 21:30:00 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			117.80 seconds
+[runlim] time:			117.21 seconds
+[runlim] space:			235.7 MB
+[runlim] samples:		1173
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17915.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:30:01 2020
+[runlim] main pid:		19342
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.8 seconds, 200.7 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[runlim] sample:		19.8 seconds, 276.5 MB
+[runlim] sample:		29.8 seconds, 281.7 MB
+[Ablector] INFO: *** ROUND 12 - 0
+[runlim] sample:		39.8 seconds, 251.3 MB
+[runlim] sample:		49.8 seconds, 286.1 MB
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[runlim] sample:		59.8 seconds, 302.7 MB
+[Ablector] INFO: *** ROUND 17 - 0
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[SdivNode] INFO: Level 3 - Bit 14
+[MulNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 5
+[SdivNode] INFO: Level 3 - Bit 4
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 2
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 60.667741
+[Ablector] INFO: SAT TIME: 60.652242
+[Ablector] INFO: REF TIME: 0.422254
+[runlim] end:			Thu Jan  2 21:31:03 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			62.43 seconds
+[runlim] time:			61.44 seconds
+[runlim] space:			333.6 MB
+[runlim] samples:		617
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18180.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:31:04 2020
+[runlim] main pid:		19369
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 127.2 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 9.980890
+[Ablector] INFO: SAT TIME: 9.971120
+[Ablector] INFO: REF TIME: 0.131243
+[runlim] end:			Thu Jan  2 21:31:15 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.04 seconds
+[runlim] time:			10.56 seconds
+[runlim] space:			135.1 MB
+[runlim] samples:		107
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17878.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:31:15 2020
+[runlim] main pid:		19389
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 131.0 MB
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 2
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 9.644367
+[Ablector] INFO: SAT TIME: 9.634441
+[Ablector] INFO: REF TIME: 0.146689
+[runlim] end:			Thu Jan  2 21:31:26 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.15 seconds
+[runlim] time:			10.27 seconds
+[runlim] space:			152.6 MB
+[runlim] samples:		103
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18498.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:31:26 2020
+[runlim] main pid:		19409
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[runlim] sample:		10.0 seconds, 136.8 MB
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[runlim] sample:		19.9 seconds, 169.9 MB
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 3 - Bit 3
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 6
+[SdivNode] INFO: Level 0
+[MulNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 20.770845
+[Ablector] INFO: SAT TIME: 20.759262
+[Ablector] INFO: REF TIME: 0.260174
+[runlim] end:			Thu Jan  2 21:31:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			22.40 seconds
+[runlim] time:			21.45 seconds
+[runlim] space:			193.4 MB
+[runlim] samples:		215
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17912.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:31:49 2020
+[runlim] main pid:		19432
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.2 seconds, 200.2 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		20.2 seconds, 292.7 MB
+[runlim] sample:		30.2 seconds, 292.7 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[runlim] sample:		40.2 seconds, 303.3 MB
+[runlim] sample:		50.2 seconds, 305.9 MB
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[runlim] sample:		60.1 seconds, 320.1 MB
+[runlim] sample:		70.2 seconds, 317.8 MB
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		80.2 seconds, 317.4 MB
+[runlim] sample:		90.2 seconds, 317.4 MB
+[runlim] sample:		100.2 seconds, 317.4 MB
+[runlim] sample:		110.2 seconds, 317.6 MB
+[runlim] sample:		120.2 seconds, 317.6 MB
+[runlim] sample:		130.2 seconds, 318.9 MB
+[runlim] sample:		140.2 seconds, 327.0 MB
+[runlim] sample:		150.2 seconds, 327.0 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[SdivNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 5
+[SdivNode] INFO: Level 3 - Bit 3
+[SdivNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 3 - Bit 4
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 4
+[SdivNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 2
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 154.685029
+[Ablector] INFO: SAT TIME: 154.669247
+[Ablector] INFO: REF TIME: 0.413488
+[runlim] end:			Thu Jan  2 21:34:24 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			155.67 seconds
+[runlim] time:			155.65 seconds
+[runlim] space:			373.3 MB
+[runlim] samples:		1555
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17898.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:34:25 2020
+[runlim] main pid:		19465
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.8 seconds, 137.9 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		19.8 seconds, 198.6 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 20.518345
+[Ablector] INFO: SAT TIME: 20.506968
+[Ablector] INFO: REF TIME: 0.271980
+[runlim] end:			Thu Jan  2 21:34:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			21.82 seconds
+[runlim] time:			21.14 seconds
+[runlim] space:			227.7 MB
+[runlim] samples:		213
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17908.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:34:47 2020
+[runlim] main pid:		19488
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 145.9 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		20.0 seconds, 205.4 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 22.317961
+[Ablector] INFO: SAT TIME: 22.306517
+[Ablector] INFO: REF TIME: 0.278996
+[runlim] end:			Thu Jan  2 21:35:10 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			23.56 seconds
+[runlim] time:			23.04 seconds
+[runlim] space:			236.2 MB
+[runlim] samples:		230
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17906.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:35:11 2020
+[runlim] main pid:		19528
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 132.8 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		20.0 seconds, 206.6 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[Ablector] INFO: *** ROUND 20 - 0
+[Ablector] INFO: *** ROUND 21 - 0
+[Ablector] INFO: *** ROUND 22 - 0
+[Ablector] INFO: *** ROUND 23 - 0
+[Ablector] INFO: *** ROUND 24 - 0
+[Ablector] INFO: *** ROUND 25 - 0
+[Ablector] INFO: *** ROUND 26 - 0
+[Ablector] INFO: *** ROUND 27 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 24
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 25.647742
+[Ablector] INFO: SAT TIME: 25.636195
+[Ablector] INFO: REF TIME: 0.324260
+[runlim] end:			Thu Jan  2 21:35:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			26.68 seconds
+[runlim] time:			26.27 seconds
+[runlim] space:			224.1 MB
+[runlim] samples:		263
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18757.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:35:38 2020
+[runlim] main pid:		19571
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[runlim] sample:		9.8 seconds, 124.3 MB
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		19.9 seconds, 138.0 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 2
+[MulNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 26.824777
+[Ablector] INFO: SAT TIME: 26.814619
+[Ablector] INFO: REF TIME: 0.262498
+[runlim] end:			Thu Jan  2 21:36:05 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			27.99 seconds
+[runlim] time:			27.36 seconds
+[runlim] space:			141.3 MB
+[runlim] samples:		275
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18181.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:36:06 2020
+[runlim] main pid:		19594
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.3 seconds, 124.9 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		20.3 seconds, 153.7 MB
+[runlim] sample:		30.3 seconds, 166.7 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		40.3 seconds, 167.2 MB
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 44.394461
+[Ablector] INFO: SAT TIME: 44.384760
+[Ablector] INFO: REF TIME: 0.219896
+[runlim] end:			Thu Jan  2 21:36:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			45.71 seconds
+[runlim] time:			45.32 seconds
+[runlim] space:			169.1 MB
+[runlim] samples:		450
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17896.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:36:52 2020
+[runlim] main pid:		19617
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[runlim] sample:		9.9 seconds, 143.8 MB
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		19.9 seconds, 182.0 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[runlim] sample:		29.9 seconds, 171.7 MB
+[runlim] sample:		39.9 seconds, 190.7 MB
+[runlim] sample:		49.9 seconds, 190.7 MB
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[runlim] sample:		59.9 seconds, 247.4 MB
+[runlim] sample:		69.9 seconds, 272.0 MB
+[runlim] sample:		79.9 seconds, 272.0 MB
+[runlim] sample:		89.9 seconds, 272.0 MB
+[runlim] sample:		99.9 seconds, 268.5 MB
+[runlim] sample:		109.9 seconds, 268.5 MB
+[runlim] sample:		119.9 seconds, 268.1 MB
+[runlim] sample:		129.9 seconds, 268.7 MB
+[runlim] sample:		139.9 seconds, 268.7 MB
+[runlim] sample:		149.9 seconds, 268.7 MB
+[runlim] sample:		159.9 seconds, 268.7 MB
+[Ablector] INFO: *** ROUND 7 - 0
+[runlim] sample:		169.9 seconds, 271.6 MB
+[runlim] sample:		179.9 seconds, 271.6 MB
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		189.9 seconds, 272.0 MB
+[runlim] sample:		199.9 seconds, 272.0 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[runlim] sample:		209.9 seconds, 272.0 MB
+[runlim] sample:		219.9 seconds, 272.0 MB
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[runlim] sample:		229.9 seconds, 272.1 MB
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[SdivNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 7
+[SdivNode] INFO: Level 3 - Bit 5
+[SdivNode] INFO: Level 3 - Bit 7
+[MulNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 2
+[Ablector] INFO: ABLECTOR TIME: 233.396212
+[Ablector] INFO: SAT TIME: 233.384426
+[Ablector] INFO: REF TIME: 0.308406
+[runlim] end:			Thu Jan  2 21:40:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			234.71 seconds
+[runlim] time:			234.13 seconds
+[runlim] space:			311.7 MB
+[runlim] samples:		2342
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18511.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:40:47 2020
+[runlim] main pid:		19655
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.7 seconds, 191.8 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		19.7 seconds, 243.1 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[runlim] sample:		29.7 seconds, 245.7 MB
+[runlim] sample:		39.7 seconds, 273.3 MB
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		49.7 seconds, 280.2 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[runlim] sample:		59.7 seconds, 298.5 MB
+[runlim] sample:		69.7 seconds, 297.6 MB
+[runlim] sample:		79.7 seconds, 297.6 MB
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[runlim] sample:		89.7 seconds, 263.5 MB
+[runlim] sample:		99.7 seconds, 294.3 MB
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[runlim] sample:		109.7 seconds, 294.2 MB
+[runlim] sample:		119.7 seconds, 294.1 MB
+[runlim] sample:		129.7 seconds, 293.8 MB
+[Ablector] INFO: *** ROUND 17 - 0
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[Ablector] INFO: *** ROUND 20 - 0
+[Ablector] INFO: *** ROUND 21 - 0
+[Ablector] INFO: *** ROUND 22 - 0
+[runlim] sample:		139.7 seconds, 294.6 MB
+[Ablector] INFO: *** ROUND 23 - 0
+[Ablector] INFO: *** ROUND 24 - 0
+[Ablector] INFO: *** ROUND 25 - 0
+[runlim] sample:		149.7 seconds, 294.6 MB
+[Ablector] INFO: *** ROUND 26 - 0
+[runlim] sample:		159.7 seconds, 294.0 MB
+[Ablector] INFO: *** ROUND 27 - 0
+[runlim] sample:		169.7 seconds, 300.4 MB
+[Ablector] INFO: *** ROUND 28 - 0
+[Ablector] INFO: *** ROUND 29 - 0
+[Ablector] INFO: *** ROUND 30 - 0
+[Ablector] INFO: *** ROUND 31 - 0
+[runlim] sample:		179.7 seconds, 300.7 MB
+[Ablector] INFO: *** ROUND 32 - 0
+[runlim] sample:		189.7 seconds, 300.7 MB
+[runlim] sample:		199.7 seconds, 313.3 MB
+[runlim] sample:		209.7 seconds, 313.3 MB
+[runlim] sample:		219.7 seconds, 313.5 MB
+[Ablector] INFO: *** ROUND 33 - 0
+[Ablector] INFO: *** ROUND 34 - 0
+[runlim] sample:		229.7 seconds, 313.4 MB
+[runlim] sample:		239.7 seconds, 313.4 MB
+[runlim] sample:		249.7 seconds, 313.4 MB
+[runlim] sample:		259.7 seconds, 313.4 MB
+[Ablector] INFO: *** ROUND 35 - 0
+[runlim] sample:		269.7 seconds, 313.6 MB
+[Ablector] INFO: *** ROUND 36 - 0
+[Ablector] INFO: *** ROUND 37 - 0
+[runlim] sample:		279.7 seconds, 313.6 MB
+[Ablector] INFO: *** ROUND 38 - 0
+[Ablector] INFO: *** ROUND 39 - 0
+[Ablector] INFO: *** ROUND 40 - 0
+[Ablector] INFO: *** ROUND 41 - 0
+[Ablector] INFO: *** ROUND 42 - 0
+[runlim] sample:		289.7 seconds, 313.6 MB
+[Ablector] INFO: *** ROUND 43 - 0
+[runlim] sample:		299.7 seconds, 313.1 MB
+[runlim] sample:		309.7 seconds, 315.1 MB
+[runlim] sample:		319.7 seconds, 315.1 MB
+[Ablector] INFO: *** ROUND 44 - 0
+[Ablector] INFO: *** ROUND 45 - 0
+[Ablector] INFO: *** ROUND 46 - 0
+[runlim] sample:		329.7 seconds, 314.9 MB
+[Ablector] INFO: *** ROUND 47 - 0
+[Ablector] INFO: *** ROUND 48 - 0
+[Ablector] INFO: *** ROUND 49 - 0
+[Ablector] INFO: *** ROUND 50 - 0
+[Ablector] INFO: *** ROUND 51 - 0
+[runlim] sample:		339.7 seconds, 314.9 MB
+[runlim] sample:		349.7 seconds, 314.9 MB
+[Ablector] INFO: *** ROUND 52 - 0
+[Ablector] INFO: *** ROUND 53 - 0
+[runlim] sample:		359.7 seconds, 314.9 MB
+[Ablector] INFO: *** ROUND 54 - 0
+[runlim] sample:		369.7 seconds, 316.6 MB
+[runlim] sample:		379.7 seconds, 316.6 MB
+[runlim] sample:		389.7 seconds, 316.4 MB
+[Ablector] INFO: *** ROUND 55 - 0
+[Ablector] INFO: *** ROUND 56 - 0
+[Ablector] INFO: *** ROUND 57 - 0
+[runlim] sample:		399.7 seconds, 316.9 MB
+[Ablector] INFO: *** ROUND 58 - 0
+[Ablector] INFO: *** ROUND 59 - 0
+[Ablector] INFO: *** ROUND 60 - 0
+[Ablector] INFO: *** ROUND 61 - 0
+[Ablector] INFO: *** ROUND 62 - 0
+[Ablector] INFO: *** ROUND 63 - 0
+[runlim] sample:		409.7 seconds, 316.9 MB
+[Ablector] INFO: *** ROUND 64 - 0
+[SdivNode] INFO: Level 3 - Bit 27
+[MulNode] INFO: Level 3 - Bit 29
+[SdivNode] INFO: Level 3 - Bit 20
+[SdivNode] INFO: Level 3 - Bit 28
+[SdivNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 11
+[SdivNode] INFO: Level 3 - Bit 39
+[MulNode] INFO: Level 3 - Bit 11
+[MulNode] INFO: Level 3 - Bit 42
+[SdivNode] INFO: Level 3 - Bit 49
+[MulNode] INFO: Level 3 - Bit 20
+[SdivNode] INFO: Level 3 - Bit 9
+[Ablector] INFO: ABLECTOR TIME: 417.029883
+[Ablector] INFO: SAT TIME: 417.014572
+[Ablector] INFO: REF TIME: 0.622014
+[runlim] end:			Thu Jan  2 21:47:45 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			418.72 seconds
+[runlim] time:			417.81 seconds
+[runlim] space:			357.0 MB
+[runlim] samples:		4181
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc18506.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:47:46 2020
+[runlim] main pid:		19727
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 135.0 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[runlim] sample:		19.9 seconds, 182.2 MB
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[Ablector] INFO: *** ROUND 20 - 0
+[runlim] sample:		29.9 seconds, 199.6 MB
+[runlim] sample:		39.9 seconds, 201.6 MB
+[runlim] sample:		49.9 seconds, 208.3 MB
+[runlim] sample:		59.9 seconds, 208.6 MB
+[SdivNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 7
+[SdivNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 6
+[SdivNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 2
+[SdivNode] INFO: Level 3 - Bit 2
+[Ablector] INFO: ABLECTOR TIME: 69.088780
+[Ablector] INFO: SAT TIME: 69.077565
+[Ablector] INFO: REF TIME: 0.306812
+[runlim] sample:		69.9 seconds, 0.0 MB
+[runlim] end:			Thu Jan  2 21:48:56 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			70.58 seconds
+[runlim] time:			69.93 seconds
+[runlim] space:			208.9 MB
+[runlim] samples:		700
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17907.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:48:57 2020
+[runlim] main pid:		19753
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 133.0 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		19.9 seconds, 208.0 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[Ablector] INFO: *** ROUND 14 - 0
+[Ablector] INFO: *** ROUND 15 - 0
+[Ablector] INFO: *** ROUND 16 - 0
+[Ablector] INFO: *** ROUND 17 - 0
+[Ablector] INFO: *** ROUND 18 - 0
+[Ablector] INFO: *** ROUND 19 - 0
+[Ablector] INFO: *** ROUND 20 - 0
+[Ablector] INFO: *** ROUND 21 - 0
+[Ablector] INFO: *** ROUND 22 - 0
+[Ablector] INFO: *** ROUND 23 - 0
+[Ablector] INFO: *** ROUND 24 - 0
+[Ablector] INFO: *** ROUND 25 - 0
+[Ablector] INFO: *** ROUND 26 - 0
+[Ablector] INFO: *** ROUND 27 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 24
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 3 - Bit 1
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 25.748394
+[Ablector] INFO: SAT TIME: 25.736559
+[Ablector] INFO: REF TIME: 0.329190
+[runlim] end:			Thu Jan  2 21:49:23 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			26.93 seconds
+[runlim] time:			26.36 seconds
+[runlim] space:			237.8 MB
+[runlim] samples:		265
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/wget_v1.10.2/src_wget_vc17904.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:49:24 2020
+[runlim] main pid:		19794
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		9.9 seconds, 132.0 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[runlim] sample:		19.9 seconds, 186.0 MB
+[Ablector] INFO: *** ROUND 4 - 0
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[Ablector] INFO: *** ROUND 7 - 0
+[Ablector] INFO: *** ROUND 8 - 0
+[runlim] sample:		29.9 seconds, 223.1 MB
+[runlim] sample:		39.9 seconds, 241.2 MB
+[runlim] sample:		49.9 seconds, 241.2 MB
+[runlim] sample:		59.9 seconds, 241.1 MB
+[runlim] sample:		69.9 seconds, 242.4 MB
+[runlim] sample:		79.9 seconds, 242.1 MB
+[Ablector] INFO: *** ROUND 9 - 0
+[Ablector] INFO: *** ROUND 10 - 0
+[Ablector] INFO: *** ROUND 11 - 0
+[Ablector] INFO: *** ROUND 12 - 0
+[Ablector] INFO: *** ROUND 13 - 0
+[SdivNode] INFO: Level 3 - Bit 5
+[MulNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 6
+[SdivNode] INFO: Level 3 - Bit 3
+[SdivNode] INFO: Level 3 - Bit 4
+[MulNode] INFO: Level 3 - Bit 6
+[MulNode] INFO: Level 3 - Bit 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 87.739907
+[Ablector] INFO: SAT TIME: 87.727640
+[Ablector] INFO: REF TIME: 0.295818
+[runlim] end:			Thu Jan  2 21:50:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			89.24 seconds
+[runlim] time:			88.42 seconds
+[runlim] space:			278.9 MB
+[runlim] samples:		885
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc75771.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:50:54 2020
+[runlim] main pid:		19822
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		10.1 seconds, 75.8 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 2
+[Ablector] INFO: ABLECTOR TIME: 11.940966
+[Ablector] INFO: SAT TIME: 11.934692
+[Ablector] INFO: REF TIME: 0.073361
+[runlim] end:			Thu Jan  2 21:51:06 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			12.83 seconds
+[runlim] time:			12.68 seconds
+[runlim] space:			81.0 MB
+[runlim] samples:		126
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc76168.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:51:07 2020
+[runlim] main pid:		19844
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[runlim] sample:		9.9 seconds, 86.2 MB
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 10.182625
+[Ablector] INFO: SAT TIME: 10.174840
+[Ablector] INFO: REF TIME: 0.135763
+[runlim] end:			Thu Jan  2 21:51:18 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.52 seconds
+[runlim] time:			10.80 seconds
+[runlim] space:			91.6 MB
+[runlim] samples:		109
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc76167.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:51:19 2020
+[runlim] main pid:		19864
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 83.9 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 12.972321
+[Ablector] INFO: SAT TIME: 12.964414
+[Ablector] INFO: REF TIME: 0.135431
+[runlim] end:			Thu Jan  2 21:51:32 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			13.81 seconds
+[runlim] time:			13.57 seconds
+[runlim] space:			97.8 MB
+[runlim] samples:		136
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc76752.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:51:33 2020
+[runlim] main pid:		19884
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 8.945994
+[Ablector] INFO: SAT TIME: 8.937557
+[Ablector] INFO: REF TIME: 0.136212
+[runlim] end:			Thu Jan  2 21:51:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.13 seconds
+[runlim] time:			9.72 seconds
+[runlim] space:			96.3 MB
+[runlim] samples:		96
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc76166.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:51:43 2020
+[runlim] main pid:		19904
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.1 seconds, 83.7 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 13.007899
+[Ablector] INFO: SAT TIME: 12.999848
+[Ablector] INFO: REF TIME: 0.132669
+[runlim] end:			Thu Jan  2 21:51:57 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			14.50 seconds
+[runlim] time:			13.70 seconds
+[runlim] space:			103.8 MB
+[runlim] samples:		136
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc75772.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:51:58 2020
+[runlim] main pid:		19927
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		9.9 seconds, 75.7 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 2
+[Ablector] INFO: ABLECTOR TIME: 11.688329
+[Ablector] INFO: SAT TIME: 11.682472
+[Ablector] INFO: REF TIME: 0.071108
+[runlim] end:			Thu Jan  2 21:52:10 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			12.63 seconds
+[runlim] time:			12.17 seconds
+[runlim] space:			76.7 MB
+[runlim] samples:		123
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc76751.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:52:11 2020
+[runlim] main pid:		19948
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 9.021565
+[Ablector] INFO: SAT TIME: 9.012712
+[Ablector] INFO: REF TIME: 0.135788
+[runlim] end:			Thu Jan  2 21:52:21 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.12 seconds
+[runlim] time:			9.60 seconds
+[runlim] space:			96.3 MB
+[runlim] samples:		97
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc75770.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:52:21 2020
+[runlim] main pid:		19968
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[runlim] sample:		10.0 seconds, 75.6 MB
+[Ablector] INFO: *** ROUND 5 - 0
+[Ablector] INFO: *** ROUND 6 - 0
+[SdivNode] INFO: Level 3 - Bit 3
+[MulNode] INFO: Level 3 - Bit 2
+[Ablector] INFO: ABLECTOR TIME: 11.690129
+[Ablector] INFO: SAT TIME: 11.684278
+[Ablector] INFO: REF TIME: 0.069930
+[runlim] end:			Thu Jan  2 21:52:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			13.11 seconds
+[runlim] time:			12.16 seconds
+[runlim] space:			76.7 MB
+[runlim] samples:		122
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/zebra_v0.95a/bgpd_bgpd_vc76753.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:52:34 2020
+[runlim] main pid:		19990
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[Ablector] INFO: *** ROUND 3 - 1
+[Ablector] INFO: *** ROUND 4 - 0
+[SdivNode] INFO: Level 1
+[MulNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[MulNode] INFO: Level 3 - Bit 1
+[Ablector] INFO: ABLECTOR TIME: 9.175141
+[Ablector] INFO: SAT TIME: 9.166457
+[Ablector] INFO: REF TIME: 0.139418
+[runlim] end:			Thu Jan  2 21:52:44 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.63 seconds
+[runlim] time:			9.74 seconds
+[runlim] space:			95.9 MB
+[runlim] samples:		98
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33361.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:52:45 2020
+[runlim] main pid:		20010
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.502613
+[Ablector] INFO: SAT TIME: 3.497521
+[Ablector] INFO: REF TIME: 0.000511
+[runlim] end:			Thu Jan  2 21:52:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.56 seconds
+[runlim] time:			4.17 seconds
+[runlim] space:			78.3 MB
+[runlim] samples:		41
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33153.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:52:50 2020
+[runlim] main pid:		20030
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.277999
+[Ablector] INFO: SAT TIME: 3.273011
+[Ablector] INFO: REF TIME: 0.000525
+[runlim] end:			Thu Jan  2 21:52:54 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.58 seconds
+[runlim] time:			3.92 seconds
+[runlim] space:			71.5 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36634.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:52:55 2020
+[runlim] main pid:		20050
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		9.9 seconds, 117.1 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 12.268481
+[Ablector] INFO: SAT TIME: 12.261337
+[Ablector] INFO: REF TIME: 0.022833
+[runlim] end:			Thu Jan  2 21:53:09 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			14.16 seconds
+[runlim] time:			13.11 seconds
+[runlim] space:			119.4 MB
+[runlim] samples:		138
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24808.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:53:09 2020
+[runlim] main pid:		20071
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.540707
+[Ablector] INFO: SAT TIME: 3.535704
+[Ablector] INFO: REF TIME: 0.000538
+[runlim] end:			Thu Jan  2 21:53:14 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.93 seconds
+[runlim] time:			4.34 seconds
+[runlim] space:			87.3 MB
+[runlim] samples:		49
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21207.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:53:15 2020
+[runlim] main pid:		20092
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.171505
+[Ablector] INFO: SAT TIME: 3.166565
+[Ablector] INFO: REF TIME: 0.000524
+[runlim] end:			Thu Jan  2 21:53:19 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.91 seconds
+[runlim] time:			3.92 seconds
+[runlim] space:			71.2 MB
+[runlim] samples:		42
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33563.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:53:20 2020
+[runlim] main pid:		20114
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[runlim] sample:		10.0 seconds, 99.7 MB
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 12.996243
+[Ablector] INFO: SAT TIME: 12.988270
+[Ablector] INFO: REF TIME: 0.026073
+[runlim] end:			Thu Jan  2 21:53:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			14.41 seconds
+[runlim] time:			13.74 seconds
+[runlim] space:			101.7 MB
+[runlim] samples:		137
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20438.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:53:35 2020
+[runlim] main pid:		20136
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.1 seconds, 110.8 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 10.821346
+[Ablector] INFO: SAT TIME: 10.813540
+[Ablector] INFO: REF TIME: 0.023827
+[runlim] end:			Thu Jan  2 21:53:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.72 seconds
+[runlim] time:			11.59 seconds
+[runlim] space:			114.1 MB
+[runlim] samples:		115
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37249.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:53:47 2020
+[runlim] main pid:		20156
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.584784
+[Ablector] INFO: SAT TIME: 3.579561
+[Ablector] INFO: REF TIME: 0.000514
+[runlim] end:			Thu Jan  2 21:53:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.74 seconds
+[runlim] time:			4.18 seconds
+[runlim] space:			78.6 MB
+[runlim] samples:		42
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20512.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:53:52 2020
+[runlim] main pid:		20176
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 91.2 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 12.266947
+[Ablector] INFO: SAT TIME: 12.260103
+[Ablector] INFO: REF TIME: 0.022131
+[runlim] end:			Thu Jan  2 21:54:05 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			13.53 seconds
+[runlim] time:			12.84 seconds
+[runlim] space:			101.5 MB
+[runlim] samples:		130
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21232.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:54:06 2020
+[runlim] main pid:		20198
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.371102
+[Ablector] INFO: SAT TIME: 3.365989
+[Ablector] INFO: REF TIME: 0.000514
+[runlim] end:			Thu Jan  2 21:54:10 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			4.75 seconds
+[runlim] time:			4.05 seconds
+[runlim] space:			73.7 MB
+[runlim] samples:		44
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21040.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:54:11 2020
+[runlim] main pid:		20218
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 108.4 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 17.010722
+[Ablector] INFO: SAT TIME: 17.002983
+[Ablector] INFO: REF TIME: 0.024936
+[runlim] end:			Thu Jan  2 21:54:29 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			18.47 seconds
+[runlim] time:			17.79 seconds
+[runlim] space:			108.9 MB
+[runlim] samples:		178
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25453.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:54:30 2020
+[runlim] main pid:		20239
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.1 seconds, 110.1 MB
+[runlim] sample:		20.1 seconds, 111.2 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		30.1 seconds, 115.1 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 30.522343
+[Ablector] INFO: SAT TIME: 30.514736
+[Ablector] INFO: REF TIME: 0.024704
+[runlim] end:			Thu Jan  2 21:55:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			31.41 seconds
+[runlim] time:			31.27 seconds
+[runlim] space:			115.2 MB
+[runlim] samples:		312
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21429.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:02 2020
+[runlim] main pid:		20262
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.859380
+[Ablector] INFO: SAT TIME: 6.853313
+[Ablector] INFO: REF TIME: 0.025057
+[runlim] end:			Thu Jan  2 21:55:09 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.66 seconds
+[runlim] time:			7.47 seconds
+[runlim] space:			95.7 MB
+[runlim] samples:		75
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37035.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:10 2020
+[runlim] main pid:		20282
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.442875
+[Ablector] INFO: SAT TIME: 3.437718
+[Ablector] INFO: REF TIME: 0.000525
+[runlim] end:			Thu Jan  2 21:55:14 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.89 seconds
+[runlim] time:			4.24 seconds
+[runlim] space:			80.4 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21650.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:15 2020
+[runlim] main pid:		20302
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.255004
+[Ablector] INFO: SAT TIME: 3.249861
+[Ablector] INFO: REF TIME: 0.000520
+[runlim] end:			Thu Jan  2 21:55:20 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.51 seconds
+[runlim] time:			3.99 seconds
+[runlim] space:			71.3 MB
+[runlim] samples:		47
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33335.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:21 2020
+[runlim] main pid:		20322
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.351444
+[Ablector] INFO: SAT TIME: 3.346327
+[Ablector] INFO: REF TIME: 0.000521
+[runlim] end:			Thu Jan  2 21:55:25 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.87 seconds
+[runlim] time:			3.98 seconds
+[runlim] space:			80.1 MB
+[runlim] samples:		44
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25422.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:26 2020
+[runlim] main pid:		20342
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.298352
+[Ablector] INFO: SAT TIME: 3.293214
+[Ablector] INFO: REF TIME: 0.000531
+[runlim] end:			Thu Jan  2 21:55:31 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			5.01 seconds
+[runlim] time:			3.98 seconds
+[runlim] space:			70.6 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24627.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:31 2020
+[runlim] main pid:		20362
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.792655
+[Ablector] INFO: SAT TIME: 2.788183
+[Ablector] INFO: REF TIME: 0.000460
+[runlim] end:			Thu Jan  2 21:55:35 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.41 seconds
+[runlim] time:			3.41 seconds
+[runlim] space:			68.3 MB
+[runlim] samples:		36
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21447.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:36 2020
+[runlim] main pid:		20384
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.828476
+[Ablector] INFO: SAT TIME: 6.821333
+[Ablector] INFO: REF TIME: 0.022283
+[runlim] end:			Thu Jan  2 21:55:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.71 seconds
+[runlim] time:			7.50 seconds
+[runlim] space:			99.8 MB
+[runlim] samples:		75
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21010.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:44 2020
+[runlim] main pid:		20405
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.722902
+[Ablector] INFO: SAT TIME: 6.716936
+[Ablector] INFO: REF TIME: 0.025170
+[runlim] end:			Thu Jan  2 21:55:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.82 seconds
+[runlim] time:			7.29 seconds
+[runlim] space:			115.5 MB
+[runlim] samples:		73
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33544.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:52 2020
+[runlim] main pid:		20425
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.351982
+[Ablector] INFO: SAT TIME: 3.346935
+[Ablector] INFO: REF TIME: 0.000515
+[runlim] end:			Thu Jan  2 21:55:56 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.57 seconds
+[runlim] time:			3.93 seconds
+[runlim] space:			73.8 MB
+[runlim] samples:		40
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21230.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:55:57 2020
+[runlim] main pid:		20446
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.589977
+[Ablector] INFO: SAT TIME: 3.584118
+[Ablector] INFO: REF TIME: 0.000527
+[runlim] end:			Thu Jan  2 21:56:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.53 seconds
+[runlim] time:			4.31 seconds
+[runlim] space:			74.4 MB
+[runlim] samples:		42
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25445.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:02 2020
+[runlim] main pid:		20466
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 111.3 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		20.0 seconds, 110.8 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 22.022479
+[Ablector] INFO: SAT TIME: 22.015711
+[Ablector] INFO: REF TIME: 0.022843
+[runlim] end:			Thu Jan  2 21:56:25 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			23.01 seconds
+[runlim] time:			22.74 seconds
+[runlim] space:			112.0 MB
+[runlim] samples:		227
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21221.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:25 2020
+[runlim] main pid:		20488
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.233147
+[Ablector] INFO: SAT TIME: 3.228152
+[Ablector] INFO: REF TIME: 0.000548
+[runlim] end:			Thu Jan  2 21:56:30 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.39 seconds
+[runlim] time:			3.94 seconds
+[runlim] space:			71.4 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20427.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:31 2020
+[runlim] main pid:		20508
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.695150
+[Ablector] INFO: SAT TIME: 3.690062
+[Ablector] INFO: REF TIME: 0.000517
+[runlim] end:			Thu Jan  2 21:56:35 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.55 seconds
+[runlim] time:			4.39 seconds
+[runlim] space:			80.3 MB
+[runlim] samples:		44
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21208.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:36 2020
+[runlim] main pid:		20528
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.491798
+[Ablector] INFO: SAT TIME: 3.486807
+[Ablector] INFO: REF TIME: 0.000527
+[runlim] end:			Thu Jan  2 21:56:40 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			4.95 seconds
+[runlim] time:			4.16 seconds
+[runlim] space:			76.2 MB
+[runlim] samples:		46
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21446.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:41 2020
+[runlim] main pid:		20548
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.607644
+[Ablector] INFO: SAT TIME: 3.602443
+[Ablector] INFO: REF TIME: 0.000533
+[runlim] end:			Thu Jan  2 21:56:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			5.12 seconds
+[runlim] time:			4.19 seconds
+[runlim] space:			76.6 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37255.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:46 2020
+[runlim] main pid:		20568
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.548102
+[Ablector] INFO: SAT TIME: 5.541200
+[Ablector] INFO: REF TIME: 0.023035
+[runlim] end:			Thu Jan  2 21:56:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.10 seconds
+[runlim] time:			6.19 seconds
+[runlim] space:			104.0 MB
+[runlim] samples:		62
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37058.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:56:53 2020
+[runlim] main pid:		20589
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		9.9 seconds, 103.8 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 12.042440
+[Ablector] INFO: SAT TIME: 12.034762
+[Ablector] INFO: REF TIME: 0.020120
+[runlim] end:			Thu Jan  2 21:57:06 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			13.56 seconds
+[runlim] time:			12.65 seconds
+[runlim] space:			104.2 MB
+[runlim] samples:		127
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21657.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:07 2020
+[runlim] main pid:		20611
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.1 seconds, 108.8 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 10.027929
+[Ablector] INFO: SAT TIME: 10.020847
+[Ablector] INFO: REF TIME: 0.022909
+[runlim] end:			Thu Jan  2 21:57:18 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.02 seconds
+[runlim] time:			10.83 seconds
+[runlim] space:			109.5 MB
+[runlim] samples:		107
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25419.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:18 2020
+[runlim] main pid:		20632
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.306927
+[Ablector] INFO: SAT TIME: 3.301974
+[Ablector] INFO: REF TIME: 0.000511
+[runlim] end:			Thu Jan  2 21:57:23 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.75 seconds
+[runlim] time:			3.98 seconds
+[runlim] space:			75.5 MB
+[runlim] samples:		50
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32473.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:24 2020
+[runlim] main pid:		20652
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.031247
+[Ablector] INFO: SAT TIME: 3.026377
+[Ablector] INFO: REF TIME: 0.000476
+[runlim] end:			Thu Jan  2 21:57:28 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			4.24 seconds
+[runlim] time:			3.77 seconds
+[runlim] space:			74.2 MB
+[runlim] samples:		37
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21643.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:29 2020
+[runlim] main pid:		20672
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.491676
+[Ablector] INFO: SAT TIME: 3.486505
+[Ablector] INFO: REF TIME: 0.000537
+[runlim] end:			Thu Jan  2 21:57:33 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.91 seconds
+[runlim] time:			4.15 seconds
+[runlim] space:			73.7 MB
+[runlim] samples:		48
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21636.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:34 2020
+[runlim] main pid:		20692
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.420157
+[Ablector] INFO: SAT TIME: 3.415095
+[Ablector] INFO: REF TIME: 0.000510
+[runlim] end:			Thu Jan  2 21:57:39 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			5.19 seconds
+[runlim] time:			4.07 seconds
+[runlim] space:			74.3 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24636.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:39 2020
+[runlim] main pid:		20712
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.936051
+[Ablector] INFO: SAT TIME: 5.930178
+[Ablector] INFO: REF TIME: 0.024375
+[runlim] end:			Thu Jan  2 21:57:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.61 seconds
+[runlim] time:			6.59 seconds
+[runlim] space:			103.7 MB
+[runlim] samples:		67
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21439.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:47 2020
+[runlim] main pid:		20732
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.397811
+[Ablector] INFO: SAT TIME: 3.392740
+[Ablector] INFO: REF TIME: 0.000522
+[runlim] end:			Thu Jan  2 21:57:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.41 seconds
+[runlim] time:			3.98 seconds
+[runlim] space:			73.6 MB
+[runlim] samples:		40
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21457.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:57:52 2020
+[runlim] main pid:		20754
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 94.4 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 10.095798
+[Ablector] INFO: SAT TIME: 10.087929
+[Ablector] INFO: REF TIME: 0.025758
+[runlim] end:			Thu Jan  2 21:58:02 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.92 seconds
+[runlim] time:			10.79 seconds
+[runlim] space:			104.8 MB
+[runlim] samples:		108
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37251.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:58:03 2020
+[runlim] main pid:		20774
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.845617
+[Ablector] INFO: SAT TIME: 5.838000
+[Ablector] INFO: REF TIME: 0.022909
+[runlim] end:			Thu Jan  2 21:58:10 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.18 seconds
+[runlim] time:			6.54 seconds
+[runlim] space:			106.4 MB
+[runlim] samples:		65
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25233.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:58:10 2020
+[runlim] main pid:		20795
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.301661
+[Ablector] INFO: SAT TIME: 3.296538
+[Ablector] INFO: REF TIME: 0.000514
+[runlim] end:			Thu Jan  2 21:58:14 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			4.94 seconds
+[runlim] time:			3.83 seconds
+[runlim] space:			74.7 MB
+[runlim] samples:		39
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33561.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:58:15 2020
+[runlim] main pid:		20815
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 109.1 MB
+[runlim] sample:		20.0 seconds, 111.6 MB
+[runlim] sample:		30.0 seconds, 112.9 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 34.157280
+[Ablector] INFO: SAT TIME: 34.149762
+[Ablector] INFO: REF TIME: 0.025792
+[runlim] end:			Thu Jan  2 21:58:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			35.58 seconds
+[runlim] time:			34.79 seconds
+[runlim] space:			113.1 MB
+[runlim] samples:		348
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25450.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:58:51 2020
+[runlim] main pid:		20838
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		9.9 seconds, 111.0 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 14.965477
+[Ablector] INFO: SAT TIME: 14.958397
+[Ablector] INFO: REF TIME: 0.023018
+[runlim] end:			Thu Jan  2 21:59:07 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			16.11 seconds
+[runlim] time:			15.58 seconds
+[runlim] space:			113.0 MB
+[runlim] samples:		157
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21215.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:07 2020
+[runlim] main pid:		20858
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.202825
+[Ablector] INFO: SAT TIME: 3.197654
+[Ablector] INFO: REF TIME: 0.000543
+[runlim] end:			Thu Jan  2 21:59:12 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			5.10 seconds
+[runlim] time:			3.86 seconds
+[runlim] space:			75.5 MB
+[runlim] samples:		42
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37247.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:12 2020
+[runlim] main pid:		20878
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.462587
+[Ablector] INFO: SAT TIME: 3.457425
+[Ablector] INFO: REF TIME: 0.000523
+[runlim] end:			Thu Jan  2 21:59:16 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.89 seconds
+[runlim] time:			4.06 seconds
+[runlim] space:			72.5 MB
+[runlim] samples:		41
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21639.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:17 2020
+[runlim] main pid:		20900
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.540640
+[Ablector] INFO: SAT TIME: 3.535473
+[Ablector] INFO: REF TIME: 0.000563
+[runlim] end:			Thu Jan  2 21:59:22 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.19 seconds
+[runlim] time:			4.31 seconds
+[runlim] space:			74.8 MB
+[runlim] samples:		46
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25454.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:22 2020
+[runlim] main pid:		20921
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 110.3 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 9.992394
+[Ablector] INFO: SAT TIME: 9.984680
+[Ablector] INFO: REF TIME: 0.025684
+[runlim] end:			Thu Jan  2 21:59:33 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			11.60 seconds
+[runlim] time:			10.71 seconds
+[runlim] space:			112.8 MB
+[runlim] samples:		107
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33745.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:34 2020
+[runlim] main pid:		20941
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.455450
+[Ablector] INFO: SAT TIME: 5.448437
+[Ablector] INFO: REF TIME: 0.017915
+[runlim] end:			Thu Jan  2 21:59:40 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			6.48 seconds
+[runlim] time:			6.11 seconds
+[runlim] space:			99.3 MB
+[runlim] samples:		61
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21434.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:41 2020
+[runlim] main pid:		20963
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.478124
+[Ablector] INFO: SAT TIME: 3.472828
+[Ablector] INFO: REF TIME: 0.000544
+[runlim] end:			Thu Jan  2 21:59:45 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.82 seconds
+[runlim] time:			4.34 seconds
+[runlim] space:			73.8 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32499.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:46 2020
+[runlim] main pid:		20983
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 7.713308
+[Ablector] INFO: SAT TIME: 7.706775
+[Ablector] INFO: REF TIME: 0.016066
+[runlim] end:			Thu Jan  2 21:59:54 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			8.95 seconds
+[runlim] time:			8.41 seconds
+[runlim] space:			78.9 MB
+[runlim] samples:		84
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21664.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 21:59:55 2020
+[runlim] main pid:		21003
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		9.8 seconds, 102.3 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 12.515284
+[Ablector] INFO: SAT TIME: 12.507786
+[Ablector] INFO: REF TIME: 0.025559
+[runlim] end:			Thu Jan  2 22:00:09 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			14.27 seconds
+[runlim] time:			13.16 seconds
+[runlim] space:			113.4 MB
+[runlim] samples:		134
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32635.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:00:10 2020
+[runlim] main pid:		21025
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.569084
+[Ablector] INFO: SAT TIME: 3.563827
+[Ablector] INFO: REF TIME: 0.000539
+[runlim] end:			Thu Jan  2 22:00:14 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.38 seconds
+[runlim] time:			4.17 seconds
+[runlim] space:			77.0 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21458.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:00:15 2020
+[runlim] main pid:		21045
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 102.0 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 18.322468
+[Ablector] INFO: SAT TIME: 18.314935
+[Ablector] INFO: REF TIME: 0.025189
+[runlim] end:			Thu Jan  2 22:00:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			19.33 seconds
+[runlim] time:			18.96 seconds
+[runlim] space:			103.4 MB
+[runlim] samples:		190
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21246.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:00:35 2020
+[runlim] main pid:		21065
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 113.1 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 9.779351
+[Ablector] INFO: SAT TIME: 9.771795
+[Ablector] INFO: REF TIME: 0.024819
+[runlim] end:			Thu Jan  2 22:00:45 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.82 seconds
+[runlim] time:			10.51 seconds
+[runlim] space:			115.5 MB
+[runlim] samples:		105
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33532.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:00:46 2020
+[runlim] main pid:		21086
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.319794
+[Ablector] INFO: SAT TIME: 3.314832
+[Ablector] INFO: REF TIME: 0.000553
+[runlim] end:			Thu Jan  2 22:00:51 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			5.07 seconds
+[runlim] time:			3.96 seconds
+[runlim] space:			75.6 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33719.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:00:51 2020
+[runlim] main pid:		21108
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.304290
+[Ablector] INFO: SAT TIME: 3.299247
+[Ablector] INFO: REF TIME: 0.000522
+[runlim] end:			Thu Jan  2 22:00:56 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.19 seconds
+[runlim] time:			3.93 seconds
+[runlim] space:			80.3 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32472.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:00:57 2020
+[runlim] main pid:		21130
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.764794
+[Ablector] INFO: SAT TIME: 2.760017
+[Ablector] INFO: REF TIME: 0.000474
+[runlim] end:			Thu Jan  2 22:01:00 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			3.69 seconds
+[runlim] time:			3.34 seconds
+[runlim] space:			68.2 MB
+[runlim] samples:		36
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33536.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:01 2020
+[runlim] main pid:		21150
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.664369
+[Ablector] INFO: SAT TIME: 6.658182
+[Ablector] INFO: REF TIME: 0.024854
+[runlim] end:			Thu Jan  2 22:01:08 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.74 seconds
+[runlim] time:			7.26 seconds
+[runlim] space:			110.1 MB
+[runlim] samples:		73
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37051.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:09 2020
+[runlim] main pid:		21170
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 100.3 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 9.639038
+[Ablector] INFO: SAT TIME: 9.632048
+[Ablector] INFO: REF TIME: 0.022944
+[runlim] end:			Thu Jan  2 22:01:19 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			10.83 seconds
+[runlim] time:			10.27 seconds
+[runlim] space:			111.1 MB
+[runlim] samples:		103
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33545.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:20 2020
+[runlim] main pid:		21190
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.319127
+[Ablector] INFO: SAT TIME: 3.314075
+[Ablector] INFO: REF TIME: 0.000515
+[runlim] end:			Thu Jan  2 22:01:24 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.57 seconds
+[runlim] time:			3.91 seconds
+[runlim] space:			71.7 MB
+[runlim] samples:		39
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37230.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:25 2020
+[runlim] main pid:		21210
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.259062
+[Ablector] INFO: SAT TIME: 3.253775
+[Ablector] INFO: REF TIME: 0.000539
+[runlim] end:			Thu Jan  2 22:01:29 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.70 seconds
+[runlim] time:			3.98 seconds
+[runlim] space:			71.3 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21428.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:30 2020
+[runlim] main pid:		21230
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.754659
+[Ablector] INFO: SAT TIME: 6.748585
+[Ablector] INFO: REF TIME: 0.025212
+[runlim] end:			Thu Jan  2 22:01:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.94 seconds
+[runlim] time:			7.31 seconds
+[runlim] space:			104.9 MB
+[runlim] samples:		74
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37034.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:38 2020
+[runlim] main pid:		21252
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.277517
+[Ablector] INFO: SAT TIME: 3.272355
+[Ablector] INFO: REF TIME: 0.000527
+[runlim] end:			Thu Jan  2 22:01:43 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.36 seconds
+[runlim] time:			3.92 seconds
+[runlim] space:			71.6 MB
+[runlim] samples:		46
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37241.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:44 2020
+[runlim] main pid:		21272
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.326473
+[Ablector] INFO: SAT TIME: 3.321341
+[Ablector] INFO: REF TIME: 0.000526
+[runlim] end:			Thu Jan  2 22:01:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			4.22 seconds
+[runlim] time:			4.00 seconds
+[runlim] space:			73.7 MB
+[runlim] samples:		40
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33728.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:48 2020
+[runlim] main pid:		21295
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.592898
+[Ablector] INFO: SAT TIME: 6.586807
+[Ablector] INFO: REF TIME: 0.025555
+[runlim] end:			Thu Jan  2 22:01:56 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			8.23 seconds
+[runlim] time:			7.13 seconds
+[runlim] space:			98.6 MB
+[runlim] samples:		72
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21424.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:01:57 2020
+[runlim] main pid:		21316
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.431767
+[Ablector] INFO: SAT TIME: 3.426892
+[Ablector] INFO: REF TIME: 0.000522
+[runlim] end:			Thu Jan  2 22:02:02 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			5.04 seconds
+[runlim] time:			4.11 seconds
+[runlim] space:			76.1 MB
+[runlim] samples:		48
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37242.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:02 2020
+[runlim] main pid:		21336
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.331215
+[Ablector] INFO: SAT TIME: 3.326232
+[Ablector] INFO: REF TIME: 0.000511
+[runlim] end:			Thu Jan  2 22:02:06 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.81 seconds
+[runlim] time:			3.94 seconds
+[runlim] space:			73.2 MB
+[runlim] samples:		40
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36442.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:07 2020
+[runlim] main pid:		21356
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.371950
+[Ablector] INFO: SAT TIME: 6.365819
+[Ablector] INFO: REF TIME: 0.024881
+[runlim] end:			Thu Jan  2 22:02:14 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.63 seconds
+[runlim] time:			6.92 seconds
+[runlim] space:			103.6 MB
+[runlim] samples:		70
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24816.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:15 2020
+[runlim] main pid:		21377
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.692384
+[Ablector] INFO: SAT TIME: 3.687259
+[Ablector] INFO: REF TIME: 0.000528
+[runlim] end:			Thu Jan  2 22:02:20 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.06 seconds
+[runlim] time:			4.42 seconds
+[runlim] space:			79.6 MB
+[runlim] samples:		47
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37044.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:20 2020
+[runlim] main pid:		21399
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.574920
+[Ablector] INFO: SAT TIME: 3.570136
+[Ablector] INFO: REF TIME: 0.000505
+[runlim] end:			Thu Jan  2 22:02:24 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			5.00 seconds
+[runlim] time:			4.16 seconds
+[runlim] space:			75.0 MB
+[runlim] samples:		42
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21451.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:25 2020
+[runlim] main pid:		21419
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 108.1 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 13.088746
+[Ablector] INFO: SAT TIME: 13.082103
+[Ablector] INFO: REF TIME: 0.022464
+[runlim] end:			Thu Jan  2 22:02:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			14.49 seconds
+[runlim] time:			13.70 seconds
+[runlim] space:			109.3 MB
+[runlim] samples:		137
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33369.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:40 2020
+[runlim] main pid:		21439
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		9.9 seconds, 102.5 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 12.531705
+[Ablector] INFO: SAT TIME: 12.524758
+[Ablector] INFO: REF TIME: 0.022820
+[runlim] end:			Thu Jan  2 22:02:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			13.52 seconds
+[runlim] time:			13.12 seconds
+[runlim] space:			103.0 MB
+[runlim] samples:		132
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25452.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:02:54 2020
+[runlim] main pid:		21459
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		9.9 seconds, 104.5 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 13.254483
+[Ablector] INFO: SAT TIME: 13.247647
+[Ablector] INFO: REF TIME: 0.022827
+[runlim] end:			Thu Jan  2 22:03:08 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			14.39 seconds
+[runlim] time:			13.88 seconds
+[runlim] space:			105.0 MB
+[runlim] samples:		140
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32659.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:09 2020
+[runlim] main pid:		21482
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.776868
+[Ablector] INFO: SAT TIME: 3.771875
+[Ablector] INFO: REF TIME: 0.002520
+[runlim] end:			Thu Jan  2 22:03:14 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.37 seconds
+[runlim] time:			4.63 seconds
+[runlim] space:			78.8 MB
+[runlim] samples:		51
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37220.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:15 2020
+[runlim] main pid:		21502
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.296535
+[Ablector] INFO: SAT TIME: 3.291400
+[Ablector] INFO: REF TIME: 0.000537
+[runlim] end:			Thu Jan  2 22:03:19 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.53 seconds
+[runlim] time:			3.92 seconds
+[runlim] space:			79.5 MB
+[runlim] samples:		44
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21217.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:20 2020
+[runlim] main pid:		21522
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.314829
+[Ablector] INFO: SAT TIME: 3.309744
+[Ablector] INFO: REF TIME: 0.000520
+[runlim] end:			Thu Jan  2 22:03:24 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.92 seconds
+[runlim] time:			4.02 seconds
+[runlim] space:			73.5 MB
+[runlim] samples:		46
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc36443.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:25 2020
+[runlim] main pid:		21543
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.846708
+[Ablector] INFO: SAT TIME: 2.841290
+[Ablector] INFO: REF TIME: 0.000452
+[runlim] end:			Thu Jan  2 22:03:29 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			4.27 seconds
+[runlim] time:			3.49 seconds
+[runlim] space:			68.5 MB
+[runlim] samples:		35
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20411.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:30 2020
+[runlim] main pid:		21563
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.593293
+[Ablector] INFO: SAT TIME: 3.588352
+[Ablector] INFO: REF TIME: 0.000528
+[runlim] end:			Thu Jan  2 22:03:35 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			5.20 seconds
+[runlim] time:			4.35 seconds
+[runlim] space:			77.1 MB
+[runlim] samples:		51
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33749.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:35 2020
+[runlim] main pid:		21583
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.655163
+[Ablector] INFO: SAT TIME: 5.648292
+[Ablector] INFO: REF TIME: 0.022755
+[runlim] end:			Thu Jan  2 22:03:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.34 seconds
+[runlim] time:			6.33 seconds
+[runlim] space:			106.2 MB
+[runlim] samples:		63
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21039.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:43 2020
+[runlim] main pid:		21603
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.587245
+[Ablector] INFO: SAT TIME: 5.579145
+[Ablector] INFO: REF TIME: 0.026882
+[runlim] end:			Thu Jan  2 22:03:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			6.47 seconds
+[runlim] time:			6.17 seconds
+[runlim] space:			105.0 MB
+[runlim] samples:		63
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21638.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:50 2020
+[runlim] main pid:		21625
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.806731
+[Ablector] INFO: SAT TIME: 6.800663
+[Ablector] INFO: REF TIME: 0.025419
+[runlim] end:			Thu Jan  2 22:03:57 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.74 seconds
+[runlim] time:			7.46 seconds
+[runlim] space:			96.0 MB
+[runlim] samples:		75
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33557.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:03:58 2020
+[runlim] main pid:		21645
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		9.9 seconds, 104.2 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 13.952976
+[Ablector] INFO: SAT TIME: 13.945958
+[Ablector] INFO: REF TIME: 0.023046
+[runlim] end:			Thu Jan  2 22:04:13 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			15.31 seconds
+[runlim] time:			14.57 seconds
+[runlim] space:			106.3 MB
+[runlim] samples:		147
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24827.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:14 2020
+[runlim] main pid:		21665
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 2 - 0
+[runlim] sample:		9.8 seconds, 90.2 MB
+[SremNode] INFO: Level 1
+[Ablector] INFO: ABLECTOR TIME: 10.019040
+[Ablector] INFO: SAT TIME: 10.013830
+[Ablector] INFO: REF TIME: 0.003006
+[runlim] end:			Thu Jan  2 22:04:25 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			11.15 seconds
+[runlim] time:			10.68 seconds
+[runlim] space:			90.7 MB
+[runlim] samples:		109
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20437.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:25 2020
+[runlim] main pid:		21686
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.991346
+[Ablector] INFO: SAT TIME: 5.984397
+[Ablector] INFO: REF TIME: 0.022099
+[runlim] end:			Thu Jan  2 22:04:32 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.62 seconds
+[runlim] time:			6.68 seconds
+[runlim] space:			107.5 MB
+[runlim] samples:		67
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33359.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:33 2020
+[runlim] main pid:		21708
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.805440
+[Ablector] INFO: SAT TIME: 3.800076
+[Ablector] INFO: REF TIME: 0.000527
+[runlim] end:			Thu Jan  2 22:04:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			4.95 seconds
+[runlim] time:			4.39 seconds
+[runlim] space:			77.7 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21433.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:38 2020
+[runlim] main pid:		21729
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.529607
+[Ablector] INFO: SAT TIME: 3.524671
+[Ablector] INFO: REF TIME: 0.000513
+[runlim] end:			Thu Jan  2 22:04:43 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.43 seconds
+[runlim] time:			4.25 seconds
+[runlim] space:			75.7 MB
+[runlim] samples:		47
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21454.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:44 2020
+[runlim] main pid:		21749
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.603120
+[Ablector] INFO: SAT TIME: 5.596132
+[Ablector] INFO: REF TIME: 0.021958
+[runlim] end:			Thu Jan  2 22:04:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			6.50 seconds
+[runlim] time:			6.24 seconds
+[runlim] space:			92.6 MB
+[runlim] samples:		63
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33337.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:51 2020
+[runlim] main pid:		21769
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.472236
+[Ablector] INFO: SAT TIME: 3.467020
+[Ablector] INFO: REF TIME: 0.000516
+[runlim] end:			Thu Jan  2 22:04:55 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.86 seconds
+[runlim] time:			4.18 seconds
+[runlim] space:			75.6 MB
+[runlim] samples:		46
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20413.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:04:56 2020
+[runlim] main pid:		21789
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.674068
+[Ablector] INFO: SAT TIME: 3.668795
+[Ablector] INFO: REF TIME: 0.000559
+[runlim] end:			Thu Jan  2 22:05:01 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.44 seconds
+[runlim] time:			4.43 seconds
+[runlim] space:			77.2 MB
+[runlim] samples:		48
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20436.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:05:02 2020
+[runlim] main pid:		21809
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		9.9 seconds, 111.6 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 15.812193
+[Ablector] INFO: SAT TIME: 15.804977
+[Ablector] INFO: REF TIME: 0.024052
+[runlim] end:			Thu Jan  2 22:05:19 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		1
+[runlim] real:			17.11 seconds
+[runlim] time:			16.54 seconds
+[runlim] space:			113.7 MB
+[runlim] samples:		169
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24829.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:05:20 2020
+[runlim] main pid:		21831
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		9.7 seconds, 102.9 MB
+[runlim] sample:		19.7 seconds, 116.1 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 20.567487
+[Ablector] INFO: SAT TIME: 20.560653
+[Ablector] INFO: REF TIME: 0.022021
+[runlim] end:			Thu Jan  2 22:05:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			21.85 seconds
+[runlim] time:			21.34 seconds
+[runlim] space:			116.1 MB
+[runlim] samples:		216
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24800.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:05:42 2020
+[runlim] main pid:		21852
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.590374
+[Ablector] INFO: SAT TIME: 3.585270
+[Ablector] INFO: REF TIME: 0.000550
+[runlim] end:			Thu Jan  2 22:05:47 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.08 seconds
+[runlim] time:			4.46 seconds
+[runlim] space:			77.1 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33341.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:05:47 2020
+[runlim] main pid:		21872
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.294915
+[Ablector] INFO: SAT TIME: 3.289725
+[Ablector] INFO: REF TIME: 0.000518
+[runlim] end:			Thu Jan  2 22:05:52 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.16 seconds
+[runlim] time:			4.05 seconds
+[runlim] space:			74.6 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32478.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:05:52 2020
+[runlim] main pid:		21892
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.983170
+[Ablector] INFO: SAT TIME: 2.978038
+[Ablector] INFO: REF TIME: 0.000457
+[runlim] end:			Thu Jan  2 22:05:56 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			4.61 seconds
+[runlim] time:			3.64 seconds
+[runlim] space:			68.0 MB
+[runlim] samples:		37
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33562.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:05:57 2020
+[runlim] main pid:		21913
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 99.4 MB
+[runlim] sample:		20.0 seconds, 109.9 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		30.0 seconds, 112.4 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 30.720157
+[Ablector] INFO: SAT TIME: 30.712421
+[Ablector] INFO: REF TIME: 0.025536
+[runlim] end:			Thu Jan  2 22:06:28 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			31.76 seconds
+[runlim] time:			31.40 seconds
+[runlim] space:			112.7 MB
+[runlim] samples:		314
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20235.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:06:29 2020
+[runlim] main pid:		21935
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.140162
+[Ablector] INFO: SAT TIME: 3.134676
+[Ablector] INFO: REF TIME: 0.000477
+[runlim] end:			Thu Jan  2 22:06:33 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.89 seconds
+[runlim] time:			3.85 seconds
+[runlim] space:			68.8 MB
+[runlim] samples:		41
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25427.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:06:34 2020
+[runlim] main pid:		21956
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.681837
+[Ablector] INFO: SAT TIME: 6.675493
+[Ablector] INFO: REF TIME: 0.025621
+[runlim] end:			Thu Jan  2 22:06:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.99 seconds
+[runlim] time:			7.47 seconds
+[runlim] space:			99.1 MB
+[runlim] samples:		73
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25433.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:06:42 2020
+[runlim] main pid:		21976
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.307607
+[Ablector] INFO: SAT TIME: 3.302516
+[Ablector] INFO: REF TIME: 0.000534
+[runlim] end:			Thu Jan  2 22:06:47 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.32 seconds
+[runlim] time:			4.08 seconds
+[runlim] space:			75.0 MB
+[runlim] samples:		45
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21244.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:06:48 2020
+[runlim] main pid:		21998
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 5.712318
+[Ablector] INFO: SAT TIME: 5.705316
+[Ablector] INFO: REF TIME: 0.022523
+[runlim] end:			Thu Jan  2 22:06:54 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			6.60 seconds
+[runlim] time:			6.38 seconds
+[runlim] space:			106.1 MB
+[runlim] samples:		64
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21647.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:06:55 2020
+[runlim] main pid:		22019
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.345221
+[Ablector] INFO: SAT TIME: 3.340242
+[Ablector] INFO: REF TIME: 0.000510
+[runlim] end:			Thu Jan  2 22:06:59 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.40 seconds
+[runlim] time:			3.93 seconds
+[runlim] space:			74.4 MB
+[runlim] samples:		40
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20423.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:00 2020
+[runlim] main pid:		22039
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.491494
+[Ablector] INFO: SAT TIME: 3.486298
+[Ablector] INFO: REF TIME: 0.000532
+[runlim] end:			Thu Jan  2 22:07:05 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.92 seconds
+[runlim] time:			4.37 seconds
+[runlim] space:			84.4 MB
+[runlim] samples:		57
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33534.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:06 2020
+[runlim] main pid:		22059
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.481272
+[Ablector] INFO: SAT TIME: 3.476105
+[Ablector] INFO: REF TIME: 0.000533
+[runlim] end:			Thu Jan  2 22:07:12 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			6.81 seconds
+[runlim] time:			4.18 seconds
+[runlim] space:			75.8 MB
+[runlim] samples:		62
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_innfeed_vc37038.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:13 2020
+[runlim] main pid:		22080
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.515008
+[Ablector] INFO: SAT TIME: 3.509879
+[Ablector] INFO: REF TIME: 0.000525
+[runlim] end:			Thu Jan  2 22:07:17 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.58 seconds
+[runlim] time:			4.10 seconds
+[runlim] space:			73.6 MB
+[runlim] samples:		41
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33718.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:18 2020
+[runlim] main pid:		22101
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.282090
+[Ablector] INFO: SAT TIME: 3.276998
+[Ablector] INFO: REF TIME: 0.000531
+[runlim] end:			Thu Jan  2 22:07:23 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.55 seconds
+[runlim] time:			3.93 seconds
+[runlim] space:			71.1 MB
+[runlim] samples:		53
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33564.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:24 2020
+[runlim] main pid:		22121
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		10.0 seconds, 102.1 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 11.947443
+[Ablector] INFO: SAT TIME: 11.939818
+[Ablector] INFO: REF TIME: 0.025316
+[runlim] end:			Thu Jan  2 22:07:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			13.06 seconds
+[runlim] time:			12.80 seconds
+[runlim] space:			114.2 MB
+[runlim] samples:		128
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc20254.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:37 2020
+[runlim] main pid:		22143
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.948158
+[Ablector] INFO: SAT TIME: 2.943660
+[Ablector] INFO: REF TIME: 0.000466
+[runlim] end:			Thu Jan  2 22:07:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.75 seconds
+[runlim] time:			3.63 seconds
+[runlim] space:			66.5 MB
+[runlim] samples:		38
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21219.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:42 2020
+[runlim] main pid:		22163
+[Ablector] INFO: *** ROUND 0
+[runlim] sample:		10.0 seconds, 101.9 MB
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 13.043799
+[Ablector] INFO: SAT TIME: 13.036856
+[Ablector] INFO: REF TIME: 0.024283
+[runlim] end:			Thu Jan  2 22:07:56 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			14.18 seconds
+[runlim] time:			13.69 seconds
+[runlim] space:			109.3 MB
+[runlim] samples:		137
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25442.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:07:56 2020
+[runlim] main pid:		22183
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.620351
+[Ablector] INFO: SAT TIME: 3.615123
+[Ablector] INFO: REF TIME: 0.000540
+[runlim] end:			Thu Jan  2 22:08:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			5.22 seconds
+[runlim] time:			4.22 seconds
+[runlim] space:			76.4 MB
+[runlim] samples:		43
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33754.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:08:01 2020
+[runlim] main pid:		22203
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 1
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 8.983894
+[Ablector] INFO: SAT TIME: 8.976294
+[Ablector] INFO: REF TIME: 0.023844
+[runlim] end:			Thu Jan  2 22:08:11 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.60 seconds
+[runlim] time:			9.55 seconds
+[runlim] space:			97.2 MB
+[runlim] samples:		96
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33727.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:08:12 2020
+[runlim] main pid:		22224
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.633683
+[Ablector] INFO: SAT TIME: 6.627337
+[Ablector] INFO: REF TIME: 0.024757
+[runlim] end:			Thu Jan  2 22:08:19 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			7.67 seconds
+[runlim] time:			7.32 seconds
+[runlim] space:			98.1 MB
+[runlim] samples:		73
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21245.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:08:20 2020
+[runlim] main pid:		22246
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.0 seconds, 95.8 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		20.0 seconds, 102.0 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 25.969562
+[Ablector] INFO: SAT TIME: 25.962439
+[Ablector] INFO: REF TIME: 0.022533
+[runlim] end:			Thu Jan  2 22:08:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			27.01 seconds
+[runlim] time:			26.61 seconds
+[runlim] space:			102.7 MB
+[runlim] samples:		266
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc24810.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:08:47 2020
+[runlim] main pid:		22267
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.524866
+[Ablector] INFO: SAT TIME: 6.518830
+[Ablector] INFO: REF TIME: 0.024881
+[runlim] end:			Thu Jan  2 22:08:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			8.48 seconds
+[runlim] time:			7.17 seconds
+[runlim] space:			100.8 MB
+[runlim] samples:		76
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33353.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:08:56 2020
+[runlim] main pid:		22287
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.526905
+[Ablector] INFO: SAT TIME: 3.520595
+[Ablector] INFO: REF TIME: 0.000517
+[runlim] end:			Thu Jan  2 22:09:00 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.34 seconds
+[runlim] time:			4.17 seconds
+[runlim] space:			76.2 MB
+[runlim] samples:		41
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/nnrpd_nnrpd_vc21037.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:09:01 2020
+[runlim] main pid:		22326
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 0 - 1
+[Ablector] INFO: *** ROUND 1 - 0
+[Ablector] INFO: *** ROUND 1 - 1
+[Ablector] INFO: *** ROUND 2 - 0
+[Ablector] INFO: *** ROUND 2 - 1
+[runlim] sample:		10.1 seconds, 105.6 MB
+[Ablector] INFO: *** ROUND 3 - 0
+[runlim] sample:		20.1 seconds, 105.3 MB
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 2
+[SremNode] INFO: Level 1
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 19.412570
+[Ablector] INFO: SAT TIME: 19.404876
+[Ablector] INFO: REF TIME: 0.025029
+[runlim] end:			Thu Jan  2 22:09:21 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			20.19 seconds
+[runlim] time:			20.23 seconds
+[runlim] space:			108.4 MB
+[runlim] samples:		201
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc33349.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:09:22 2020
+[runlim] main pid:		22349
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.457158
+[Ablector] INFO: SAT TIME: 3.451989
+[Ablector] INFO: REF TIME: 0.000531
+[runlim] end:			Thu Jan  2 22:09:26 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			4.86 seconds
+[runlim] time:			4.01 seconds
+[runlim] space:			73.1 MB
+[runlim] samples:		47
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innfeed_imapfeed_vc25426.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:09:27 2020
+[runlim] main pid:		22370
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 6.595480
+[Ablector] INFO: SAT TIME: 6.589398
+[Ablector] INFO: REF TIME: 0.025052
+[runlim] end:			Thu Jan  2 22:09:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.83 seconds
+[runlim] time:			7.12 seconds
+[runlim] space:			98.2 MB
+[runlim] samples:		72
+[runlim] version:		1.7
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		30000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/srem_sdiv_mul_sat/QF_BV/spear/inn_v2.4.3/innd_innd_vc32648.smt2
+[runlim] argv[3]:		--ufReuse=0
+[runlim] start:			Thu Jan  2 22:09:35 2020
+[runlim] main pid:		22390
+[Ablector] INFO: *** ROUND 0
+[SremNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 4.083366
+[Ablector] INFO: SAT TIME: 4.078055
+[Ablector] INFO: REF TIME: 0.000562
+[runlim] end:			Thu Jan  2 22:09:40 2020
+[runlim] status:		segmentation fault
+[runlim] result:		139
+[runlim] children:		0
+[runlim] real:			5.68 seconds
+[runlim] time:			4.97 seconds
+[runlim] space:			79.7 MB
+[runlim] samples:		51
