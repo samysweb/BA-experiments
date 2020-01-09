@@ -2,6 +2,14 @@
 
 source ../logParsing/functions.sh
 
+if newDir results/all/noUnderapprox-vs-Underapprox
+then
+    compare noUnderapprox Ablector_Mul/sat/2019-08-10T18:49+02:00 2 underapprox Ablector_Mul/sat/2019-12-31T16:27+01:00 2 real time satpart
+    buildHist Ablector_Mul/sat/2019-08-10T18:49+02:00 MulNode 2 3
+    buildHist Ablector_Mul/sat/2019-08-10T18:49+02:00 SdivNode 2 3
+    buildHist Ablector_Mul/sat/2019-12-31T16:27+01:00 MulNode 2 3
+    buildHist Ablector_Mul/sat/2019-12-31T16:27+01:00 SdivNode 2 3
+fi
 
 if newDir results/sat/sdiv-pow2-rewriting-repaired
 then
