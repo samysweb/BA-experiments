@@ -4,13 +4,13 @@ source ../logParsing/functions.sh
 
 if newDir results/all/noUnderapprox-vs-Underapprox
 then
-    compare noUnderapprox Ablector_Mul/all/2019-08-10T18:49+02:00 2 underapprox Ablector_Mul/all/2019-12-31T16:27+01:00 2 real time satpart
+    compare noUnderapprox Ablector_Mul/all/2019-08-10T18:49+02:00 2 underapprox Ablector_Mul/all/2020-01-09T12:24+01:00 2 real time satpart
     buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 MulNode 2 3
     buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 SdivNode 2 3
-    buildHist Ablector_Mul/all/2019-12-31T16:27+01:00 MulNode 2 3
-    buildHist Ablector_Mul/all/2019-12-31T16:27+01:00 SdivNode 2 3
+    buildHist Ablector_Mul/all/2020-01-09T12:24+01:00 MulNode 2 3
+    buildHist Ablector_Mul/all/2020-01-09T12:24+01:00 SdivNode 2 3
 fi
-
+exit
 if newDir results/segment_aa/basic
 then
     compare ablector Ablector_Mul/segment_aa/2019-06-17T16:50+02:00 2 boolector Boolector_SoA/segment_aa/2019-06-19T22:40+02:00 1 real time satpart
