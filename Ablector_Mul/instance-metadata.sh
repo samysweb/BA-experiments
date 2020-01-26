@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Number of benchmarks that are packed into a single job
-BENCHS_PER_JOB=300
+BENCHS_PER_JOB=50
 
 # Timeout used for runlim
 LOWER_TO=2400
@@ -15,7 +15,7 @@ if [ `hostname` = "hal9000" ]; then
     # Path where benchmark files can be found
     BENCHMARK_PATH=`pwd`"/../srem_sdiv_mul"
     # List of benchmarks to run (paths relative to BENCHMARK_PATH)
-    BENCHMARK_LIST="all"
+    BENCHMARK_LIST="metadata_all_missing.csv"
     # Directory for log writing
     LOG_DIR_BASE=`pwd`"/logs/Ablector_Mul/all/"
     # Binary which should be executed
@@ -27,7 +27,7 @@ if [ `hostname` = "hal9000" ]; then
     # Source Script
     SOURCE_SCRIPT=`pwd`"/Ablector_Mul/source.sh"
     # Number of parallel tasks
-    PAR_NUM=2
+    PAR_NUM=1
     # Additional arguments for ablector
     ARGS=""
     #Temporary directory for files
@@ -36,7 +36,7 @@ else
     # Path where benchmark files can be found
     BENCHMARK_PATH="/raid/steuber/Benchmarks/srem_sdiv_mul" #TODO
     # List of benchmarks to run (paths relative to BENCHMARK_PATH)
-    BENCHMARK_LIST="all"
+    BENCHMARK_LIST="metadata_all_missing.csv"
     # Path to folder containing all software packages potentially used
     SOFTWARE_PATH="/raid/steuber/Software"
     # Directory for log writing
@@ -51,7 +51,7 @@ else
     SOURCE_SCRIPT="/raid/steuber/Experiments/Ablector_Mul/source.sh"
     # Anaconda Path
     CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
-    PAR_NUM=4
+    PAR_NUM=1
     # Additional arguments for ablector
     ARGS=""
     #Temporary directory for files

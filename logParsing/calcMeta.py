@@ -98,23 +98,23 @@ class MyOracle(SizeOracle):
 
 def calcStats(script):
     formula = script.get_strict_formula()
-    print("counting...", file=sys.stderr)
+    print("counting...", flush=True, file=sys.stderr)
     oracle = MyOracle(get_env())
 
     opCountD = oracle.get_size(formula, MyOracle.MEASURE_DAG_NODES)
-    print("counting dag...", file=sys.stderr)
+    print("counting dag...", flush=True, file=sys.stderr)
     bvmulD = oracle.get_size(formula, MyOracle.MEASURE_BVMUL_DAG)
     bvsdivD = oracle.get_size(formula, MyOracle.MEASURE_BVSDIV_DAG)
     bvsremD = oracle.get_size(formula, MyOracle.MEASURE_BVSREM_DAG)
 
-    print("counting tree...", file=sys.stderr)
+    print("counting tree...", flush=True, file=sys.stderr)
     opCountT = oracle.get_size(formula, MyOracle.MEASURE_TREE_NODES)
     bvmulT = oracle.get_size(formula, MyOracle.MEASURE_BVMUL_TREE)
     bvsdivT = oracle.get_size(formula, MyOracle.MEASURE_BVSDIV_TREE)
     bvsremT = oracle.get_size(formula, MyOracle.MEASURE_BVSREM_TREE)
 
-    print("transforming to smt(dag)...", file=sys.stderr)
-    print("returning...", file=sys.stderr)
+    print("transforming to smt(dag)...", flush=True, file=sys.stderr)
+    print("returning...", flush=True, file=sys.stderr)
     return (bvmulT, bvsdivT, bvsremT, opCountT, bvmulD, bvsdivD, bvsremD, opCountD)
 
 def main():
@@ -123,9 +123,9 @@ def main():
     reset_env()
     parser = SmtLibParser()
     with open(sys.argv[1]) as f:
-        print("name opCountT opCountD bvmulCountD bvsdivCountD bvsremCountD", file=sys.stderr)
-        print(sys.argv[1], file=sys.stderr)
-        print("loading...", file=sys.stderr)
+        print("name opCountT opCountD bvmulCountD bvsdivCountD bvsremCountD", flush=True, file=sys.stderr)
+        print(sys.argv[1], flush=True, file=sys.stderr)
+        print("loading...", flush=True, file=sys.stderr)
         script = parser.get_script(f)
         (bvmulT, bvsdivT, bvsremT, opCountT, bvmulD, bvsdivD, bvsremD, opCountD) = calcStats(script)
         print(sys.argv[1] + " " + str(bvmulT) + " " + str(bvsdivT) + " " + str(bvsremT) + " " + str(opCountT) + " " + str(bvmulD) + " " + str(bvsdivD) + " " + str(bvsremD) + " " + str(opCountD), flush=True)
