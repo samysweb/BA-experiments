@@ -2,6 +2,8 @@ import glob
 import os
 import sys
 
+import math
+
 def main():
     if len(sys.argv) < 2:
         print("python buildCsv.py [benchArgId] [inFolder1] [inFolder2] [inFolder3] ... [inFolderN]", file=sys.stderr)
@@ -54,9 +56,9 @@ def main():
                             if satPart is None:
                                 satPart = time
                             if not (result == "1" and status=="ok"):
-                                print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
+                                print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(math.floor(float(satPart.strip())*1000)))+" "+str(roundNum))
                             else:
-                                print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum), file=sys.stderr)
+                                print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(math.floor(float(satPart.strip())*1000)))+" "+str(roundNum), file=sys.stderr)
                         else:
                             first = False
                         benchmark = None
@@ -96,9 +98,9 @@ def main():
                     if satPart is None:
                         satPart = time
                     if not (result == "1" and status=="ok"):
-                        print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum))
+                        print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(math.floor(float(satPart.strip())*1000)))+" "+str(roundNum))
                     else:
-                        print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(float(satPart.strip())*1000000))+" "+str(roundNum), file=sys.stderr)
+                        print(benchmark.strip()+" "+satUnsat.strip()+" "+str(int(float(time.strip())*100))+" "+str(int(float(real.strip())*100))+" "+str(int(math.floor(float(satPart.strip())*1000)))+" "+str(roundNum), file=sys.stderr)
 
 
 
