@@ -36,8 +36,10 @@ scale_border=$(( border + step ));
 sed -i 's/ -1/ $border/g' $tmp
 
 echo "set terminal unknown"
+echo "set size square 1,1"
 #echo "set key outside left top"
-echo "set key right bottom"
+#echo "set key right top vertical reverse"
+echo "set key off"
 echo "set logscale x"
 #echo "set logscale y"
 #echo "set title \"Total Time\""
@@ -48,17 +50,22 @@ echo "h(x)=x/10"
 echo "xout=$border"
 
 echo "set datafile separator ' '"
-echo "set size square 1,1"
 
 t1=$(echo $file1 | cut -d"_" -f2 | cut -d"." -f1)
 t2=$(echo $file2 | cut -d"_" -f2 | cut -d"." -f1)
-echo "set xlabel 'runtime in s'"
-echo "set ylabel '# solved instances'"
+echo "set xlabel 'runtime in s' rotate by 180"
+echo "set y2label '# solved instances' offset -3,0"
+#echo "set label 1 'runtime in s' at graph 0.5, -0.7 centre rotate by 180"
 
-echo "set xrange [$offset:$max]"
-echo "set yrange [0:3500]"
+echo "set xrange [$max:$offset] reverse"
+echo "set yrange [12000:15500]"
+
+echo "set xtic rotate by 90 scale 0 offset 0,-1.7"
+echo "unset ytics"
+echo "set y2tics rotate by 90"
 
 echo 'set xtics ("10⁻³" 1, "0.01" 10, "0.1" 100, "1" 1000, "10" 10000, "100" 100000, "1000" 1000000)'
+echo 'set y2tics ("12000" 12000, "13000" 13000, "14000" 14000, "15000" 15000)'
 
 echo "a=0"
 echo "b=0"
@@ -70,11 +77,14 @@ echo "bin(x,width)=floor(x/width)"
 
 echo "set style line 1 lt 1 lw 1 lc rgb '#fbb252'"
 
-echo "plot xout ls 1 notitle"
+
+#echo "plot xout ls 1 notitle"
 #echo "replot '< sort -n -k4 $tmp' u (!(strcol(2) eq 'UNKNOWN')) ? \$4:(1/0):cumulative_sum_1(1) title '$t1' lc rgb '#ff0000' pt 3"
 #echo "replot '< sort -g -k5 $tmp' u (!(strcol(3) eq 'UNKNOWN')) ? \$5:cumulative_sum_2(1) title '$t2' lc rgb '#00ff00' with lines"
-echo "replot '$tmp' using 4:((!(strcol(2) eq 'UNKNOWN') && (column(4)>$offset|| column(5)>$offset))?1.0:0) title '$t1' smooth cumulative, '' using 5:((!(strcol(3) eq 'UNKNOWN') && (column(4)>$offset|| column(5)>$offset))?1.0:0) title '$t2' smooth cumulative"
 
+echo "plot '$tmp' using 4:(1.0) title '$t1' smooth cumulative, '' using 5:(1.0) title '$t2' smooth cumulative"
+echo "set label 2 'Boolector' at graph 0.9, 0.8 left rotate by 90 tc lt 1"
+echo "set label 3 'Ablector' at graph 0.85, 0.8 left rotate by 90 tc lt 2"
 # echo "set arrow from $border,$offset to $border,$scale_border nohead ls 1"
 
 # echo "replot '$tmp' u (strcol(2) eq strcol(3) && !(strcol(2) eq 'UNKNOWN')) ? (\$4<${offset}?${offset}:\$4) : (1/0) : (\$5<${offset}?${offset}:\$5) title 'solved by both' with points lc rgb '#000000' pt 3" #black
@@ -90,7 +100,8 @@ echo "replot '$tmp' using 4:((!(strcol(2) eq 'UNKNOWN') && (column(4)>$offset|| 
 
 
 #echo "set terminal postscript eps enhanced color"
-echo "set terminal png enhanced font 'Verdana,10'"
+echo "set terminal png enhanced font 'Verdana,10' size 480,480"
+
 dir=`pwd`
 echo "set output '$dir/$name1-vs-$name2-cactus.png'"
 echo "replot"
