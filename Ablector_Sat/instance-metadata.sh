@@ -27,7 +27,7 @@ if [ `hostname` = "hal9000" ]; then
     # Source Script
     SOURCE_SCRIPT=`pwd`"/Ablector_Mul/source.sh"
     # Number of parallel tasks
-    PAR_NUM=1
+    PAR_NUM=2
     # Additional arguments for ablector
     ARGS=""
     #Temporary directory for files
@@ -51,7 +51,7 @@ else
     SOURCE_SCRIPT="/raid/steuber/Experiments/Ablector_Sat/source.sh"
     # Anaconda Path
     CONDA_PATH="/home/i12/steuber/anaconda3/condabin/conda"
-    PAR_NUM=1
+    PAR_NUM=2
     # Additional arguments for ablector
     ARGS=""
     #Temporary directory for files
