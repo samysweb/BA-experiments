@@ -20,7 +20,7 @@ name2=`echo ${file2##*/} | cut -d'.' -f1 | sed s/\_/-/g`
 tmp="$name1-vs-$name2-cactus.csv"
 join -o"1.1 1.2 2.2 1.$c1 2.$c2" $file1 $file2 > $tmp
 
-offset=1000
+offset=10000
 
 # determine border and scale-border
 max1=`cat $tmp | sort -n -k3 | cut -d" " -f3 | tail -1`
@@ -58,14 +58,14 @@ echo "set y2label '# solved instances' offset -3,0"
 #echo "set label 1 'runtime in s' at graph 0.5, -0.7 centre rotate by 180"
 
 echo "set xrange [$max:$offset] reverse"
-echo "set yrange [12000:15500]"
+echo "set yrange [14000:15500]"
 
 echo "set xtic rotate by 90 scale 0 offset 0,-1.7"
 echo "unset ytics"
 echo "set y2tics rotate by 90"
 
 echo 'set xtics ("10⁻³" 1, "0.01" 10, "0.1" 100, "1" 1000, "10" 10000, "100" 100000, "1000" 1000000)'
-echo 'set y2tics ("12000" 12000, "13000" 13000, "14000" 14000, "15000" 15000)'
+echo 'set y2tics ("10000" 10000, "11000" 11000,"12000" 12000, "13000" 13000, "14000" 14000, "15000" 15000)'
 
 echo "a=0"
 echo "b=0"
