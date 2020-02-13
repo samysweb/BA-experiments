@@ -2,14 +2,14 @@
 
 source ../logParsing/functions.sh
 
-if newDir results/all/noUnderapprox-vs-Underapprox
-then
-    compare noUnderapprox Ablector_Mul/all/2019-08-10T18:49+02:00 2 underapprox Ablector_Mul/all/2020-01-09T12:24+01:00 2 satpart
-    buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 MulNode 2 3
-    buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 SdivNode 2 3
-    buildHist Ablector_Mul/all/2020-01-09T12:24+01:00 MulNode 2 3
-    buildHist Ablector_Mul/all/2020-01-09T12:24+01:00 SdivNode 2 3
-fi
+# if newDir results/all/noUnderapprox-vs-Underapprox
+# then
+#     compare noUnderapprox Ablector_Mul/all/2019-08-10T18:49+02:00 2 underapprox Ablector_Mul/all/2020-01-09T12:24+01:00 2 satpart
+#     buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 MulNode 2 3
+#     buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 SdivNode 2 3
+#     buildHist Ablector_Mul/all/2020-01-09T12:24+01:00 MulNode 2 3
+#     buildHist Ablector_Mul/all/2020-01-09T12:24+01:00 SdivNode 2 3
+# fi
 
 if newDir results/segment_aa/basic
 then
@@ -104,12 +104,12 @@ fi
 
 if newDir results/all/sdiv-pow2-ufReuse1
 then
-    compare ablector Ablector_Mul/all/2019-08-10T18:49+02:00 2 boolector Boolector_SoA/all/2019-07-12T13:35+02:00 1 satpart
-    buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 MulNode 2 3
-    buildHist Ablector_Mul/all/2019-08-10T18:49+02:00 SdivNode 2 3
+    compare ablector Ablector_Mul/all/2019-08-22T13:00+02:00 2 boolector Boolector_SoA/all/2019-07-12T13:35+02:00 1 satpart
+    buildHist Ablector_Mul/all/2019-08-22T13:00+02:00 MulNode 2 3
+    buildHist Ablector_Mul/all/2019-08-22T13:00+02:00 SdivNode 2 3
 fi
 
 if newDir results/all/ufReuseInf-vs-ufReuse1
 then
-    compare ufReuse1 Ablector_Mul/all/2019-08-10T18:49+02:00 2 ufReuseInf Ablector_Mul/all/2019-07-22T10:05+02:00 2 satpart
+    compare ufReuse1 Ablector_Mul/all/2019-08-22T13:00+02:00 2 ufReuseInf Ablector_Mul/all/2019-07-22T10:05+02:00 2 satpart
 fi
