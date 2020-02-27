@@ -36,7 +36,7 @@ scale_border=$(( border + step ));
 sed -i 's/ -1/ $border/g' $tmp
 
 echo "set terminal unknown"
-echo "set size square 1,1"
+echo "set size ratio 2.5"
 #echo "set key outside left top"
 #echo "set key right top vertical reverse"
 echo "set key off"
@@ -100,7 +100,7 @@ echo "set label 3 'Ablector' at graph 0.85, 0.8 left rotate by 90 tc lt 2"
 
 
 #echo "set terminal postscript eps enhanced color"
-echo "set terminal png enhanced font 'Verdana,10' size 480,480"
+echo "set terminal png enhanced font 'Verdana,14' size 480,960"
 
 dir=`pwd`
 echo "set output '$dir/$name1-vs-$name2-cactus.png'"
