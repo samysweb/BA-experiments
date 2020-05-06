@@ -1,12 +1,12 @@
 #! /bin/bash
 
-cd $SOFTWARE_PATH
-
+cd $EXPERIMENT_DIR
 echo "******* Information on experiment repository ******* "
 git --no-pager show --pretty=short --shortstat
 git --no-pager status
 echo ""
 
+cd $SOFTWARE_PATH
 echo "******* Information on software packages in $SOFTWARE_PATH ******* "
 for D in `find . -maxdepth 1 -type d`
 do
