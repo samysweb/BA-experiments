@@ -1,0 +1,1593 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_7099.smt2
+[runlim] start:			Tue May 12 03:55:45 2020
+[runlim] main pid:		22611
+[BTOR>check_sat] 0.933207 seconds
+[runlim] end:			Tue May 12 03:55:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.81 seconds
+[runlim] time:			0.88 seconds
+[runlim] space:			9.2 MB
+[runlim] samples:		9
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_3674.smt2
+[runlim] start:			Tue May 12 03:55:46 2020
+[runlim] main pid:		22615
+[runlim] sample:		10.0 time, 10.8 real, 11.6 MB
+[runlim] sample:		20.0 time, 20.8 real, 13.4 MB
+[runlim] sample:		30.0 time, 30.8 real, 16.5 MB
+[runlim] sample:		40.0 time, 40.8 real, 19.1 MB
+[runlim] sample:		50.0 time, 50.8 real, 23.8 MB
+[runlim] sample:		60.0 time, 60.8 real, 24.7 MB
+[runlim] sample:		70.0 time, 70.8 real, 22.5 MB
+[runlim] sample:		80.0 time, 80.8 real, 27.1 MB
+[runlim] sample:		90.0 time, 90.8 real, 27.7 MB
+[runlim] sample:		100.0 time, 100.8 real, 31.8 MB
+[runlim] sample:		110.0 time, 110.8 real, 27.5 MB
+[runlim] sample:		120.0 time, 120.8 real, 28.8 MB
+[runlim] sample:		130.0 time, 130.8 real, 33.5 MB
+[runlim] sample:		140.0 time, 140.8 real, 29.1 MB
+[runlim] sample:		150.0 time, 150.8 real, 33.9 MB
+[runlim] sample:		160.0 time, 160.8 real, 35.1 MB
+[runlim] sample:		170.0 time, 170.8 real, 35.4 MB
+[runlim] sample:		180.0 time, 180.8 real, 35.6 MB
+[runlim] sample:		190.0 time, 190.8 real, 36.4 MB
+[runlim] sample:		200.0 time, 200.8 real, 35.5 MB
+[runlim] sample:		210.0 time, 210.8 real, 36.9 MB
+[runlim] sample:		220.0 time, 220.8 real, 37.0 MB
+[runlim] sample:		230.0 time, 230.8 real, 38.1 MB
+[runlim] sample:		240.0 time, 240.8 real, 38.1 MB
+[runlim] sample:		250.0 time, 250.8 real, 38.4 MB
+[runlim] sample:		260.0 time, 260.8 real, 38.5 MB
+[runlim] sample:		270.0 time, 270.8 real, 38.2 MB
+[runlim] sample:		280.0 time, 280.8 real, 39.5 MB
+[runlim] sample:		289.9 time, 290.8 real, 39.5 MB
+[runlim] sample:		300.0 time, 300.8 real, 39.5 MB
+[runlim] sample:		310.0 time, 310.8 real, 39.8 MB
+[runlim] sample:		320.0 time, 320.8 real, 28.8 MB
+[runlim] sample:		329.9 time, 330.8 real, 43.3 MB
+[runlim] sample:		340.0 time, 340.8 real, 43.3 MB
+[runlim] sample:		349.9 time, 350.8 real, 43.4 MB
+[runlim] sample:		360.0 time, 360.8 real, 43.4 MB
+[runlim] sample:		369.9 time, 370.8 real, 37.8 MB
+[runlim] sample:		379.9 time, 380.8 real, 44.5 MB
+[runlim] sample:		389.9 time, 390.8 real, 44.8 MB
+[runlim] sample:		399.9 time, 400.8 real, 43.4 MB
+[runlim] sample:		409.9 time, 410.8 real, 41.5 MB
+[runlim] sample:		419.9 time, 420.8 real, 48.5 MB
+[runlim] sample:		429.9 time, 430.8 real, 48.6 MB
+[runlim] sample:		439.9 time, 440.8 real, 48.6 MB
+[runlim] sample:		450.0 time, 450.8 real, 48.6 MB
+[runlim] sample:		459.9 time, 460.8 real, 48.6 MB
+[runlim] sample:		469.9 time, 470.8 real, 41.0 MB
+[runlim] sample:		479.9 time, 480.8 real, 47.0 MB
+[runlim] sample:		489.9 time, 490.8 real, 47.0 MB
+[runlim] sample:		499.9 time, 500.8 real, 47.0 MB
+[runlim] sample:		509.9 time, 510.8 real, 41.7 MB
+[runlim] sample:		519.9 time, 520.8 real, 47.8 MB
+[runlim] sample:		529.9 time, 530.8 real, 47.8 MB
+[runlim] sample:		539.9 time, 540.8 real, 47.9 MB
+[runlim] sample:		549.9 time, 550.8 real, 47.9 MB
+[runlim] sample:		559.9 time, 560.8 real, 42.4 MB
+[runlim] sample:		569.9 time, 570.8 real, 49.8 MB
+[runlim] sample:		579.9 time, 580.8 real, 49.8 MB
+[runlim] sample:		589.9 time, 590.8 real, 49.9 MB
+[runlim] sample:		599.9 time, 600.8 real, 49.4 MB
+[runlim] sample:		609.9 time, 610.8 real, 49.4 MB
+[runlim] sample:		619.9 time, 620.8 real, 52.1 MB
+[runlim] sample:		629.9 time, 630.8 real, 52.1 MB
+[runlim] sample:		639.9 time, 640.8 real, 52.1 MB
+[runlim] sample:		649.9 time, 650.8 real, 52.1 MB
+[runlim] sample:		659.9 time, 660.8 real, 52.1 MB
+[runlim] sample:		669.9 time, 670.8 real, 52.1 MB
+[runlim] sample:		679.9 time, 680.8 real, 52.1 MB
+[runlim] sample:		689.9 time, 690.8 real, 49.9 MB
+[runlim] sample:		699.9 time, 700.8 real, 49.9 MB
+[runlim] sample:		709.9 time, 710.8 real, 49.9 MB
+[runlim] sample:		719.9 time, 720.8 real, 50.2 MB
+[runlim] sample:		729.9 time, 730.8 real, 50.2 MB
+[runlim] sample:		739.9 time, 740.8 real, 50.2 MB
+[runlim] sample:		749.9 time, 750.8 real, 50.2 MB
+[runlim] sample:		759.9 time, 760.8 real, 52.0 MB
+[runlim] sample:		769.9 time, 770.8 real, 52.0 MB
+[runlim] sample:		779.9 time, 780.8 real, 44.5 MB
+[runlim] sample:		789.9 time, 790.8 real, 51.5 MB
+[runlim] sample:		799.9 time, 800.8 real, 51.5 MB
+[runlim] sample:		809.9 time, 810.8 real, 51.6 MB
+[runlim] sample:		819.9 time, 820.8 real, 51.6 MB
+[runlim] sample:		829.9 time, 830.8 real, 51.6 MB
+[runlim] sample:		839.9 time, 840.8 real, 51.6 MB
+[runlim] sample:		849.9 time, 850.8 real, 51.6 MB
+[runlim] sample:		859.9 time, 860.8 real, 51.7 MB
+[runlim] sample:		869.9 time, 870.8 real, 52.0 MB
+[runlim] sample:		879.9 time, 880.8 real, 44.4 MB
+[runlim] sample:		889.9 time, 890.8 real, 51.4 MB
+[runlim] sample:		899.9 time, 900.8 real, 51.4 MB
+[runlim] sample:		909.9 time, 910.8 real, 51.4 MB
+[runlim] sample:		919.9 time, 920.8 real, 51.4 MB
+[runlim] sample:		929.9 time, 930.8 real, 50.4 MB
+[BTOR>check_sat] 935.423959 seconds
+[runlim] end:			Tue May 12 04:11:22 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			936.32 seconds
+[runlim] time:			935.42 seconds
+[runlim] space:			58.9 MB
+[runlim] samples:		9355
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_12233.smt2
+[runlim] start:			Tue May 12 04:11:22 2020
+[runlim] main pid:		22866
+[runlim] sample:		10.0 time, 10.3 real, 10.6 MB
+[runlim] sample:		20.0 time, 20.3 real, 16.8 MB
+[runlim] sample:		30.0 time, 30.3 real, 20.0 MB
+[runlim] sample:		40.0 time, 40.3 real, 22.6 MB
+[runlim] sample:		50.0 time, 50.3 real, 23.6 MB
+[runlim] sample:		60.0 time, 60.3 real, 24.1 MB
+[runlim] sample:		70.0 time, 70.3 real, 25.2 MB
+[runlim] sample:		80.0 time, 80.3 real, 26.5 MB
+[runlim] sample:		90.0 time, 90.3 real, 26.4 MB
+[runlim] sample:		100.0 time, 100.3 real, 26.3 MB
+[runlim] sample:		110.0 time, 110.3 real, 28.3 MB
+[runlim] sample:		120.0 time, 120.3 real, 28.4 MB
+[runlim] sample:		130.0 time, 130.3 real, 28.0 MB
+[runlim] sample:		140.0 time, 140.3 real, 29.3 MB
+[runlim] sample:		150.0 time, 150.3 real, 29.4 MB
+[runlim] sample:		160.0 time, 160.3 real, 23.9 MB
+[runlim] sample:		170.0 time, 170.3 real, 33.9 MB
+[runlim] sample:		180.0 time, 180.3 real, 34.0 MB
+[runlim] sample:		190.0 time, 190.3 real, 34.1 MB
+[BTOR>check_sat] 199.613282 seconds
+[runlim] end:			Tue May 12 04:14:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			199.97 seconds
+[runlim] time:			199.57 seconds
+[runlim] space:			34.6 MB
+[runlim] samples:		1996
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app9/bench_2808.smt2
+[runlim] start:			Tue May 12 04:14:41 2020
+[runlim] main pid:		22906
+[BTOR>check_sat] 0.007542 seconds
+[runlim] end:			Tue May 12 04:14:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.01 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_3586.smt2
+[runlim] start:			Tue May 12 04:14:42 2020
+[runlim] main pid:		22910
+[BTOR>check_sat] 0.007631 seconds
+[runlim] end:			Tue May 12 04:14:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.05 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app12/bench_543.smt2
+[runlim] start:			Tue May 12 04:14:42 2020
+[runlim] main pid:		22914
+[BTOR>check_sat] 0.000310 seconds
+[runlim] end:			Tue May 12 04:14:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.06 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2508.smt2
+[runlim] start:			Tue May 12 04:14:42 2020
+[runlim] main pid:		22918
+[BTOR>check_sat] 0.000130 seconds
+[runlim] end:			Tue May 12 04:14:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.33 seconds
+[runlim] time:			0.17 seconds
+[runlim] space:			12.1 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_6392.smt2
+[runlim] start:			Tue May 12 04:14:42 2020
+[runlim] main pid:		22922
+[BTOR>check_sat] 0.000048 seconds
+[runlim] end:			Tue May 12 04:14:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.34 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/crafted/bit-reversal.smt2
+[runlim] start:			Tue May 12 04:14:42 2020
+[runlim] main pid:		22926
+[BTOR>check_sat] 0.000886 seconds
+[runlim] end:			Tue May 12 04:14:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.36 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_11158.smt2
+[runlim] start:			Tue May 12 04:14:42 2020
+[runlim] main pid:		22930
+[BTOR>check_sat] 2.343327 seconds
+[runlim] end:			Tue May 12 04:14:44 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.77 seconds
+[runlim] time:			2.37 seconds
+[runlim] space:			31.1 MB
+[runlim] samples:		24
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app9/bench_59.smt2
+[runlim] start:			Tue May 12 04:14:44 2020
+[runlim] main pid:		22934
+[BTOR>check_sat] 0.007726 seconds
+[runlim] end:			Tue May 12 04:14:44 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.81 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_511.smt2
+[runlim] start:			Tue May 12 04:14:44 2020
+[runlim] main pid:		22938
+[BTOR>check_sat] 0.000405 seconds
+[runlim] end:			Tue May 12 04:14:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.14 seconds
+[runlim] time:			1.26 seconds
+[runlim] space:			43.5 MB
+[runlim] samples:		13
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_889.smt2
+[runlim] start:			Tue May 12 04:14:46 2020
+[runlim] main pid:		22942
+[BTOR>check_sat] 0.000803 seconds
+[runlim] end:			Tue May 12 04:14:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.25 seconds
+[runlim] time:			1.07 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		11
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_1570.smt2
+[runlim] start:			Tue May 12 04:14:47 2020
+[runlim] main pid:		22946
+[BTOR>check_sat] 0.000078 seconds
+[runlim] end:			Tue May 12 04:14:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.29 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app9/bench_3240.smt2
+[runlim] start:			Tue May 12 04:14:47 2020
+[runlim] main pid:		22950
+[BTOR>check_sat] 0.108347 seconds
+[runlim] end:			Tue May 12 04:14:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.42 seconds
+[runlim] time:			0.09 seconds
+[runlim] space:			8.5 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_178.smt2
+[runlim] start:			Tue May 12 04:14:47 2020
+[runlim] main pid:		22954
+[BTOR>check_sat] 0.000248 seconds
+[runlim] end:			Tue May 12 04:14:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.81 seconds
+[runlim] time:			1.27 seconds
+[runlim] space:			45.7 MB
+[runlim] samples:		13
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_472.smt2
+[runlim] start:			Tue May 12 04:14:48 2020
+[runlim] main pid:		22958
+[BTOR>check_sat] 0.038447 seconds
+[runlim] end:			Tue May 12 04:14:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.89 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3630.smt2
+[runlim] start:			Tue May 12 04:14:48 2020
+[runlim] main pid:		22962
+[BTOR>check_sat] 0.000635 seconds
+[runlim] end:			Tue May 12 04:14:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.10 seconds
+[runlim] time:			0.16 seconds
+[runlim] space:			11.1 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3529.smt2
+[runlim] start:			Tue May 12 04:14:49 2020
+[runlim] main pid:		22966
+[BTOR>check_sat] 0.000819 seconds
+[runlim] end:			Tue May 12 04:14:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.31 seconds
+[runlim] time:			0.18 seconds
+[runlim] space:			10.3 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_9905.smt2
+[runlim] start:			Tue May 12 04:14:49 2020
+[runlim] main pid:		22970
+[BTOR>check_sat] 0.181721 seconds
+[runlim] end:			Tue May 12 04:14:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.51 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			3.6 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2560.smt2
+[runlim] start:			Tue May 12 04:14:49 2020
+[runlim] main pid:		22974
+[BTOR>check_sat] 0.000132 seconds
+[runlim] end:			Tue May 12 04:14:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.80 seconds
+[runlim] time:			0.16 seconds
+[runlim] space:			10.9 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5728.smt2
+[runlim] start:			Tue May 12 04:14:49 2020
+[runlim] main pid:		22978
+[BTOR>check_sat] 0.000117 seconds
+[runlim] end:			Tue May 12 04:14:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.84 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2925.smt2
+[runlim] start:			Tue May 12 04:14:49 2020
+[runlim] main pid:		22982
+[BTOR>check_sat] 0.002340 seconds
+[runlim] end:			Tue May 12 04:14:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.64 seconds
+[runlim] time:			1.67 seconds
+[runlim] space:			60.0 MB
+[runlim] samples:		17
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3673.smt2
+[runlim] start:			Tue May 12 04:14:51 2020
+[runlim] main pid:		22986
+[BTOR>check_sat] 0.001046 seconds
+[runlim] end:			Tue May 12 04:14:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.86 seconds
+[runlim] time:			0.17 seconds
+[runlim] space:			11.1 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_15297.smt2
+[runlim] start:			Tue May 12 04:14:51 2020
+[runlim] main pid:		22990
+[BTOR>check_sat] 0.386234 seconds
+[runlim] end:			Tue May 12 04:14:52 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.26 seconds
+[runlim] time:			0.29 seconds
+[runlim] space:			5.4 MB
+[runlim] samples:		3
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_104.smt2
+[runlim] start:			Tue May 12 04:14:52 2020
+[runlim] main pid:		22994
+[BTOR>check_sat] 0.000024 seconds
+[runlim] end:			Tue May 12 04:14:52 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.28 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5285.smt2
+[runlim] start:			Tue May 12 04:14:52 2020
+[runlim] main pid:		22998
+[BTOR>check_sat] 0.000217 seconds
+[runlim] end:			Tue May 12 04:14:52 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.37 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_8567.smt2
+[runlim] start:			Tue May 12 04:14:52 2020
+[runlim] main pid:		23002
+[BTOR>check_sat] 0.000267 seconds
+[runlim] end:			Tue May 12 04:14:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.75 seconds
+[runlim] time:			1.25 seconds
+[runlim] space:			45.7 MB
+[runlim] samples:		13
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_16162.smt2
+[runlim] start:			Tue May 12 04:14:53 2020
+[runlim] main pid:		23006
+[BTOR>check_sat] 2.368981 seconds
+[runlim] end:			Tue May 12 04:14:56 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			3.20 seconds
+[runlim] time:			2.37 seconds
+[runlim] space:			19.9 MB
+[runlim] samples:		24
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_13915.smt2
+[runlim] start:			Tue May 12 04:14:56 2020
+[runlim] main pid:		23010
+[BTOR>check_sat] 2.865009 seconds
+[runlim] end:			Tue May 12 04:14:59 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			3.58 seconds
+[runlim] time:			3.26 seconds
+[runlim] space:			398.1 MB
+[runlim] samples:		33
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_596.smt2
+[runlim] start:			Tue May 12 04:14:59 2020
+[runlim] main pid:		23014
+[BTOR>check_sat] 0.000776 seconds
+[runlim] end:			Tue May 12 04:15:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.10 seconds
+[runlim] time:			1.25 seconds
+[runlim] space:			42.6 MB
+[runlim] samples:		15
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_6000.smt2
+[runlim] start:			Tue May 12 04:15:01 2020
+[runlim] main pid:		23018
+[BTOR>check_sat] 0.014587 seconds
+[runlim] end:			Tue May 12 04:15:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.13 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_8736.smt2
+[runlim] start:			Tue May 12 04:15:01 2020
+[runlim] main pid:		23022
+[runlim] sample:		10.0 time, 10.1 real, 16.3 MB
+[runlim] sample:		20.0 time, 20.1 real, 16.7 MB
+[runlim] sample:		30.0 time, 30.1 real, 20.6 MB
+[BTOR>check_sat] 38.650834 seconds
+[runlim] end:			Tue May 12 04:15:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			38.83 seconds
+[runlim] time:			38.57 seconds
+[runlim] space:			23.3 MB
+[runlim] samples:		386
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1302.smt2
+[runlim] start:			Tue May 12 04:15:39 2020
+[runlim] main pid:		23036
+[BTOR>check_sat] 0.000040 seconds
+[runlim] end:			Tue May 12 04:15:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.86 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5581.smt2
+[runlim] start:			Tue May 12 04:15:39 2020
+[runlim] main pid:		23040
+[BTOR>check_sat] 0.000355 seconds
+[runlim] end:			Tue May 12 04:15:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.29 seconds
+[runlim] time:			1.37 seconds
+[runlim] space:			47.7 MB
+[runlim] samples:		14
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_1874.smt2
+[runlim] start:			Tue May 12 04:15:41 2020
+[runlim] main pid:		23044
+[BTOR>check_sat] 0.016920 seconds
+[runlim] end:			Tue May 12 04:15:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.34 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_2176.smt2
+[runlim] start:			Tue May 12 04:15:41 2020
+[runlim] main pid:		23048
+[BTOR>check_sat] 1.040771 seconds
+[runlim] end:			Tue May 12 04:15:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.41 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			9.7 MB
+[runlim] samples:		10
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5320.smt2
+[runlim] start:			Tue May 12 04:15:42 2020
+[runlim] main pid:		23052
+[BTOR>check_sat] 0.000173 seconds
+[runlim] end:			Tue May 12 04:15:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.50 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_42.smt2
+[runlim] start:			Tue May 12 04:15:42 2020
+[runlim] main pid:		23056
+[BTOR>check_sat] 0.000050 seconds
+[runlim] end:			Tue May 12 04:15:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.52 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app12/bench_4734.smt2
+[runlim] start:			Tue May 12 04:15:42 2020
+[runlim] main pid:		23060
+[BTOR>check_sat] 0.001579 seconds
+[runlim] end:			Tue May 12 04:15:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.53 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1017.smt2
+[runlim] start:			Tue May 12 04:15:42 2020
+[runlim] main pid:		23064
+[BTOR>check_sat] 0.000070 seconds
+[runlim] end:			Tue May 12 04:15:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.58 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_7758.smt2
+[runlim] start:			Tue May 12 04:15:42 2020
+[runlim] main pid:		23068
+[BTOR>check_sat] 0.908185 seconds
+[runlim] end:			Tue May 12 04:15:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.51 seconds
+[runlim] time:			0.89 seconds
+[runlim] space:			9.7 MB
+[runlim] samples:		9
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_16228.smt2
+[runlim] start:			Tue May 12 04:15:43 2020
+[runlim] main pid:		23072
+[BTOR>check_sat] 0.012569 seconds
+[runlim] end:			Tue May 12 04:15:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.55 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3941.smt2
+[runlim] start:			Tue May 12 04:15:43 2020
+[runlim] main pid:		23076
+[BTOR>check_sat] 0.000544 seconds
+[runlim] end:			Tue May 12 04:15:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.73 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			6.7 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_2488.smt2
+[runlim] start:			Tue May 12 04:15:43 2020
+[runlim] main pid:		23080
+[BTOR>check_sat] 0.379603 seconds
+[runlim] end:			Tue May 12 04:15:44 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.15 seconds
+[runlim] time:			0.39 seconds
+[runlim] space:			55.0 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_4792.smt2
+[runlim] start:			Tue May 12 04:15:44 2020
+[runlim] main pid:		23085
+[BTOR>check_sat] 0.000418 seconds
+[runlim] end:			Tue May 12 04:15:45 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.63 seconds
+[runlim] time:			1.36 seconds
+[runlim] space:			49.1 MB
+[runlim] samples:		14
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app9/bench_129.smt2
+[runlim] start:			Tue May 12 04:15:45 2020
+[runlim] main pid:		23089
+[BTOR>check_sat] 0.003124 seconds
+[runlim] end:			Tue May 12 04:15:45 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.66 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_10209.smt2
+[runlim] start:			Tue May 12 04:15:45 2020
+[runlim] main pid:		23093
+[BTOR>check_sat] 0.129369 seconds
+[runlim] end:			Tue May 12 04:15:45 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.81 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			3.2 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_3539.smt2
+[runlim] start:			Tue May 12 04:15:45 2020
+[runlim] main pid:		23097
+[BTOR>check_sat] 0.359325 seconds
+[runlim] end:			Tue May 12 04:15:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.19 seconds
+[runlim] time:			0.29 seconds
+[runlim] space:			5.9 MB
+[runlim] samples:		3
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_3510.smt2
+[runlim] start:			Tue May 12 04:15:46 2020
+[runlim] main pid:		23101
+[BTOR>check_sat] 0.000033 seconds
+[runlim] end:			Tue May 12 04:15:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.22 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2347.smt2
+[runlim] start:			Tue May 12 04:15:46 2020
+[runlim] main pid:		23105
+[BTOR>check_sat] 0.000138 seconds
+[runlim] end:			Tue May 12 04:15:46 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.48 seconds
+[runlim] time:			0.18 seconds
+[runlim] space:			11.9 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_470.smt2
+[runlim] start:			Tue May 12 04:15:46 2020
+[runlim] main pid:		23109
+[BTOR>check_sat] 0.003731 seconds
+[runlim] end:			Tue May 12 04:15:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.42 seconds
+[runlim] time:			1.87 seconds
+[runlim] space:			60.3 MB
+[runlim] samples:		19
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5996.smt2
+[runlim] start:			Tue May 12 04:15:48 2020
+[runlim] main pid:		23113
+[BTOR>check_sat] 0.000076 seconds
+[runlim] end:			Tue May 12 04:15:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.45 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_4231.smt2
+[runlim] start:			Tue May 12 04:15:48 2020
+[runlim] main pid:		23117
+[BTOR>check_sat] 0.000450 seconds
+[runlim] end:			Tue May 12 04:15:48 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.63 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			6.1 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_814.smt2
+[runlim] start:			Tue May 12 04:15:48 2020
+[runlim] main pid:		23121
+[BTOR>check_sat] 0.000862 seconds
+[runlim] end:			Tue May 12 04:15:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.57 seconds
+[runlim] time:			1.89 seconds
+[runlim] space:			60.4 MB
+[runlim] samples:		19
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_458.smt2
+[runlim] start:			Tue May 12 04:15:50 2020
+[runlim] main pid:		23128
+[BTOR>check_sat] 0.003767 seconds
+[runlim] end:			Tue May 12 04:15:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.60 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_4437.smt2
+[runlim] start:			Tue May 12 04:15:50 2020
+[runlim] main pid:		23132
+[BTOR>check_sat] 0.000437 seconds
+[runlim] end:			Tue May 12 04:15:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.77 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			6.4 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1370.smt2
+[runlim] start:			Tue May 12 04:15:50 2020
+[runlim] main pid:		23136
+[BTOR>check_sat] 0.010989 seconds
+[runlim] end:			Tue May 12 04:15:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.80 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3750.smt2
+[runlim] start:			Tue May 12 04:15:50 2020
+[runlim] main pid:		23140
+[BTOR>check_sat] 0.000535 seconds
+[runlim] end:			Tue May 12 04:15:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.01 seconds
+[runlim] time:			0.16 seconds
+[runlim] space:			6.2 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_1403.smt2
+[runlim] start:			Tue May 12 04:15:51 2020
+[runlim] main pid:		23144
+[BTOR>check_sat] 0.000669 seconds
+[runlim] end:			Tue May 12 04:15:52 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.85 seconds
+[runlim] time:			1.78 seconds
+[runlim] space:			60.4 MB
+[runlim] samples:		18
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app11/bench_287.smt2
+[runlim] start:			Tue May 12 04:15:52 2020
+[runlim] main pid:		23148
+[BTOR>check_sat] 0.000230 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.36 seconds
+[runlim] time:			0.47 seconds
+[runlim] space:			29.1 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3441.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23152
+[BTOR>check_sat] 0.000775 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.57 seconds
+[runlim] time:			0.18 seconds
+[runlim] space:			11.6 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3829.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23156
+[BTOR>check_sat] 0.000602 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.77 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			6.7 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1122.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23160
+[BTOR>check_sat] 0.000046 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.81 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1249.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23164
+[BTOR>check_sat] 0.000040 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.83 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_9047.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23168
+[BTOR>check_sat] 0.141874 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.99 seconds
+[runlim] time:			0.08 seconds
+[runlim] space:			3.5 MB
+[runlim] samples:		1
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app12/bench_286.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23172
+[BTOR>check_sat] 0.000024 seconds
+[runlim] end:			Tue May 12 04:15:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.00 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_6112.smt2
+[runlim] start:			Tue May 12 04:15:53 2020
+[runlim] main pid:		23176
+[BTOR>check_sat] 0.000088 seconds
+[runlim] end:			Tue May 12 04:15:54 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.02 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_82.smt2
+[runlim] start:			Tue May 12 04:15:54 2020
+[runlim] main pid:		23180
+[BTOR>check_sat] 0.360806 seconds
+[runlim] end:			Tue May 12 04:15:54 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.44 seconds
+[runlim] time:			0.38 seconds
+[runlim] space:			51.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_620.smt2
+[runlim] start:			Tue May 12 04:15:54 2020
+[runlim] main pid:		23184
+[BTOR>check_sat] 0.000732 seconds
+[runlim] end:			Tue May 12 04:15:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.71 seconds
+[runlim] time:			1.18 seconds
+[runlim] space:			42.0 MB
+[runlim] samples:		12
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1012.smt2
+[runlim] start:			Tue May 12 04:15:55 2020
+[runlim] main pid:		23188
+[BTOR>check_sat] 0.000053 seconds
+[runlim] end:			Tue May 12 04:15:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.76 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_350.smt2
+[runlim] start:			Tue May 12 04:15:55 2020
+[runlim] main pid:		23192
+[runlim] sample:		10.0 time, 10.8 real, 8.6 MB
+[runlim] sample:		20.0 time, 20.8 real, 10.4 MB
+[runlim] sample:		30.0 time, 30.8 real, 10.6 MB
+[runlim] sample:		40.0 time, 40.8 real, 13.9 MB
+[runlim] sample:		50.0 time, 50.8 real, 12.9 MB
+[runlim] sample:		60.0 time, 60.8 real, 14.4 MB
+[runlim] sample:		70.0 time, 70.8 real, 14.1 MB
+[runlim] sample:		80.0 time, 80.8 real, 14.3 MB
+[runlim] sample:		90.0 time, 90.8 real, 16.9 MB
+[runlim] sample:		100.0 time, 100.8 real, 20.6 MB
+[runlim] sample:		110.0 time, 110.8 real, 17.9 MB
+[runlim] sample:		120.0 time, 120.8 real, 20.4 MB
+[runlim] sample:		130.0 time, 130.8 real, 20.0 MB
+[runlim] sample:		140.0 time, 140.8 real, 16.5 MB
+[runlim] sample:		150.0 time, 150.8 real, 16.1 MB
+[runlim] sample:		160.0 time, 160.8 real, 16.6 MB
+[runlim] sample:		170.0 time, 170.8 real, 19.0 MB
+[runlim] sample:		180.0 time, 180.8 real, 19.2 MB
+[runlim] sample:		190.0 time, 190.8 real, 18.0 MB
+[runlim] sample:		200.0 time, 200.8 real, 18.5 MB
+[runlim] sample:		210.0 time, 210.8 real, 21.9 MB
+[runlim] sample:		220.0 time, 220.8 real, 21.2 MB
+[runlim] sample:		230.0 time, 230.8 real, 17.3 MB
+[runlim] sample:		240.0 time, 240.8 real, 19.5 MB
+[runlim] sample:		250.0 time, 250.8 real, 18.3 MB
+[runlim] sample:		260.0 time, 260.8 real, 20.5 MB
+[runlim] sample:		270.0 time, 270.8 real, 22.4 MB
+[runlim] sample:		280.0 time, 280.8 real, 19.9 MB
+[runlim] sample:		290.0 time, 290.8 real, 24.3 MB
+[runlim] sample:		300.0 time, 300.8 real, 23.0 MB
+[runlim] sample:		310.0 time, 310.8 real, 22.2 MB
+[runlim] sample:		320.0 time, 320.8 real, 19.6 MB
+[runlim] sample:		330.0 time, 330.8 real, 23.2 MB
+[runlim] sample:		340.0 time, 340.8 real, 24.2 MB
+[runlim] sample:		350.0 time, 350.8 real, 25.0 MB
+[runlim] sample:		360.0 time, 360.8 real, 24.2 MB
+[runlim] sample:		370.0 time, 370.8 real, 22.3 MB
+[runlim] sample:		380.0 time, 380.8 real, 26.2 MB
+[runlim] sample:		390.0 time, 390.8 real, 21.6 MB
+[runlim] sample:		400.0 time, 400.8 real, 23.7 MB
+[runlim] sample:		410.0 time, 410.8 real, 21.6 MB
+[runlim] sample:		420.0 time, 420.8 real, 23.6 MB
+[runlim] sample:		430.0 time, 430.8 real, 25.2 MB
+[runlim] sample:		440.0 time, 440.8 real, 26.2 MB
+[runlim] sample:		450.0 time, 450.8 real, 24.0 MB
+[runlim] sample:		460.0 time, 460.8 real, 23.5 MB
+[runlim] sample:		470.0 time, 470.8 real, 24.5 MB
+[runlim] sample:		480.0 time, 480.8 real, 25.0 MB
+[runlim] sample:		489.9 time, 490.8 real, 26.3 MB
+[runlim] sample:		500.0 time, 500.8 real, 26.2 MB
+[runlim] sample:		509.9 time, 510.8 real, 29.7 MB
+[runlim] sample:		520.0 time, 520.8 real, 34.3 MB
+[runlim] sample:		530.0 time, 530.8 real, 30.7 MB
+[runlim] sample:		540.0 time, 540.8 real, 30.4 MB
+[runlim] sample:		550.0 time, 550.8 real, 33.3 MB
+[runlim] sample:		560.0 time, 560.8 real, 28.0 MB
+[runlim] sample:		570.0 time, 570.8 real, 30.9 MB
+[runlim] sample:		580.0 time, 580.8 real, 27.6 MB
+[runlim] sample:		590.0 time, 590.8 real, 31.7 MB
+[runlim] sample:		600.0 time, 600.8 real, 26.2 MB
+[runlim] sample:		610.0 time, 610.8 real, 32.5 MB
+[runlim] sample:		620.0 time, 620.8 real, 29.4 MB
+[runlim] sample:		630.0 time, 630.8 real, 29.0 MB
+[runlim] sample:		640.0 time, 640.8 real, 28.4 MB
+[runlim] sample:		650.0 time, 650.8 real, 32.3 MB
+[runlim] sample:		660.0 time, 660.8 real, 27.0 MB
+[runlim] sample:		670.0 time, 670.8 real, 26.9 MB
+[runlim] sample:		680.0 time, 680.8 real, 26.0 MB
+[runlim] sample:		690.0 time, 690.8 real, 37.3 MB
+[runlim] sample:		700.0 time, 700.8 real, 29.3 MB
+[runlim] sample:		710.0 time, 710.8 real, 35.1 MB
+[runlim] sample:		720.0 time, 720.8 real, 32.5 MB
+[runlim] sample:		729.9 time, 730.8 real, 31.5 MB
+[runlim] sample:		739.9 time, 740.8 real, 31.9 MB
+[runlim] sample:		750.0 time, 750.8 real, 31.9 MB
+[runlim] sample:		759.9 time, 760.8 real, 29.2 MB
+[runlim] sample:		769.9 time, 770.8 real, 29.7 MB
+[runlim] sample:		780.0 time, 780.8 real, 26.7 MB
+[runlim] sample:		790.0 time, 790.8 real, 26.9 MB
+[runlim] sample:		799.9 time, 800.8 real, 34.7 MB
+[runlim] sample:		809.9 time, 810.8 real, 30.8 MB
+[runlim] sample:		819.9 time, 820.8 real, 31.9 MB
+[runlim] sample:		829.9 time, 830.8 real, 33.3 MB
+[runlim] sample:		839.9 time, 840.8 real, 34.9 MB
+[runlim] sample:		849.9 time, 850.8 real, 34.9 MB
+[runlim] sample:		859.9 time, 860.8 real, 32.3 MB
+[runlim] sample:		869.9 time, 870.8 real, 33.4 MB
+[runlim] sample:		879.9 time, 880.8 real, 37.7 MB
+[runlim] sample:		889.9 time, 890.8 real, 34.4 MB
+[runlim] sample:		899.9 time, 900.8 real, 34.4 MB
+[runlim] sample:		909.9 time, 910.8 real, 34.0 MB
+[runlim] sample:		919.9 time, 920.8 real, 29.7 MB
+[runlim] sample:		929.9 time, 930.8 real, 37.2 MB
+[runlim] sample:		939.9 time, 940.8 real, 29.4 MB
+[runlim] sample:		949.9 time, 950.8 real, 31.1 MB
+[runlim] sample:		959.9 time, 960.8 real, 35.7 MB
+[runlim] sample:		969.9 time, 970.8 real, 36.0 MB
+[runlim] sample:		979.9 time, 980.8 real, 34.6 MB
+[runlim] sample:		989.9 time, 990.8 real, 36.2 MB
+[runlim] sample:		999.9 time, 1000.8 real, 34.0 MB
+[runlim] sample:		1009.9 time, 1010.8 real, 40.4 MB
+[runlim] sample:		1019.9 time, 1020.8 real, 35.0 MB
+[runlim] sample:		1029.9 time, 1030.8 real, 33.6 MB
+[runlim] sample:		1039.9 time, 1040.8 real, 36.2 MB
+[runlim] sample:		1049.9 time, 1050.8 real, 32.5 MB
+[runlim] sample:		1059.9 time, 1060.8 real, 35.6 MB
+[runlim] sample:		1069.9 time, 1070.8 real, 36.6 MB
+[runlim] sample:		1079.9 time, 1080.8 real, 30.9 MB
+[runlim] sample:		1089.9 time, 1090.8 real, 30.6 MB
+[runlim] sample:		1099.9 time, 1100.8 real, 31.9 MB
+[runlim] sample:		1109.9 time, 1110.8 real, 36.0 MB
+[runlim] sample:		1119.9 time, 1120.8 real, 35.7 MB
+[runlim] sample:		1129.9 time, 1130.8 real, 36.1 MB
+[runlim] sample:		1139.9 time, 1140.8 real, 35.0 MB
+[runlim] sample:		1149.9 time, 1150.8 real, 33.4 MB
+[runlim] sample:		1159.9 time, 1160.8 real, 32.0 MB
+[runlim] sample:		1169.9 time, 1170.8 real, 31.5 MB
+[runlim] sample:		1179.9 time, 1180.8 real, 39.7 MB
+[runlim] sample:		1189.9 time, 1190.8 real, 34.7 MB
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.09 seconds
+[runlim] time:			1199.22 seconds
+[runlim] space:			42.2 MB
+[runlim] samples:		11993
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_6604.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23512
+[BTOR>check_sat] 0.011097 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.13 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app11/bench_553.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23516
+[BTOR>check_sat] 0.000249 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.65 seconds
+[runlim] time:			0.45 seconds
+[runlim] space:			28.6 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_254.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23520
+[BTOR>check_sat] 0.000023 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.67 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_2286.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23524
+[BTOR>check_sat] 0.000031 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.68 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_782.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23528
+[BTOR>check_sat] 0.000020 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.70 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1057.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23532
+[BTOR>check_sat] 0.000040 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.72 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_6659.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23536
+[BTOR>check_sat] 0.163187 seconds
+[runlim] end:			Tue May 12 04:35:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.99 seconds
+[runlim] time:			0.09 seconds
+[runlim] space:			3.6 MB
+[runlim] samples:		2
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_286.smt2
+[runlim] start:			Tue May 12 04:35:55 2020
+[runlim] main pid:		23540
+[BTOR>check_sat] 0.000200 seconds
+[runlim] end:			Tue May 12 04:35:57 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.35 seconds
+[runlim] time:			1.27 seconds
+[runlim] space:			45.5 MB
+[runlim] samples:		13
