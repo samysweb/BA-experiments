@@ -12,7 +12,7 @@ UPPER_TO=1220
 # List of benchmarks to run (paths relative to BENCHMARK_PATH)
 BENCHMARK_LIST="unsat_mul_xdiv_xrem.txt"
 # Additional arguments for the binary
-ARGS="--ufReuse=1"
+ARGS="--ufReuse=1 --unsigned"
 
 
 if [ `hostname` = "hal9000" ]; then
