@@ -40,3 +40,18 @@ then
     buildHist Ablector_2019/sat/2020-05-11T10:52+02:00 SdivNode 2 3
     buildHist Ablector_2019/sat/2020-05-11T10:52+02:00 UdivNode 2 3
 fi
+
+if newDir results/sat/Ablector-unsigned
+then
+    compare Ablector_unsigned Ablector_2019/sat/2020-05-13T14:43+02:00 2 Ablector_signed Ablector_2019/sat/2020-05-11T10:52+02:00 2 satpart
+fi
+
+if newDir results/unsat/Ablector-unsigned
+then
+    compare Ablector_unsigned Ablector_2019/unsat/2020-05-13T14:43+02:00 2 Ablector_signed Ablector_2019/unsat/2020-05-11T10:51+02:00 2 satpart
+fi
+
+if newDir results/unknown/Ablector-unsigned
+then
+    compare Ablector_unsigned Ablector_2019/unknown/2020-05-13T14:42+02:00/ 2 Ablector_signed Ablector_2019/unknown/2020-05-12T11:13+02:00 2 satpart
+fi
