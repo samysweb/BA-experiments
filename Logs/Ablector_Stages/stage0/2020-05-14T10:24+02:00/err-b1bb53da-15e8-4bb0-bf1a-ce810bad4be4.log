@@ -1,0 +1,4337 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_3320.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:24:40 2020
+[runlim] main pid:		518
+[Ablector] INFO: *** ROUND 0
+[runlim] sample:		3.4 time, 10.4 real, 83.6 MB
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.500985
+[Ablector] INFO: SAT TIME: 2.482860
+[Ablector] INFO: REF TIME: 0.682287
+[runlim] end:			Thu May 14 10:24:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			10.70 seconds
+[runlim] time:			3.66 seconds
+[runlim] space:			104.8 MB
+[runlim] samples:		103
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_957.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:24:51 2020
+[runlim] main pid:		564
+[Ablector] INFO: ABLECTOR TIME: 0.003617
+[runlim] end:			Thu May 14 10:24:51 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.70 seconds
+[runlim] time:			1.02 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_10515.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:24:52 2020
+[runlim] main pid:		585
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 4.506113
+[Ablector] INFO: SAT TIME: 4.495515
+[Ablector] INFO: REF TIME: 0.298954
+[runlim] end:			Thu May 14 10:24:57 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			5.13 seconds
+[runlim] time:			5.56 seconds
+[runlim] space:			71.3 MB
+[runlim] samples:		50
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_478.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:24:57 2020
+[runlim] main pid:		613
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.270931
+[Ablector] INFO: SAT TIME: 0.263407
+[Ablector] INFO: REF TIME: 0.105686
+[runlim] end:			Thu May 14 10:24:58 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.51 seconds
+[runlim] time:			1.45 seconds
+[runlim] space:			51.0 MB
+[runlim] samples:		10
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app11/bench_443.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:24:58 2020
+[runlim] main pid:		649
+[Ablector] INFO: ABLECTOR TIME: 0.003829
+[runlim] end:			Thu May 14 10:24:59 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		5
+[runlim] real:			1.82 seconds
+[runlim] time:			1.33 seconds
+[runlim] space:			66.8 MB
+[runlim] samples:		9
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_7599.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:00 2020
+[runlim] main pid:		669
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.611980
+[Ablector] INFO: SAT TIME: 0.605571
+[Ablector] INFO: REF TIME: 0.088688
+[runlim] end:			Thu May 14 10:25:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.32 seconds
+[runlim] time:			1.61 seconds
+[runlim] space:			52.5 MB
+[runlim] samples:		11
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3672.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:01 2020
+[runlim] main pid:		689
+[Ablector] INFO: ABLECTOR TIME: 0.003991
+[runlim] end:			Thu May 14 10:25:02 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			1.31 seconds
+[runlim] time:			1.00 seconds
+[runlim] space:			45.6 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2310.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:02 2020
+[runlim] main pid:		710
+[Ablector] INFO: ABLECTOR TIME: 0.003878
+[runlim] end:			Thu May 14 10:25:03 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		3
+[runlim] real:			1.38 seconds
+[runlim] time:			1.11 seconds
+[runlim] space:			50.4 MB
+[runlim] samples:		7
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_17274.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:03 2020
+[runlim] main pid:		731
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.385156
+[Ablector] INFO: SAT TIME: 0.380296
+[Ablector] INFO: REF TIME: 0.010736
+[runlim] end:			Thu May 14 10:25:04 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.70 seconds
+[runlim] time:			1.46 seconds
+[runlim] space:			44.9 MB
+[runlim] samples:		9
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_5854.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:05 2020
+[runlim] main pid:		751
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.288274
+[Ablector] INFO: SAT TIME: 0.282575
+[Ablector] INFO: REF TIME: 0.069857
+[runlim] end:			Thu May 14 10:25:05 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.81 seconds
+[runlim] time:			1.27 seconds
+[runlim] space:			46.1 MB
+[runlim] samples:		7
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_785.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:06 2020
+[runlim] main pid:		771
+[Ablector] INFO: ABLECTOR TIME: 0.003741
+[runlim] end:			Thu May 14 10:25:06 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.77 seconds
+[runlim] time:			1.03 seconds
+[runlim] space:			39.9 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app5/bench_1022.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:07 2020
+[runlim] main pid:		791
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 1
+[SdivNode] INFO: Level 3 - Bit 0
+[SdivNode] INFO: Level 3 - Bit 0
+[SdivNode] INFO: Level 3 - Bit 0
+[SdivNode] INFO: Level 3 - Bit 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 3 - Bit 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 3 - Bit 0
+[MulNode] INFO: Level 4 - Bit 0
+[MulNode] INFO: Level 4 - Bit 0
+[SdivNode] INFO: Level 3 - Bit 0
+[Ablector] INFO: ABLECTOR TIME: 0.226315
+[Ablector] INFO: SAT TIME: 0.217531
+[Ablector] INFO: REF TIME: 0.052120
+[runlim] end:			Thu May 14 10:25:07 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.81 seconds
+[runlim] time:			1.16 seconds
+[runlim] space:			45.3 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_10030.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:08 2020
+[runlim] main pid:		811
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.716661
+[Ablector] INFO: SAT TIME: 2.700631
+[Ablector] INFO: REF TIME: 0.546981
+[runlim] end:			Thu May 14 10:25:11 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			3.69 seconds
+[runlim] time:			4.01 seconds
+[runlim] space:			105.7 MB
+[runlim] samples:		35
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5149.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:12 2020
+[runlim] main pid:		831
+[Ablector] INFO: ABLECTOR TIME: 0.003621
+[runlim] end:			Thu May 14 10:25:12 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.71 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_234.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:13 2020
+[runlim] main pid:		851
+[Ablector] INFO: ABLECTOR TIME: 0.003768
+[runlim] end:			Thu May 14 10:25:14 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		13
+[runlim] real:			1.91 seconds
+[runlim] time:			2.24 seconds
+[runlim] space:			83.1 MB
+[runlim] samples:		18
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_51.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:15 2020
+[runlim] main pid:		871
+[Ablector] INFO: ABLECTOR TIME: 0.003911
+[runlim] end:			Thu May 14 10:25:17 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		14
+[runlim] real:			2.06 seconds
+[runlim] time:			2.24 seconds
+[runlim] space:			83.5 MB
+[runlim] samples:		17
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_15336.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:17 2020
+[runlim] main pid:		892
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 2.349281
+[Ablector] INFO: SAT TIME: 2.330983
+[Ablector] INFO: REF TIME: 0.717136
+[runlim] end:			Thu May 14 10:25:20 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			3.49 seconds
+[runlim] time:			3.53 seconds
+[runlim] space:			85.8 MB
+[runlim] samples:		30
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1360.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:20 2020
+[runlim] main pid:		912
+[Ablector] INFO: ABLECTOR TIME: 0.003732
+[runlim] end:			Thu May 14 10:25:21 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.34 seconds
+[runlim] time:			0.99 seconds
+[runlim] space:			37.0 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_1888.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:21 2020
+[runlim] main pid:		932
+[Ablector] INFO: ABLECTOR TIME: 0.003765
+[runlim] end:			Thu May 14 10:25:22 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		3
+[runlim] real:			1.55 seconds
+[runlim] time:			1.22 seconds
+[runlim] space:			53.5 MB
+[runlim] samples:		8
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5342.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:22 2020
+[runlim] main pid:		952
+[Ablector] INFO: ABLECTOR TIME: 0.003836
+[runlim] end:			Thu May 14 10:25:23 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.40 seconds
+[runlim] time:			1.00 seconds
+[runlim] space:			40.0 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5881.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:23 2020
+[runlim] main pid:		972
+[Ablector] INFO: ABLECTOR TIME: 0.003721
+[runlim] end:			Thu May 14 10:25:24 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.24 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_10403.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:24 2020
+[runlim] main pid:		992
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 7.183889
+[Ablector] INFO: SAT TIME: 7.173963
+[Ablector] INFO: REF TIME: 0.303389
+[runlim] end:			Thu May 14 10:25:32 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			8.39 seconds
+[runlim] time:			8.32 seconds
+[runlim] space:			71.7 MB
+[runlim] samples:		78
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5531.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:32 2020
+[runlim] main pid:		1013
+[Ablector] INFO: ABLECTOR TIME: 0.003772
+[runlim] end:			Thu May 14 10:25:33 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.27 seconds
+[runlim] time:			1.04 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1456.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:33 2020
+[runlim] main pid:		1033
+[Ablector] INFO: ABLECTOR TIME: 0.003586
+[runlim] end:			Thu May 14 10:25:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.09 seconds
+[runlim] time:			0.97 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_969.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:34 2020
+[runlim] main pid:		1053
+[Ablector] INFO: ABLECTOR TIME: 0.003613
+[runlim] end:			Thu May 14 10:25:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.93 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_12937.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:35 2020
+[runlim] main pid:		1073
+[Ablector] INFO: ABLECTOR TIME: 0.003577
+[runlim] end:			Thu May 14 10:25:35 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.71 seconds
+[runlim] time:			0.96 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_614.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:36 2020
+[runlim] main pid:		1093
+[Ablector] INFO: ABLECTOR TIME: 0.003696
+[runlim] end:			Thu May 14 10:25:38 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		18
+[runlim] real:			2.42 seconds
+[runlim] time:			2.70 seconds
+[runlim] space:			98.0 MB
+[runlim] samples:		23
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_11378.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:38 2020
+[runlim] main pid:		1114
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.207010
+[Ablector] INFO: SAT TIME: 0.200403
+[Ablector] INFO: REF TIME: 0.116252
+[runlim] end:			Thu May 14 10:25:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.61 seconds
+[runlim] time:			1.35 seconds
+[runlim] space:			46.4 MB
+[runlim] samples:		8
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_2597.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:39 2020
+[runlim] main pid:		1136
+[Ablector] INFO: ABLECTOR TIME: 0.003501
+[runlim] end:			Thu May 14 10:25:40 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.46 seconds
+[runlim] time:			0.97 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_15598.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:40 2020
+[runlim] main pid:		1156
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 1.915739
+[Ablector] INFO: SAT TIME: 1.909380
+[Ablector] INFO: REF TIME: 0.010602
+[runlim] end:			Thu May 14 10:25:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			3.48 seconds
+[runlim] time:			3.13 seconds
+[runlim] space:			69.0 MB
+[runlim] samples:		26
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2154.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:43 2020
+[runlim] main pid:		1176
+[Ablector] INFO: ABLECTOR TIME: 0.003918
+[runlim] end:			Thu May 14 10:25:44 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		3
+[runlim] real:			1.55 seconds
+[runlim] time:			1.16 seconds
+[runlim] space:			51.3 MB
+[runlim] samples:		7
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3645.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:44 2020
+[runlim] main pid:		1197
+[Ablector] INFO: ABLECTOR TIME: 0.003888
+[runlim] end:			Thu May 14 10:25:45 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			1.53 seconds
+[runlim] time:			1.06 seconds
+[runlim] space:			45.1 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_8838.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:45 2020
+[runlim] main pid:		1217
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.662329
+[Ablector] INFO: SAT TIME: 0.657364
+[Ablector] INFO: REF TIME: 0.011213
+[runlim] end:			Thu May 14 10:25:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.15 seconds
+[runlim] time:			1.75 seconds
+[runlim] space:			49.0 MB
+[runlim] samples:		12
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_3480.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:47 2020
+[runlim] main pid:		1237
+[Ablector] INFO: ABLECTOR TIME: 0.003633
+[runlim] end:			Thu May 14 10:25:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.92 seconds
+[runlim] time:			0.96 seconds
+[runlim] space:			37.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_17532.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:48 2020
+[runlim] main pid:		1257
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.889200
+[Ablector] INFO: SAT TIME: 0.883145
+[Ablector] INFO: REF TIME: 0.056431
+[runlim] end:			Thu May 14 10:25:49 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.73 seconds
+[runlim] time:			1.94 seconds
+[runlim] space:			53.5 MB
+[runlim] samples:		14
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app9/bench_3280.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:50 2020
+[runlim] main pid:		1277
+[Ablector] INFO: ABLECTOR TIME: 0.003716
+[runlim] end:			Thu May 14 10:25:50 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.57 seconds
+[runlim] time:			0.97 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_1309.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:50 2020
+[runlim] main pid:		1297
+[Ablector] INFO: ABLECTOR TIME: 0.003820
+[runlim] end:			Thu May 14 10:25:52 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		7
+[runlim] real:			2.07 seconds
+[runlim] time:			1.55 seconds
+[runlim] space:			67.9 MB
+[runlim] samples:		11
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2278.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:52 2020
+[runlim] main pid:		1317
+[Ablector] INFO: ABLECTOR TIME: 0.003865
+[runlim] end:			Thu May 14 10:25:53 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		3
+[runlim] real:			1.16 seconds
+[runlim] time:			1.16 seconds
+[runlim] space:			49.6 MB
+[runlim] samples:		7
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app11/bench_587.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:53 2020
+[runlim] main pid:		1337
+[Ablector] INFO: ABLECTOR TIME: 0.003815
+[runlim] end:			Thu May 14 10:25:54 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		4
+[runlim] real:			1.47 seconds
+[runlim] time:			1.34 seconds
+[runlim] space:			67.0 MB
+[runlim] samples:		9
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3440.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:54 2020
+[runlim] main pid:		1357
+[Ablector] INFO: ABLECTOR TIME: 0.003788
+[runlim] end:			Thu May 14 10:25:55 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		3
+[runlim] real:			1.49 seconds
+[runlim] time:			1.10 seconds
+[runlim] space:			49.4 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_16738.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:55 2020
+[runlim] main pid:		1378
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 1.894938
+[Ablector] INFO: SAT TIME: 1.888570
+[Ablector] INFO: REF TIME: 0.010641
+[runlim] end:			Thu May 14 10:25:58 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			3.50 seconds
+[runlim] time:			3.14 seconds
+[runlim] space:			67.2 MB
+[runlim] samples:		26
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_531.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:58 2020
+[runlim] main pid:		1398
+[Ablector] INFO: ABLECTOR TIME: 0.003857
+[runlim] end:			Thu May 14 10:25:59 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.36 seconds
+[runlim] time:			1.01 seconds
+[runlim] space:			37.7 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_11583.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:25:59 2020
+[runlim] main pid:		1418
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.200558
+[Ablector] INFO: SAT TIME: 0.195865
+[Ablector] INFO: REF TIME: 0.011016
+[runlim] end:			Thu May 14 10:26:00 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.40 seconds
+[runlim] time:			1.16 seconds
+[runlim] space:			43.1 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3193.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:00 2020
+[runlim] main pid:		1438
+[Ablector] INFO: ABLECTOR TIME: 0.003941
+[runlim] end:			Thu May 14 10:26:01 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			1.39 seconds
+[runlim] time:			1.04 seconds
+[runlim] space:			46.3 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app12/bench_4596.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:01 2020
+[runlim] main pid:		1458
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 1
+[MulNode] INFO: Level 4 - Bit 0
+[MulNode] INFO: Level 4 - Bit 0
+[Ablector] INFO: ABLECTOR TIME: 0.126114
+[Ablector] INFO: SAT TIME: 0.121409
+[Ablector] INFO: REF TIME: 0.021349
+[runlim] end:			Thu May 14 10:26:02 2020
+[runlim] status:		segmentation fault
+[runlim] result:		4
+[runlim] children:		0
+[runlim] real:			1.56 seconds
+[runlim] time:			1.12 seconds
+[runlim] space:			41.7 MB
+[runlim] samples:		8
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_940.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:02 2020
+[runlim] main pid:		1478
+[Ablector] INFO: ABLECTOR TIME: 0.003700
+[runlim] end:			Thu May 14 10:26:03 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.40 seconds
+[runlim] time:			0.97 seconds
+[runlim] space:			37.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_2972.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:03 2020
+[runlim] main pid:		1498
+[Ablector] INFO: ABLECTOR TIME: 0.003975
+[runlim] end:			Thu May 14 10:26:04 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		3
+[runlim] real:			1.42 seconds
+[runlim] time:			1.13 seconds
+[runlim] space:			49.2 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_314.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:04 2020
+[runlim] main pid:		1518
+[Ablector] INFO: ABLECTOR TIME: 0.003767
+[runlim] end:			Thu May 14 10:26:05 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.24 seconds
+[runlim] time:			0.96 seconds
+[runlim] space:			40.9 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_668.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:05 2020
+[runlim] main pid:		1538
+[Ablector] INFO: ABLECTOR TIME: 0.003794
+[runlim] end:			Thu May 14 10:26:06 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.10 seconds
+[runlim] time:			0.99 seconds
+[runlim] space:			41.1 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3930.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:06 2020
+[runlim] main pid:		1558
+[Ablector] INFO: ABLECTOR TIME: 0.003826
+[runlim] end:			Thu May 14 10:26:07 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.10 seconds
+[runlim] time:			1.05 seconds
+[runlim] space:			44.0 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_2389.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:07 2020
+[runlim] main pid:		1578
+[Ablector] INFO: ABLECTOR TIME: 0.003524
+[runlim] end:			Thu May 14 10:26:07 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.94 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_4564.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:08 2020
+[runlim] main pid:		1600
+[Ablector] INFO: ABLECTOR TIME: 0.003830
+[runlim] end:			Thu May 14 10:26:08 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.91 seconds
+[runlim] time:			1.03 seconds
+[runlim] space:			43.9 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_4599.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:09 2020
+[runlim] main pid:		1620
+[Ablector] INFO: ABLECTOR TIME: 0.003886
+[runlim] end:			Thu May 14 10:26:09 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			0.86 seconds
+[runlim] time:			1.09 seconds
+[runlim] space:			45.1 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_3762.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:10 2020
+[runlim] main pid:		1640
+[Ablector] INFO: *** ROUND 0
+[runlim] sample:		10.5 time, 10.2 real, 125.8 MB
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 13.628888
+[Ablector] INFO: SAT TIME: 13.613433
+[Ablector] INFO: REF TIME: 0.548345
+[runlim] end:			Thu May 14 10:26:24 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			14.97 seconds
+[runlim] time:			15.19 seconds
+[runlim] space:			127.2 MB
+[runlim] samples:		147
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_257.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:25 2020
+[runlim] main pid:		1663
+[Ablector] INFO: *** ROUND 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[SdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.199941
+[Ablector] INFO: SAT TIME: 0.192430
+[Ablector] INFO: REF TIME: 0.037217
+[runlim] end:			Thu May 14 10:26:26 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.14 seconds
+[runlim] time:			1.15 seconds
+[runlim] space:			55.4 MB
+[runlim] samples:		7
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_13863.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:26 2020
+[runlim] main pid:		1683
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[UdivNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.914017
+[Ablector] INFO: SAT TIME: 3.875955
+[Ablector] INFO: REF TIME: 1.707038
+[runlim] end:			Thu May 14 10:26:32 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			6.26 seconds
+[runlim] time:			6.16 seconds
+[runlim] space:			238.9 MB
+[runlim] samples:		57
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3703.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:32 2020
+[runlim] main pid:		1704
+[Ablector] INFO: ABLECTOR TIME: 0.003803
+[runlim] end:			Thu May 14 10:26:34 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		16
+[runlim] real:			2.72 seconds
+[runlim] time:			2.50 seconds
+[runlim] space:			93.1 MB
+[runlim] samples:		21
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_1361.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:35 2020
+[runlim] main pid:		1724
+[Ablector] INFO: ABLECTOR TIME: 0.003615
+[runlim] end:			Thu May 14 10:26:35 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.55 seconds
+[runlim] time:			0.90 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5687.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:35 2020
+[runlim] main pid:		1744
+[Ablector] INFO: ABLECTOR TIME: 0.003710
+[runlim] end:			Thu May 14 10:26:36 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.40 seconds
+[runlim] time:			1.02 seconds
+[runlim] space:			38.0 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5660.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:36 2020
+[runlim] main pid:		1764
+[Ablector] INFO: ABLECTOR TIME: 0.003666
+[runlim] end:			Thu May 14 10:26:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.26 seconds
+[runlim] time:			1.02 seconds
+[runlim] space:			37.9 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_5566.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:37 2020
+[runlim] main pid:		1784
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.590002
+[Ablector] INFO: SAT TIME: 0.583657
+[Ablector] INFO: REF TIME: 0.090241
+[runlim] end:			Thu May 14 10:26:38 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.69 seconds
+[runlim] time:			1.56 seconds
+[runlim] space:			52.1 MB
+[runlim] samples:		10
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app1/bench_1968.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:39 2020
+[runlim] main pid:		1805
+[Ablector] INFO: ABLECTOR TIME: 0.003638
+[runlim] end:			Thu May 14 10:26:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.49 seconds
+[runlim] time:			0.95 seconds
+[runlim] space:			38.0 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_774.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:39 2020
+[runlim] main pid:		1825
+[Ablector] INFO: ABLECTOR TIME: 0.003822
+[runlim] end:			Thu May 14 10:26:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		12
+[runlim] real:			2.46 seconds
+[runlim] time:			2.03 seconds
+[runlim] space:			77.5 MB
+[runlim] samples:		16
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_737.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:41 2020
+[runlim] main pid:		1846
+[Ablector] INFO: ABLECTOR TIME: 0.003658
+[runlim] end:			Thu May 14 10:26:42 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			1.28 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_4053.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:42 2020
+[runlim] main pid:		1866
+[Ablector] INFO: ABLECTOR TIME: 0.003720
+[runlim] end:			Thu May 14 10:26:43 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			1.27 seconds
+[runlim] time:			1.06 seconds
+[runlim] space:			44.2 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app12/bench_676.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:43 2020
+[runlim] main pid:		1886
+[Ablector] INFO: ABLECTOR TIME: 0.003719
+[runlim] end:			Thu May 14 10:26:44 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.09 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_14900.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:26:44 2020
+[runlim] main pid:		1906
+[Ablector] INFO: *** ROUND 0
+[runlim] sample:		10.5 time, 10.4 real, 81.5 MB
+[runlim] sample:		20.5 time, 20.4 real, 91.1 MB
+[runlim] sample:		30.5 time, 30.4 real, 95.2 MB
+[runlim] sample:		40.5 time, 40.4 real, 96.2 MB
+[runlim] sample:		50.5 time, 50.4 real, 97.8 MB
+[runlim] sample:		60.5 time, 60.4 real, 98.3 MB
+[runlim] sample:		70.5 time, 70.4 real, 106.0 MB
+[runlim] sample:		80.5 time, 80.4 real, 106.0 MB
+[runlim] sample:		90.5 time, 90.4 real, 110.8 MB
+[runlim] sample:		100.5 time, 100.4 real, 110.8 MB
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 101.962240
+[Ablector] INFO: SAT TIME: 101.946083
+[Ablector] INFO: REF TIME: 0.562691
+[runlim] end:			Thu May 14 10:28:27 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			103.24 seconds
+[runlim] time:			103.21 seconds
+[runlim] space:			110.8 MB
+[runlim] samples:		1027
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/log-slicing/bvmul_16.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:28:27 2020
+[runlim] main pid:		1941
+[Ablector] INFO: *** ROUND 0
+[Ablector] INFO: *** ROUND 1
+[runlim] sample:		10.4 time, 10.6 real, 53.2 MB
+[runlim] sample:		20.4 time, 20.6 real, 57.5 MB
+[runlim] sample:		30.4 time, 30.6 real, 60.1 MB
+[runlim] sample:		40.4 time, 40.6 real, 61.9 MB
+[runlim] sample:		50.4 time, 50.6 real, 64.0 MB
+[runlim] sample:		60.4 time, 60.6 real, 64.2 MB
+[runlim] sample:		70.4 time, 70.6 real, 67.2 MB
+[runlim] sample:		80.4 time, 80.6 real, 65.0 MB
+[runlim] sample:		90.4 time, 90.6 real, 65.9 MB
+[runlim] sample:		100.4 time, 100.6 real, 67.1 MB
+[runlim] sample:		110.4 time, 110.6 real, 70.1 MB
+[runlim] sample:		120.4 time, 120.6 real, 66.4 MB
+[runlim] sample:		130.4 time, 130.6 real, 66.4 MB
+[runlim] sample:		140.4 time, 140.6 real, 75.0 MB
+[runlim] sample:		150.4 time, 150.6 real, 72.3 MB
+[runlim] sample:		160.4 time, 160.6 real, 69.8 MB
+[runlim] sample:		170.4 time, 170.6 real, 73.4 MB
+[runlim] sample:		180.4 time, 180.6 real, 73.4 MB
+[runlim] sample:		190.4 time, 190.6 real, 74.6 MB
+[runlim] sample:		200.4 time, 200.6 real, 72.4 MB
+[runlim] sample:		210.4 time, 210.6 real, 77.8 MB
+[runlim] sample:		220.4 time, 220.6 real, 76.2 MB
+[runlim] sample:		230.4 time, 230.6 real, 77.6 MB
+[runlim] sample:		240.4 time, 240.6 real, 79.7 MB
+[runlim] sample:		250.4 time, 250.6 real, 80.2 MB
+[runlim] sample:		260.4 time, 260.6 real, 80.3 MB
+[runlim] sample:		270.4 time, 270.6 real, 79.6 MB
+[runlim] sample:		280.4 time, 280.6 real, 81.3 MB
+[runlim] sample:		290.4 time, 290.6 real, 80.8 MB
+[runlim] sample:		300.4 time, 300.7 real, 80.0 MB
+[runlim] sample:		310.4 time, 310.6 real, 81.3 MB
+[runlim] sample:		320.4 time, 320.6 real, 68.8 MB
+[runlim] sample:		330.4 time, 330.6 real, 66.8 MB
+[runlim] sample:		340.4 time, 340.6 real, 77.0 MB
+[runlim] sample:		350.4 time, 350.6 real, 75.9 MB
+[runlim] sample:		360.4 time, 360.6 real, 76.3 MB
+[runlim] sample:		370.4 time, 370.6 real, 83.2 MB
+[runlim] sample:		380.4 time, 380.6 real, 71.9 MB
+[runlim] sample:		390.4 time, 390.6 real, 76.5 MB
+[runlim] sample:		400.4 time, 400.6 real, 83.6 MB
+[runlim] sample:		410.4 time, 410.6 real, 82.1 MB
+[runlim] sample:		420.4 time, 420.6 real, 75.6 MB
+[runlim] sample:		430.4 time, 430.6 real, 75.4 MB
+[runlim] sample:		440.4 time, 440.6 real, 74.2 MB
+[runlim] sample:		450.4 time, 450.6 real, 74.4 MB
+[runlim] sample:		460.4 time, 460.6 real, 78.2 MB
+[runlim] sample:		470.4 time, 470.6 real, 84.7 MB
+[runlim] sample:		480.4 time, 480.6 real, 83.1 MB
+[runlim] sample:		490.4 time, 490.6 real, 81.4 MB
+[runlim] sample:		500.4 time, 500.6 real, 78.8 MB
+[runlim] sample:		510.4 time, 510.6 real, 82.6 MB
+[runlim] sample:		520.4 time, 520.6 real, 80.9 MB
+[runlim] sample:		530.4 time, 530.6 real, 86.6 MB
+[runlim] sample:		540.4 time, 540.6 real, 79.6 MB
+[runlim] sample:		550.4 time, 550.6 real, 82.7 MB
+[runlim] sample:		560.4 time, 560.6 real, 81.4 MB
+[runlim] sample:		570.4 time, 570.6 real, 81.4 MB
+[runlim] sample:		580.4 time, 580.6 real, 84.8 MB
+[runlim] sample:		590.4 time, 590.6 real, 80.3 MB
+[runlim] sample:		600.4 time, 600.6 real, 85.9 MB
+[runlim] sample:		610.4 time, 610.6 real, 86.8 MB
+[runlim] sample:		620.4 time, 620.6 real, 80.4 MB
+[runlim] sample:		630.4 time, 630.6 real, 81.2 MB
+[runlim] sample:		640.4 time, 640.6 real, 80.4 MB
+[runlim] sample:		650.4 time, 650.6 real, 79.1 MB
+[runlim] sample:		660.4 time, 660.6 real, 82.0 MB
+[runlim] sample:		670.4 time, 670.6 real, 84.6 MB
+[runlim] sample:		680.4 time, 680.6 real, 84.2 MB
+[runlim] sample:		690.4 time, 690.6 real, 85.2 MB
+[runlim] sample:		700.4 time, 700.6 real, 79.0 MB
+[runlim] sample:		710.4 time, 710.6 real, 83.0 MB
+[runlim] sample:		720.4 time, 720.6 real, 84.5 MB
+[runlim] sample:		730.4 time, 730.6 real, 81.4 MB
+[runlim] sample:		740.4 time, 740.6 real, 87.3 MB
+[runlim] sample:		750.4 time, 750.6 real, 88.4 MB
+[runlim] sample:		760.4 time, 760.6 real, 88.8 MB
+[runlim] sample:		770.4 time, 770.6 real, 94.6 MB
+[runlim] sample:		780.4 time, 780.6 real, 86.1 MB
+[runlim] sample:		790.4 time, 790.6 real, 79.8 MB
+[runlim] sample:		800.4 time, 800.6 real, 85.4 MB
+[runlim] sample:		810.4 time, 810.6 real, 88.9 MB
+[runlim] sample:		820.4 time, 820.6 real, 89.7 MB
+[runlim] sample:		830.4 time, 830.6 real, 92.8 MB
+[runlim] sample:		840.4 time, 840.6 real, 80.7 MB
+[runlim] sample:		850.4 time, 850.6 real, 87.0 MB
+[runlim] sample:		860.4 time, 860.6 real, 87.4 MB
+[runlim] sample:		870.4 time, 870.6 real, 84.1 MB
+[runlim] sample:		880.4 time, 880.6 real, 86.8 MB
+[runlim] sample:		890.4 time, 890.6 real, 88.0 MB
+[runlim] sample:		900.4 time, 900.6 real, 87.9 MB
+[runlim] sample:		910.4 time, 910.6 real, 85.1 MB
+[runlim] sample:		920.4 time, 920.6 real, 82.4 MB
+[runlim] sample:		930.4 time, 930.6 real, 89.3 MB
+[runlim] sample:		940.4 time, 940.6 real, 87.5 MB
+[runlim] sample:		950.4 time, 950.6 real, 87.6 MB
+[runlim] sample:		960.4 time, 960.6 real, 89.7 MB
+[runlim] sample:		970.3 time, 970.6 real, 89.7 MB
+[runlim] sample:		980.4 time, 980.6 real, 88.6 MB
+[runlim] sample:		990.4 time, 990.7 real, 90.6 MB
+[runlim] sample:		1000.4 time, 1000.7 real, 90.7 MB
+[runlim] sample:		1010.4 time, 1010.6 real, 82.8 MB
+[runlim] sample:		1020.3 time, 1020.6 real, 88.1 MB
+[runlim] sample:		1030.3 time, 1030.7 real, 88.6 MB
+[runlim] sample:		1040.3 time, 1040.6 real, 88.7 MB
+[runlim] sample:		1050.3 time, 1050.6 real, 89.0 MB
+[runlim] sample:		1060.3 time, 1060.6 real, 84.2 MB
+[runlim] sample:		1070.3 time, 1070.6 real, 86.3 MB
+[runlim] sample:		1080.3 time, 1080.6 real, 86.4 MB
+[runlim] sample:		1090.3 time, 1090.6 real, 86.8 MB
+[runlim] sample:		1100.3 time, 1100.6 real, 86.8 MB
+[runlim] sample:		1110.3 time, 1110.6 real, 86.8 MB
+[runlim] sample:		1120.3 time, 1120.6 real, 82.7 MB
+[runlim] sample:		1130.3 time, 1130.6 real, 88.2 MB
+[runlim] sample:		1140.3 time, 1140.6 real, 96.0 MB
+[runlim] sample:		1150.3 time, 1150.6 real, 96.6 MB
+[runlim] sample:		1160.3 time, 1160.6 real, 85.0 MB
+[runlim] sample:		1170.3 time, 1170.6 real, 90.9 MB
+[runlim] sample:		1180.3 time, 1180.6 real, 88.2 MB
+[runlim] sample:		1190.3 time, 1190.6 real, 88.7 MB
+[runlim] end:			Thu May 14 10:48:27 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.07 seconds
+[runlim] time:			1199.74 seconds
+[runlim] space:			98.9 MB
+[runlim] samples:		11994
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_12238.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:48:27 2020
+[runlim] main pid:		2453
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 8.623260
+[Ablector] INFO: SAT TIME: 8.610638
+[Ablector] INFO: REF TIME: 0.438094
+[runlim] end:			Thu May 14 10:48:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.08 seconds
+[runlim] time:			9.83 seconds
+[runlim] space:			84.5 MB
+[runlim] samples:		95
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_945.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:48:37 2020
+[runlim] main pid:		2473
+[Ablector] INFO: ABLECTOR TIME: 0.003645
+[runlim] end:			Thu May 14 10:48:37 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.93 seconds
+[runlim] time:			0.98 seconds
+[runlim] space:			37.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5690.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:48:38 2020
+[runlim] main pid:		2495
+[Ablector] INFO: ABLECTOR TIME: 0.003600
+[runlim] end:			Thu May 14 10:48:38 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.79 seconds
+[runlim] time:			1.02 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_5000.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:48:39 2020
+[runlim] main pid:		2515
+[Ablector] INFO: ABLECTOR TIME: 0.003807
+[runlim] end:			Thu May 14 10:48:39 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.72 seconds
+[runlim] time:			1.06 seconds
+[runlim] space:			44.1 MB
+[runlim] samples:		5
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_8511.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:48:40 2020
+[runlim] main pid:		2535
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.822921
+[Ablector] INFO: SAT TIME: 3.787211
+[Ablector] INFO: REF TIME: 0.736851
+[runlim] end:			Thu May 14 10:48:47 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			7.27 seconds
+[runlim] time:			7.43 seconds
+[runlim] space:			443.3 MB
+[runlim] samples:		71
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_7190.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:48:47 2020
+[runlim] main pid:		2556
+[Ablector] INFO: *** ROUND 0
+[runlim] sample:		9.7 time, 10.6 real, 169.2 MB
+[runlim] sample:		19.7 time, 20.6 real, 246.7 MB
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 19.411007
+[Ablector] INFO: SAT TIME: 19.365305
+[Ablector] INFO: REF TIME: 2.247431
+[runlim] end:			Thu May 14 10:49:13 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		9
+[runlim] real:			26.26 seconds
+[runlim] time:			25.26 seconds
+[runlim] space:			302.2 MB
+[runlim] samples:		256
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_16691.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:49:13 2020
+[runlim] main pid:		2581
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.182076
+[Ablector] INFO: SAT TIME: 0.177358
+[Ablector] INFO: REF TIME: 0.010935
+[runlim] end:			Thu May 14 10:49:14 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.26 seconds
+[runlim] time:			1.16 seconds
+[runlim] space:			42.1 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app7/bench_3255.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:49:14 2020
+[runlim] main pid:		2601
+[Ablector] INFO: ABLECTOR TIME: 0.003903
+[runlim] end:			Thu May 14 10:49:15 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			1.31 seconds
+[runlim] time:			1.14 seconds
+[runlim] space:			49.3 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_540.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:49:15 2020
+[runlim] main pid:		2621
+[Ablector] INFO: ABLECTOR TIME: 0.003687
+[runlim] end:			Thu May 14 10:49:16 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1.14 seconds
+[runlim] time:			0.97 seconds
+[runlim] space:			37.6 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app2/bench_972.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:49:16 2020
+[runlim] main pid:		2641
+[Ablector] INFO: ABLECTOR TIME: 0.003761
+[runlim] end:			Thu May 14 10:49:16 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		1
+[runlim] real:			0.97 seconds
+[runlim] time:			0.95 seconds
+[runlim] space:			40.8 MB
+[runlim] samples:		4
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/sage/app8/bench_922.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:49:17 2020
+[runlim] main pid:		2661
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 0.129007
+[Ablector] INFO: SAT TIME: 0.122497
+[Ablector] INFO: REF TIME: 0.106233
+[runlim] end:			Thu May 14 10:49:17 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.99 seconds
+[runlim] time:			1.16 seconds
+[runlim] space:			43.0 MB
+[runlim] samples:		6
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		python3
+[runlim] argv[1]:		/raid/steuber/Software/ablector/ablector
+[runlim] argv[2]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_7059.smt2
+[runlim] argv[3]:		--ufReuse=1
+[runlim] argv[4]:		--omit
+[runlim] argv[5]:		mul:1
+[runlim] argv[6]:		--omit
+[runlim] argv[7]:		mul:2
+[runlim] argv[8]:		--omit
+[runlim] argv[9]:		mul:3
+[runlim] argv[10]:		--omit
+[runlim] argv[11]:		sdiv:1
+[runlim] argv[12]:		--omit
+[runlim] argv[13]:		sdiv:2
+[runlim] argv[14]:		--omit
+[runlim] argv[15]:		sdiv:3
+[runlim] argv[16]:		--omit
+[runlim] argv[17]:		udiv:1
+[runlim] argv[18]:		--omit
+[runlim] argv[19]:		udiv:2
+[runlim] argv[20]:		--omit
+[runlim] argv[21]:		udiv:3
+[runlim] start:			Thu May 14 10:49:18 2020
+[runlim] main pid:		2681
+[Ablector] INFO: *** ROUND 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[MulNode] INFO: Level 0
+[Ablector] INFO: ABLECTOR TIME: 3.797972
+[Ablector] INFO: SAT TIME: 3.762058
+[Ablector] INFO: REF TIME: 0.779919
+[runlim] end:			Thu May 14 10:49:25 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2
+[runlim] real:			7.49 seconds
+[runlim] time:			7.47 seconds
+[runlim] space:			380.8 MB
+[runlim] samples:		71

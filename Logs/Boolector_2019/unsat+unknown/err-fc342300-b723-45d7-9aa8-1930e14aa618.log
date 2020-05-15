@@ -1,0 +1,847 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_5638.smt2
+[runlim] start:			Tue May 12 11:48:41 2020
+[runlim] main pid:		28977
+[runlim] sample:		10.0 time, 10.7 real, 233.1 MB
+[runlim] sample:		20.0 time, 20.7 real, 237.5 MB
+[runlim] sample:		30.0 time, 30.7 real, 245.4 MB
+[runlim] sample:		40.0 time, 40.7 real, 245.4 MB
+[runlim] sample:		50.0 time, 50.7 real, 259.1 MB
+[runlim] sample:		60.0 time, 60.7 real, 259.1 MB
+[runlim] sample:		70.0 time, 70.7 real, 258.4 MB
+[runlim] sample:		80.0 time, 80.7 real, 258.4 MB
+[runlim] sample:		90.0 time, 90.7 real, 261.8 MB
+[runlim] sample:		100.0 time, 100.7 real, 303.0 MB
+[runlim] sample:		109.9 time, 110.7 real, 303.0 MB
+[runlim] sample:		119.9 time, 120.7 real, 283.4 MB
+[runlim] sample:		129.9 time, 130.7 real, 304.2 MB
+[runlim] sample:		139.9 time, 140.7 real, 304.2 MB
+[runlim] sample:		149.9 time, 150.7 real, 253.4 MB
+[runlim] sample:		159.9 time, 160.7 real, 284.5 MB
+[runlim] sample:		169.9 time, 170.7 real, 283.7 MB
+[runlim] sample:		179.9 time, 180.7 real, 303.4 MB
+[runlim] sample:		189.9 time, 190.7 real, 303.4 MB
+[runlim] sample:		199.9 time, 200.7 real, 303.4 MB
+[runlim] sample:		209.9 time, 210.7 real, 282.6 MB
+[runlim] sample:		219.9 time, 220.7 real, 303.9 MB
+[runlim] sample:		229.9 time, 230.7 real, 303.9 MB
+[runlim] sample:		239.9 time, 240.7 real, 303.9 MB
+[runlim] sample:		249.9 time, 250.7 real, 282.9 MB
+[runlim] sample:		259.9 time, 260.7 real, 253.7 MB
+[runlim] sample:		269.9 time, 270.7 real, 283.3 MB
+[runlim] sample:		279.9 time, 280.7 real, 304.4 MB
+[runlim] sample:		289.9 time, 290.7 real, 304.4 MB
+[runlim] sample:		299.9 time, 300.7 real, 304.4 MB
+[runlim] sample:		309.9 time, 310.7 real, 283.8 MB
+[runlim] sample:		319.9 time, 320.7 real, 304.5 MB
+[runlim] sample:		329.9 time, 330.7 real, 304.5 MB
+[runlim] sample:		339.9 time, 340.7 real, 283.0 MB
+[runlim] sample:		349.9 time, 350.7 real, 284.8 MB
+[runlim] sample:		359.9 time, 360.7 real, 284.4 MB
+[runlim] sample:		369.9 time, 370.7 real, 286.0 MB
+[runlim] sample:		379.9 time, 380.7 real, 306.5 MB
+[runlim] sample:		389.9 time, 390.7 real, 306.5 MB
+[runlim] sample:		399.9 time, 400.7 real, 306.5 MB
+[runlim] sample:		409.9 time, 410.7 real, 283.9 MB
+[runlim] sample:		419.9 time, 420.7 real, 283.9 MB
+[runlim] sample:		429.9 time, 430.7 real, 307.0 MB
+[runlim] sample:		439.9 time, 440.7 real, 307.0 MB
+[runlim] sample:		449.9 time, 450.7 real, 307.0 MB
+[runlim] sample:		459.9 time, 460.7 real, 284.9 MB
+[runlim] sample:		469.9 time, 470.7 real, 287.0 MB
+[runlim] sample:		479.9 time, 480.7 real, 286.9 MB
+[runlim] sample:		489.9 time, 490.7 real, 286.5 MB
+[runlim] sample:		499.9 time, 500.7 real, 286.5 MB
+[runlim] sample:		509.9 time, 510.7 real, 289.5 MB
+[runlim] sample:		519.9 time, 520.7 real, 311.0 MB
+[runlim] sample:		529.9 time, 530.7 real, 311.0 MB
+[runlim] sample:		539.9 time, 540.7 real, 287.8 MB
+[runlim] sample:		549.9 time, 550.7 real, 287.8 MB
+[runlim] sample:		559.9 time, 560.7 real, 312.1 MB
+[runlim] sample:		569.9 time, 570.7 real, 312.1 MB
+[runlim] sample:		579.9 time, 580.7 real, 312.1 MB
+[runlim] sample:		589.9 time, 590.7 real, 289.3 MB
+[runlim] sample:		599.9 time, 600.7 real, 289.3 MB
+[runlim] sample:		609.9 time, 610.7 real, 292.1 MB
+[runlim] sample:		619.9 time, 620.7 real, 330.7 MB
+[runlim] sample:		629.9 time, 630.7 real, 291.8 MB
+[runlim] sample:		639.9 time, 640.7 real, 291.8 MB
+[runlim] sample:		649.9 time, 650.7 real, 291.8 MB
+[runlim] sample:		659.9 time, 660.7 real, 317.6 MB
+[runlim] sample:		669.9 time, 670.7 real, 317.6 MB
+[runlim] sample:		679.9 time, 680.7 real, 259.4 MB
+[runlim] sample:		689.9 time, 690.7 real, 293.7 MB
+[runlim] sample:		699.9 time, 700.7 real, 293.7 MB
+[runlim] sample:		709.9 time, 710.7 real, 293.7 MB
+[runlim] sample:		719.9 time, 720.7 real, 296.2 MB
+[runlim] sample:		729.9 time, 730.7 real, 296.2 MB
+[runlim] sample:		739.9 time, 740.7 real, 296.2 MB
+[runlim] sample:		749.9 time, 750.7 real, 296.2 MB
+[runlim] sample:		759.9 time, 760.7 real, 262.3 MB
+[runlim] sample:		769.9 time, 770.7 real, 299.0 MB
+[runlim] sample:		779.9 time, 780.7 real, 262.0 MB
+[runlim] sample:		789.9 time, 790.7 real, 298.4 MB
+[runlim] sample:		799.9 time, 800.7 real, 298.4 MB
+[runlim] sample:		809.9 time, 810.7 real, 298.4 MB
+[runlim] sample:		819.9 time, 820.7 real, 298.4 MB
+[runlim] sample:		829.9 time, 830.7 real, 325.4 MB
+[runlim] sample:		839.9 time, 840.7 real, 325.4 MB
+[runlim] sample:		849.9 time, 850.7 real, 325.4 MB
+[runlim] sample:		859.9 time, 860.7 real, 299.8 MB
+[runlim] sample:		869.9 time, 870.7 real, 299.8 MB
+[runlim] sample:		879.9 time, 880.7 real, 299.8 MB
+[runlim] sample:		889.9 time, 890.7 real, 299.8 MB
+[runlim] sample:		899.9 time, 900.7 real, 301.3 MB
+[runlim] sample:		909.9 time, 910.7 real, 301.3 MB
+[runlim] sample:		919.9 time, 920.7 real, 301.3 MB
+[runlim] sample:		929.9 time, 930.7 real, 301.3 MB
+[runlim] sample:		939.9 time, 940.7 real, 301.3 MB
+[runlim] sample:		949.9 time, 950.7 real, 301.3 MB
+[runlim] sample:		959.9 time, 960.7 real, 301.3 MB
+[runlim] sample:		969.9 time, 970.7 real, 306.5 MB
+[runlim] sample:		979.9 time, 980.7 real, 306.5 MB
+[runlim] sample:		989.9 time, 990.7 real, 306.5 MB
+[runlim] sample:		999.9 time, 1000.7 real, 328.5 MB
+[runlim] sample:		1009.9 time, 1010.7 real, 328.5 MB
+[runlim] sample:		1019.9 time, 1020.7 real, 303.6 MB
+[runlim] sample:		1029.9 time, 1030.7 real, 338.9 MB
+[runlim] sample:		1039.9 time, 1040.7 real, 339.5 MB
+[runlim] sample:		1049.9 time, 1050.7 real, 340.0 MB
+[runlim] sample:		1059.9 time, 1060.7 real, 341.1 MB
+[runlim] sample:		1069.9 time, 1070.7 real, 341.6 MB
+[runlim] sample:		1079.9 time, 1080.7 real, 328.1 MB
+[runlim] sample:		1089.9 time, 1090.7 real, 351.5 MB
+[runlim] sample:		1099.9 time, 1100.7 real, 351.5 MB
+[runlim] sample:		1109.9 time, 1110.7 real, 345.5 MB
+[runlim] sample:		1119.9 time, 1120.7 real, 345.9 MB
+[runlim] sample:		1129.9 time, 1130.7 real, 346.3 MB
+[runlim] sample:		1139.9 time, 1140.7 real, 346.7 MB
+[runlim] sample:		1149.9 time, 1150.7 real, 347.7 MB
+[runlim] sample:		1159.9 time, 1160.7 real, 348.0 MB
+[runlim] sample:		1169.9 time, 1170.7 real, 348.9 MB
+[runlim] sample:		1179.9 time, 1180.7 real, 288.8 MB
+[runlim] sample:		1189.9 time, 1190.7 real, 349.7 MB
+[runlim] end:			Tue May 12 12:08:41 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.11 seconds
+[runlim] time:			1199.29 seconds
+[runlim] space:			412.4 MB
+[runlim] samples:		11994
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_10851.smt2
+[runlim] start:			Tue May 12 12:08:41 2020
+[runlim] main pid:		29207
+[runlim] sample:		10.0 time, 10.1 real, 245.9 MB
+[runlim] sample:		20.0 time, 20.1 real, 247.5 MB
+[runlim] sample:		30.0 time, 30.1 real, 220.5 MB
+[runlim] sample:		40.0 time, 40.1 real, 249.1 MB
+[runlim] sample:		50.0 time, 50.1 real, 248.0 MB
+[runlim] sample:		60.0 time, 60.1 real, 247.5 MB
+[runlim] sample:		70.0 time, 70.1 real, 265.3 MB
+[runlim] sample:		80.0 time, 80.1 real, 282.9 MB
+[runlim] sample:		90.0 time, 90.1 real, 264.2 MB
+[runlim] sample:		100.0 time, 100.1 real, 285.5 MB
+[runlim] sample:		110.0 time, 110.1 real, 285.5 MB
+[runlim] sample:		120.0 time, 120.1 real, 234.7 MB
+[runlim] sample:		130.0 time, 130.1 real, 287.0 MB
+[runlim] sample:		140.0 time, 140.1 real, 287.0 MB
+[runlim] sample:		150.0 time, 150.1 real, 267.9 MB
+[runlim] sample:		160.0 time, 160.1 real, 268.4 MB
+[runlim] sample:		170.0 time, 170.1 real, 288.1 MB
+[runlim] sample:		180.0 time, 180.1 real, 287.9 MB
+[runlim] sample:		190.0 time, 190.1 real, 267.7 MB
+[runlim] sample:		200.0 time, 200.1 real, 267.8 MB
+[runlim] sample:		210.0 time, 210.1 real, 235.2 MB
+[runlim] sample:		220.0 time, 220.1 real, 288.4 MB
+[runlim] sample:		230.0 time, 230.1 real, 288.4 MB
+[runlim] sample:		240.0 time, 240.1 real, 288.4 MB
+[runlim] sample:		250.0 time, 250.1 real, 266.6 MB
+[runlim] sample:		260.0 time, 260.1 real, 268.3 MB
+[runlim] sample:		270.0 time, 270.1 real, 268.3 MB
+[runlim] sample:		280.0 time, 280.1 real, 309.0 MB
+[runlim] sample:		290.0 time, 290.1 real, 291.1 MB
+[runlim] sample:		300.0 time, 300.1 real, 291.1 MB
+[runlim] sample:		310.0 time, 310.1 real, 291.1 MB
+[runlim] sample:		320.0 time, 320.1 real, 269.0 MB
+[runlim] sample:		330.0 time, 330.1 real, 271.0 MB
+[runlim] sample:		340.0 time, 340.1 real, 270.5 MB
+[runlim] sample:		350.0 time, 350.1 real, 270.5 MB
+[runlim] sample:		360.0 time, 360.1 real, 271.5 MB
+[runlim] sample:		370.0 time, 370.1 real, 271.5 MB
+[runlim] sample:		380.0 time, 380.1 real, 238.3 MB
+[runlim] sample:		390.0 time, 390.1 real, 237.9 MB
+[runlim] sample:		400.0 time, 400.1 real, 294.1 MB
+[runlim] sample:		410.0 time, 410.1 real, 294.1 MB
+[runlim] sample:		420.0 time, 420.1 real, 294.1 MB
+[runlim] sample:		430.0 time, 430.1 real, 270.9 MB
+[runlim] sample:		440.0 time, 440.1 real, 270.9 MB
+[runlim] sample:		450.0 time, 450.1 real, 272.9 MB
+[runlim] sample:		460.0 time, 460.1 real, 272.9 MB
+[runlim] sample:		470.0 time, 470.1 real, 272.9 MB
+[runlim] sample:		480.0 time, 480.1 real, 275.0 MB
+[runlim] sample:		490.0 time, 490.1 real, 296.1 MB
+[runlim] sample:		500.0 time, 500.1 real, 296.1 MB
+[runlim] sample:		510.0 time, 510.1 real, 273.9 MB
+[runlim] sample:		520.0 time, 520.1 real, 273.9 MB
+[runlim] sample:		530.0 time, 530.1 real, 273.9 MB
+[runlim] sample:		540.0 time, 540.1 real, 273.9 MB
+[runlim] sample:		550.0 time, 550.1 real, 273.9 MB
+[runlim] sample:		560.0 time, 560.1 real, 277.0 MB
+[runlim] sample:		570.0 time, 570.1 real, 277.0 MB
+[runlim] sample:		580.0 time, 580.1 real, 276.6 MB
+[runlim] sample:		590.0 time, 590.1 real, 276.6 MB
+[runlim] sample:		600.0 time, 600.1 real, 276.6 MB
+[runlim] sample:		610.0 time, 610.1 real, 276.6 MB
+[runlim] sample:		620.0 time, 620.1 real, 278.0 MB
+[runlim] sample:		630.0 time, 630.1 real, 283.8 MB
+[runlim] sample:		640.0 time, 640.1 real, 284.3 MB
+[runlim] sample:		650.0 time, 650.1 real, 284.8 MB
+[runlim] sample:		660.0 time, 660.1 real, 285.3 MB
+[runlim] sample:		670.0 time, 670.1 real, 285.8 MB
+[runlim] sample:		680.0 time, 680.1 real, 308.9 MB
+[runlim] sample:		690.0 time, 690.1 real, 308.9 MB
+[runlim] sample:		700.0 time, 700.1 real, 308.9 MB
+[runlim] sample:		710.0 time, 710.1 real, 285.9 MB
+[runlim] sample:		720.0 time, 720.1 real, 285.9 MB
+[runlim] sample:		730.0 time, 730.1 real, 285.9 MB
+[runlim] sample:		740.0 time, 740.1 real, 286.5 MB
+[runlim] sample:		750.0 time, 750.1 real, 287.0 MB
+[runlim] sample:		760.0 time, 760.1 real, 287.2 MB
+[runlim] sample:		770.0 time, 770.1 real, 287.7 MB
+[runlim] sample:		780.0 time, 780.1 real, 288.3 MB
+[runlim] sample:		790.0 time, 790.1 real, 273.9 MB
+[runlim] sample:		800.0 time, 800.1 real, 291.0 MB
+[runlim] sample:		810.0 time, 810.1 real, 291.0 MB
+[runlim] sample:		820.0 time, 820.1 real, 290.8 MB
+[runlim] sample:		830.0 time, 830.1 real, 291.3 MB
+[runlim] sample:		840.0 time, 840.1 real, 291.9 MB
+[runlim] sample:		850.0 time, 850.1 real, 292.1 MB
+[runlim] sample:		860.0 time, 860.1 real, 292.9 MB
+[runlim] sample:		870.0 time, 870.1 real, 293.1 MB
+[runlim] sample:		880.0 time, 880.1 real, 293.4 MB
+[runlim] sample:		890.0 time, 890.1 real, 293.9 MB
+[runlim] sample:		900.0 time, 900.1 real, 294.2 MB
+[runlim] sample:		910.0 time, 910.1 real, 297.4 MB
+[runlim] sample:		920.0 time, 920.1 real, 297.4 MB
+[runlim] sample:		930.0 time, 930.1 real, 298.1 MB
+[runlim] sample:		940.0 time, 940.1 real, 298.4 MB
+[runlim] sample:		950.0 time, 950.1 real, 298.6 MB
+[runlim] sample:		960.0 time, 960.1 real, 298.9 MB
+[runlim] sample:		970.0 time, 970.1 real, 299.2 MB
+[runlim] sample:		980.0 time, 980.1 real, 299.7 MB
+[runlim] sample:		990.0 time, 990.1 real, 300.9 MB
+[runlim] sample:		1000.0 time, 1000.1 real, 300.9 MB
+[runlim] sample:		1010.0 time, 1010.1 real, 301.1 MB
+[runlim] sample:		1020.0 time, 1020.1 real, 332.9 MB
+[runlim] sample:		1029.9 time, 1030.1 real, 333.2 MB
+[runlim] sample:		1040.0 time, 1040.1 real, 333.3 MB
+[runlim] sample:		1050.0 time, 1050.1 real, 333.8 MB
+[runlim] sample:		1060.0 time, 1060.1 real, 334.2 MB
+[runlim] sample:		1070.0 time, 1070.1 real, 334.4 MB
+[runlim] sample:		1080.0 time, 1080.1 real, 334.8 MB
+[runlim] sample:		1089.9 time, 1090.1 real, 334.9 MB
+[runlim] sample:		1100.0 time, 1100.1 real, 321.9 MB
+[runlim] sample:		1110.0 time, 1110.1 real, 321.6 MB
+[runlim] sample:		1120.0 time, 1120.1 real, 321.8 MB
+[runlim] sample:		1129.9 time, 1130.1 real, 342.5 MB
+[runlim] sample:		1139.9 time, 1140.1 real, 342.5 MB
+[runlim] sample:		1149.9 time, 1150.1 real, 342.5 MB
+[runlim] sample:		1160.0 time, 1160.1 real, 277.6 MB
+[runlim] sample:		1169.9 time, 1170.1 real, 335.4 MB
+[runlim] sample:		1179.9 time, 1180.1 real, 335.6 MB
+[runlim] sample:		1189.9 time, 1190.1 real, 335.9 MB
+[runlim] end:			Tue May 12 12:28:41 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.05 seconds
+[runlim] time:			1199.85 seconds
+[runlim] space:			385.5 MB
+[runlim] samples:		11999
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/Sage2/bench_17203.smt2
+[runlim] start:			Tue May 12 12:28:41 2020
+[runlim] main pid:		29419
+[runlim] sample:		10.0 time, 10.1 real, 14.9 MB
+[runlim] sample:		19.9 time, 20.1 real, 19.4 MB
+[runlim] sample:		29.9 time, 30.1 real, 31.8 MB
+[runlim] sample:		40.0 time, 40.1 real, 32.2 MB
+[runlim] sample:		50.0 time, 50.1 real, 34.7 MB
+[runlim] sample:		60.0 time, 60.1 real, 36.9 MB
+[runlim] sample:		69.9 time, 70.1 real, 38.9 MB
+[runlim] sample:		80.0 time, 80.1 real, 40.6 MB
+[runlim] sample:		90.0 time, 90.1 real, 41.9 MB
+[runlim] sample:		99.9 time, 100.1 real, 43.9 MB
+[runlim] sample:		109.9 time, 110.1 real, 44.8 MB
+[runlim] sample:		119.9 time, 120.1 real, 45.8 MB
+[runlim] sample:		129.9 time, 130.1 real, 47.3 MB
+[runlim] sample:		139.9 time, 140.1 real, 48.5 MB
+[runlim] sample:		149.9 time, 150.1 real, 49.7 MB
+[runlim] sample:		159.9 time, 160.1 real, 50.6 MB
+[runlim] sample:		169.9 time, 170.1 real, 51.8 MB
+[runlim] sample:		179.9 time, 180.1 real, 52.4 MB
+[runlim] sample:		189.9 time, 190.1 real, 53.7 MB
+[runlim] sample:		199.9 time, 200.1 real, 53.8 MB
+[runlim] sample:		209.9 time, 210.1 real, 54.9 MB
+[runlim] sample:		219.9 time, 220.1 real, 55.1 MB
+[runlim] sample:		229.9 time, 230.1 real, 56.3 MB
+[runlim] sample:		239.9 time, 240.1 real, 68.4 MB
+[runlim] sample:		249.9 time, 250.1 real, 69.8 MB
+[runlim] sample:		259.9 time, 260.1 real, 72.0 MB
+[runlim] sample:		269.9 time, 270.1 real, 72.6 MB
+[runlim] sample:		279.9 time, 280.1 real, 46.1 MB
+[runlim] sample:		289.9 time, 290.1 real, 62.2 MB
+[runlim] sample:		299.9 time, 300.1 real, 75.8 MB
+[runlim] sample:		309.9 time, 310.1 real, 76.0 MB
+[runlim] sample:		319.9 time, 320.1 real, 63.7 MB
+[runlim] sample:		329.9 time, 330.1 real, 77.8 MB
+[runlim] sample:		339.9 time, 340.1 real, 77.7 MB
+[runlim] sample:		349.9 time, 350.1 real, 78.8 MB
+[runlim] sample:		359.9 time, 360.1 real, 67.5 MB
+[runlim] sample:		369.9 time, 370.1 real, 82.0 MB
+[runlim] sample:		379.9 time, 380.1 real, 82.2 MB
+[runlim] sample:		389.9 time, 390.1 real, 82.5 MB
+[runlim] sample:		399.9 time, 400.1 real, 83.2 MB
+[runlim] sample:		409.9 time, 410.1 real, 83.7 MB
+[runlim] sample:		419.9 time, 420.1 real, 69.2 MB
+[runlim] sample:		429.9 time, 430.1 real, 83.7 MB
+[runlim] sample:		439.9 time, 440.1 real, 84.7 MB
+[runlim] sample:		449.9 time, 450.1 real, 87.2 MB
+[runlim] sample:		459.9 time, 460.1 real, 87.4 MB
+[runlim] sample:		469.9 time, 470.1 real, 87.0 MB
+[runlim] sample:		479.9 time, 480.1 real, 73.5 MB
+[runlim] sample:		489.9 time, 490.1 real, 89.1 MB
+[runlim] sample:		499.9 time, 500.1 real, 74.3 MB
+[runlim] sample:		509.9 time, 510.1 real, 89.8 MB
+[runlim] sample:		519.9 time, 520.1 real, 92.9 MB
+[runlim] sample:		529.9 time, 530.1 real, 92.5 MB
+[runlim] sample:		539.9 time, 540.1 real, 94.0 MB
+[runlim] sample:		549.9 time, 550.1 real, 94.2 MB
+[runlim] sample:		559.9 time, 560.1 real, 94.3 MB
+[runlim] sample:		569.9 time, 570.1 real, 94.7 MB
+[runlim] sample:		579.9 time, 580.1 real, 93.8 MB
+[runlim] sample:		589.9 time, 590.1 real, 66.1 MB
+[runlim] sample:		599.9 time, 600.1 real, 78.8 MB
+[runlim] sample:		609.9 time, 610.1 real, 95.1 MB
+[runlim] sample:		619.9 time, 620.1 real, 95.2 MB
+[runlim] sample:		629.9 time, 630.1 real, 95.2 MB
+[runlim] sample:		639.9 time, 640.1 real, 95.3 MB
+[runlim] sample:		649.9 time, 650.1 real, 95.7 MB
+[runlim] sample:		659.9 time, 660.1 real, 97.8 MB
+[runlim] sample:		669.9 time, 670.1 real, 98.2 MB
+[runlim] sample:		679.9 time, 680.1 real, 98.3 MB
+[runlim] sample:		689.9 time, 690.1 real, 80.6 MB
+[runlim] sample:		699.9 time, 700.1 real, 82.9 MB
+[runlim] sample:		709.9 time, 710.1 real, 100.8 MB
+[runlim] sample:		719.9 time, 720.1 real, 100.9 MB
+[runlim] sample:		729.9 time, 730.1 real, 101.7 MB
+[runlim] sample:		739.9 time, 740.1 real, 101.9 MB
+[runlim] sample:		749.9 time, 750.1 real, 102.2 MB
+[runlim] sample:		759.9 time, 760.1 real, 102.3 MB
+[runlim] sample:		769.9 time, 770.1 real, 102.3 MB
+[runlim] sample:		779.9 time, 780.1 real, 102.7 MB
+[runlim] sample:		789.9 time, 790.1 real, 102.8 MB
+[runlim] sample:		799.9 time, 800.1 real, 102.8 MB
+[runlim] sample:		809.9 time, 810.1 real, 103.2 MB
+[runlim] sample:		819.9 time, 820.1 real, 85.2 MB
+[runlim] sample:		829.9 time, 830.1 real, 102.8 MB
+[runlim] sample:		839.9 time, 840.1 real, 102.8 MB
+[runlim] sample:		849.9 time, 850.1 real, 92.7 MB
+[runlim] sample:		859.9 time, 860.1 real, 111.2 MB
+[runlim] sample:		869.9 time, 870.1 real, 111.4 MB
+[runlim] sample:		879.9 time, 880.1 real, 111.5 MB
+[runlim] sample:		889.9 time, 890.1 real, 111.6 MB
+[runlim] sample:		899.9 time, 900.1 real, 111.6 MB
+[runlim] sample:		909.9 time, 910.1 real, 112.0 MB
+[runlim] sample:		919.9 time, 920.1 real, 112.0 MB
+[runlim] sample:		929.9 time, 930.1 real, 112.0 MB
+[runlim] sample:		939.9 time, 940.1 real, 112.1 MB
+[runlim] sample:		949.9 time, 950.1 real, 112.2 MB
+[runlim] sample:		959.9 time, 960.1 real, 112.5 MB
+[runlim] sample:		969.9 time, 970.1 real, 112.5 MB
+[runlim] sample:		979.9 time, 980.1 real, 112.6 MB
+[runlim] sample:		989.9 time, 990.1 real, 112.6 MB
+[runlim] sample:		999.9 time, 1000.1 real, 95.1 MB
+[runlim] sample:		1009.9 time, 1010.1 real, 114.0 MB
+[runlim] sample:		1019.9 time, 1020.1 real, 114.0 MB
+[runlim] sample:		1029.9 time, 1030.1 real, 114.4 MB
+[runlim] sample:		1039.9 time, 1040.1 real, 114.4 MB
+[runlim] sample:		1049.9 time, 1050.1 real, 114.5 MB
+[runlim] sample:		1059.9 time, 1060.1 real, 114.6 MB
+[runlim] sample:		1069.9 time, 1070.1 real, 114.9 MB
+[runlim] sample:		1079.9 time, 1080.1 real, 114.9 MB
+[runlim] sample:		1089.9 time, 1090.1 real, 114.9 MB
+[runlim] sample:		1099.9 time, 1100.1 real, 96.6 MB
+[runlim] sample:		1109.9 time, 1110.1 real, 116.6 MB
+[runlim] sample:		1119.9 time, 1120.1 real, 116.6 MB
+[runlim] sample:		1129.9 time, 1130.1 real, 117.0 MB
+[runlim] sample:		1139.9 time, 1140.1 real, 98.0 MB
+[runlim] sample:		1149.9 time, 1150.1 real, 117.4 MB
+[runlim] sample:		1159.9 time, 1160.1 real, 117.5 MB
+[runlim] sample:		1169.9 time, 1170.1 real, 117.6 MB
+[runlim] sample:		1179.9 time, 1180.1 real, 117.6 MB
+[runlim] sample:		1189.9 time, 1190.1 real, 117.7 MB
+[runlim] sample:		1199.9 time, 1200.1 real, 118.0 MB
+[runlim] end:			Tue May 12 12:48:41 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.08 seconds
+[runlim] time:			1199.90 seconds
+[runlim] space:			139.4 MB
+[runlim] samples:		12000
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1248.smt2
+[runlim] start:			Tue May 12 12:48:41 2020
+[runlim] main pid:		29627
+[runlim] sample:		10.0 time, 10.1 real, 8.4 MB
+[runlim] sample:		20.0 time, 20.1 real, 9.2 MB
+[runlim] sample:		30.0 time, 30.1 real, 12.5 MB
+[runlim] sample:		40.0 time, 40.1 real, 12.8 MB
+[runlim] sample:		50.0 time, 50.1 real, 16.4 MB
+[runlim] sample:		60.0 time, 60.1 real, 16.1 MB
+[runlim] sample:		70.0 time, 70.1 real, 14.8 MB
+[runlim] sample:		80.0 time, 80.1 real, 17.0 MB
+[runlim] sample:		90.0 time, 90.1 real, 16.4 MB
+[runlim] sample:		100.0 time, 100.1 real, 19.3 MB
+[runlim] sample:		110.0 time, 110.1 real, 18.0 MB
+[runlim] sample:		120.0 time, 120.1 real, 18.8 MB
+[runlim] sample:		130.0 time, 130.1 real, 18.4 MB
+[runlim] sample:		140.0 time, 140.1 real, 20.4 MB
+[runlim] sample:		150.0 time, 150.1 real, 20.4 MB
+[runlim] sample:		160.0 time, 160.1 real, 19.7 MB
+[runlim] sample:		170.0 time, 170.1 real, 24.2 MB
+[runlim] sample:		180.0 time, 180.1 real, 24.2 MB
+[runlim] sample:		190.0 time, 190.1 real, 24.4 MB
+[runlim] sample:		200.0 time, 200.1 real, 23.9 MB
+[runlim] sample:		210.0 time, 210.1 real, 24.5 MB
+[runlim] sample:		220.0 time, 220.1 real, 28.3 MB
+[runlim] sample:		230.0 time, 230.1 real, 24.3 MB
+[runlim] sample:		240.0 time, 240.1 real, 26.1 MB
+[runlim] sample:		250.0 time, 250.1 real, 25.2 MB
+[runlim] sample:		260.0 time, 260.1 real, 25.3 MB
+[runlim] sample:		270.0 time, 270.1 real, 29.1 MB
+[runlim] sample:		279.9 time, 280.1 real, 25.5 MB
+[runlim] sample:		290.0 time, 290.1 real, 25.4 MB
+[runlim] sample:		300.0 time, 300.1 real, 22.4 MB
+[runlim] sample:		309.9 time, 310.1 real, 20.3 MB
+[runlim] sample:		319.9 time, 320.1 real, 25.9 MB
+[runlim] sample:		329.9 time, 330.1 real, 29.6 MB
+[runlim] sample:		339.9 time, 340.1 real, 23.9 MB
+[runlim] sample:		349.9 time, 350.1 real, 23.3 MB
+[runlim] sample:		359.9 time, 360.1 real, 27.2 MB
+[runlim] sample:		369.9 time, 370.1 real, 31.7 MB
+[runlim] sample:		379.9 time, 380.1 real, 31.4 MB
+[runlim] sample:		389.9 time, 390.1 real, 27.7 MB
+[runlim] sample:		399.9 time, 400.1 real, 23.7 MB
+[runlim] sample:		409.9 time, 410.1 real, 28.1 MB
+[runlim] sample:		419.9 time, 420.1 real, 28.4 MB
+[runlim] sample:		429.9 time, 430.1 real, 26.7 MB
+[runlim] sample:		439.9 time, 440.1 real, 29.4 MB
+[runlim] sample:		449.9 time, 450.1 real, 32.9 MB
+[runlim] sample:		459.9 time, 460.1 real, 27.6 MB
+[runlim] sample:		469.9 time, 470.1 real, 27.1 MB
+[runlim] sample:		479.9 time, 480.1 real, 29.8 MB
+[runlim] sample:		489.9 time, 490.1 real, 26.3 MB
+[runlim] sample:		499.9 time, 500.1 real, 29.7 MB
+[runlim] sample:		509.9 time, 510.1 real, 29.0 MB
+[runlim] sample:		519.9 time, 520.1 real, 29.2 MB
+[runlim] sample:		530.0 time, 530.1 real, 25.1 MB
+[runlim] sample:		539.9 time, 540.1 real, 34.6 MB
+[runlim] sample:		549.9 time, 550.1 real, 29.2 MB
+[runlim] sample:		559.9 time, 560.1 real, 33.1 MB
+[runlim] sample:		569.9 time, 570.1 real, 35.2 MB
+[runlim] sample:		579.9 time, 580.1 real, 31.9 MB
+[runlim] sample:		589.9 time, 590.1 real, 29.2 MB
+[runlim] sample:		599.9 time, 600.1 real, 24.4 MB
+[runlim] sample:		609.9 time, 610.1 real, 29.2 MB
+[runlim] sample:		619.9 time, 620.1 real, 32.9 MB
+[runlim] sample:		629.9 time, 630.1 real, 28.2 MB
+[runlim] sample:		639.9 time, 640.1 real, 30.8 MB
+[runlim] sample:		649.9 time, 650.1 real, 32.2 MB
+[runlim] sample:		659.9 time, 660.1 real, 34.9 MB
+[runlim] sample:		669.9 time, 670.1 real, 24.3 MB
+[runlim] sample:		679.9 time, 680.1 real, 34.1 MB
+[runlim] sample:		689.9 time, 690.1 real, 35.3 MB
+[runlim] sample:		699.9 time, 700.1 real, 31.4 MB
+[runlim] sample:		709.9 time, 710.1 real, 32.1 MB
+[runlim] sample:		719.9 time, 720.1 real, 32.1 MB
+[runlim] sample:		729.9 time, 730.1 real, 33.8 MB
+[runlim] sample:		739.9 time, 740.1 real, 29.3 MB
+[runlim] sample:		749.9 time, 750.1 real, 32.6 MB
+[runlim] sample:		759.9 time, 760.1 real, 29.4 MB
+[runlim] sample:		769.9 time, 770.1 real, 37.6 MB
+[runlim] sample:		779.9 time, 780.1 real, 33.8 MB
+[runlim] sample:		789.9 time, 790.1 real, 33.7 MB
+[runlim] sample:		799.9 time, 800.1 real, 33.3 MB
+[runlim] sample:		809.9 time, 810.1 real, 32.9 MB
+[runlim] sample:		819.9 time, 820.1 real, 34.8 MB
+[runlim] sample:		829.9 time, 830.1 real, 30.6 MB
+[runlim] sample:		839.9 time, 840.1 real, 29.3 MB
+[runlim] sample:		849.9 time, 850.1 real, 44.0 MB
+[runlim] sample:		859.9 time, 860.1 real, 38.1 MB
+[runlim] sample:		869.9 time, 870.1 real, 34.0 MB
+[runlim] sample:		879.9 time, 880.1 real, 28.5 MB
+[runlim] sample:		889.9 time, 890.1 real, 41.9 MB
+[runlim] sample:		899.9 time, 900.1 real, 33.1 MB
+[runlim] sample:		909.9 time, 910.1 real, 33.0 MB
+[runlim] sample:		919.9 time, 920.1 real, 35.9 MB
+[runlim] sample:		929.9 time, 930.1 real, 28.3 MB
+[runlim] sample:		939.9 time, 940.1 real, 38.4 MB
+[runlim] sample:		949.9 time, 950.1 real, 34.2 MB
+[runlim] sample:		959.9 time, 960.1 real, 33.7 MB
+[runlim] sample:		969.9 time, 970.1 real, 33.1 MB
+[runlim] sample:		979.9 time, 980.1 real, 36.3 MB
+[runlim] sample:		989.9 time, 990.1 real, 36.1 MB
+[runlim] sample:		999.9 time, 1000.1 real, 41.0 MB
+[runlim] sample:		1009.9 time, 1010.1 real, 34.6 MB
+[runlim] sample:		1019.9 time, 1020.1 real, 32.1 MB
+[runlim] sample:		1029.9 time, 1030.1 real, 36.7 MB
+[runlim] sample:		1039.9 time, 1040.1 real, 36.0 MB
+[runlim] sample:		1049.9 time, 1050.1 real, 34.4 MB
+[runlim] sample:		1059.9 time, 1060.1 real, 34.6 MB
+[runlim] sample:		1069.9 time, 1070.1 real, 34.1 MB
+[runlim] sample:		1079.9 time, 1080.1 real, 42.1 MB
+[runlim] sample:		1089.9 time, 1090.1 real, 39.8 MB
+[runlim] sample:		1099.9 time, 1100.1 real, 39.7 MB
+[runlim] sample:		1109.9 time, 1110.1 real, 37.7 MB
+[runlim] sample:		1119.9 time, 1120.1 real, 39.8 MB
+[runlim] sample:		1129.9 time, 1130.1 real, 35.9 MB
+[runlim] sample:		1139.9 time, 1140.1 real, 39.2 MB
+[runlim] sample:		1149.9 time, 1150.1 real, 46.7 MB
+[runlim] sample:		1159.9 time, 1160.1 real, 45.0 MB
+[runlim] sample:		1169.9 time, 1170.1 real, 40.4 MB
+[runlim] sample:		1179.9 time, 1180.1 real, 39.0 MB
+[runlim] sample:		1189.9 time, 1190.1 real, 36.3 MB
+[runlim] sample:		1199.9 time, 1200.1 real, 44.8 MB
+[runlim] end:			Tue May 12 13:08:41 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.11 seconds
+[runlim] time:			1199.93 seconds
+[runlim] space:			48.0 MB
+[runlim] samples:		12000
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1518.smt2
+[runlim] start:			Tue May 12 13:08:41 2020
+[runlim] main pid:		29846
+[BTOR>check_sat] 0.000030 seconds
+[runlim] end:			Tue May 12 13:08:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.14 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1360.smt2
+[runlim] start:			Tue May 12 13:08:41 2020
+[runlim] main pid:		29850
+[BTOR>check_sat] 0.000025 seconds
+[runlim] end:			Tue May 12 13:08:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.16 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_208.smt2
+[runlim] start:			Tue May 12 13:08:41 2020
+[runlim] main pid:		29854
+[runlim] sample:		10.0 time, 10.2 real, 10.3 MB
+[runlim] sample:		20.0 time, 20.2 real, 13.9 MB
+[runlim] sample:		30.0 time, 30.2 real, 13.4 MB
+[runlim] sample:		40.0 time, 40.2 real, 17.6 MB
+[runlim] sample:		50.0 time, 50.2 real, 21.9 MB
+[runlim] sample:		60.0 time, 60.2 real, 19.9 MB
+[runlim] sample:		70.0 time, 70.2 real, 20.5 MB
+[runlim] sample:		80.0 time, 80.2 real, 20.9 MB
+[runlim] sample:		90.0 time, 90.2 real, 21.4 MB
+[runlim] sample:		100.0 time, 100.2 real, 25.4 MB
+[runlim] sample:		110.0 time, 110.2 real, 26.3 MB
+[runlim] sample:		120.0 time, 120.2 real, 28.4 MB
+[runlim] sample:		130.0 time, 130.2 real, 28.1 MB
+[runlim] sample:		140.0 time, 140.2 real, 30.9 MB
+[runlim] sample:		150.0 time, 150.2 real, 31.2 MB
+[runlim] sample:		160.0 time, 160.2 real, 31.4 MB
+[runlim] sample:		170.0 time, 170.2 real, 31.3 MB
+[runlim] sample:		180.0 time, 180.2 real, 34.9 MB
+[runlim] sample:		190.0 time, 190.2 real, 32.1 MB
+[runlim] sample:		200.0 time, 200.2 real, 36.2 MB
+[runlim] sample:		210.0 time, 210.2 real, 36.2 MB
+[runlim] sample:		220.0 time, 220.2 real, 38.9 MB
+[runlim] sample:		230.0 time, 230.2 real, 39.4 MB
+[runlim] sample:		240.0 time, 240.2 real, 39.7 MB
+[runlim] sample:		250.0 time, 250.2 real, 39.8 MB
+[runlim] sample:		260.0 time, 260.2 real, 40.3 MB
+[runlim] sample:		270.0 time, 270.2 real, 40.2 MB
+[runlim] sample:		280.0 time, 280.2 real, 40.7 MB
+[runlim] sample:		290.0 time, 290.2 real, 41.2 MB
+[runlim] sample:		300.0 time, 300.2 real, 41.2 MB
+[runlim] sample:		310.0 time, 310.2 real, 40.8 MB
+[runlim] sample:		320.0 time, 320.2 real, 45.0 MB
+[runlim] sample:		330.0 time, 330.2 real, 45.3 MB
+[runlim] sample:		340.0 time, 340.2 real, 45.1 MB
+[runlim] sample:		350.0 time, 350.2 real, 45.2 MB
+[runlim] sample:		360.0 time, 360.2 real, 47.4 MB
+[runlim] sample:		370.0 time, 370.2 real, 50.4 MB
+[runlim] sample:		380.0 time, 380.2 real, 49.5 MB
+[runlim] sample:		390.0 time, 390.2 real, 49.9 MB
+[runlim] sample:		400.0 time, 400.2 real, 50.0 MB
+[runlim] sample:		410.0 time, 410.2 real, 39.4 MB
+[runlim] sample:		420.0 time, 420.2 real, 48.5 MB
+[runlim] sample:		430.0 time, 430.2 real, 48.7 MB
+[runlim] sample:		440.0 time, 440.2 real, 49.1 MB
+[runlim] sample:		450.0 time, 450.2 real, 54.6 MB
+[runlim] sample:		460.0 time, 460.2 real, 60.9 MB
+[runlim] sample:		470.0 time, 470.2 real, 38.6 MB
+[runlim] sample:		480.0 time, 480.2 real, 41.0 MB
+[runlim] sample:		490.0 time, 490.2 real, 45.2 MB
+[runlim] sample:		500.0 time, 500.2 real, 49.5 MB
+[runlim] sample:		510.0 time, 510.2 real, 55.4 MB
+[runlim] sample:		520.0 time, 520.2 real, 59.9 MB
+[runlim] sample:		530.0 time, 530.2 real, 51.8 MB
+[runlim] sample:		540.0 time, 540.2 real, 55.2 MB
+[runlim] sample:		550.0 time, 550.2 real, 56.1 MB
+[runlim] sample:		560.0 time, 560.2 real, 56.2 MB
+[runlim] sample:		570.0 time, 570.2 real, 54.1 MB
+[runlim] sample:		580.0 time, 580.2 real, 49.3 MB
+[runlim] sample:		590.0 time, 590.2 real, 55.1 MB
+[runlim] sample:		600.0 time, 600.2 real, 59.5 MB
+[runlim] sample:		610.0 time, 610.2 real, 60.6 MB
+[runlim] sample:		620.0 time, 620.2 real, 62.5 MB
+[runlim] sample:		630.0 time, 630.2 real, 60.7 MB
+[runlim] sample:		640.0 time, 640.2 real, 60.4 MB
+[runlim] sample:		650.0 time, 650.2 real, 60.6 MB
+[runlim] sample:		660.0 time, 660.2 real, 57.4 MB
+[runlim] sample:		670.0 time, 670.2 real, 55.7 MB
+[runlim] sample:		680.0 time, 680.2 real, 51.6 MB
+[runlim] sample:		690.0 time, 690.2 real, 48.6 MB
+[runlim] sample:		700.0 time, 700.2 real, 53.7 MB
+[runlim] sample:		710.0 time, 710.2 real, 49.6 MB
+[runlim] sample:		720.0 time, 720.2 real, 54.6 MB
+[runlim] sample:		730.0 time, 730.2 real, 52.2 MB
+[runlim] sample:		740.0 time, 740.2 real, 58.4 MB
+[runlim] sample:		750.0 time, 750.2 real, 65.6 MB
+[runlim] sample:		760.0 time, 760.2 real, 60.8 MB
+[runlim] sample:		770.0 time, 770.2 real, 61.3 MB
+[runlim] sample:		780.0 time, 780.2 real, 61.5 MB
+[runlim] sample:		790.0 time, 790.2 real, 55.9 MB
+[runlim] sample:		800.0 time, 800.2 real, 62.0 MB
+[runlim] sample:		810.0 time, 810.2 real, 55.7 MB
+[runlim] sample:		820.0 time, 820.2 real, 57.0 MB
+[runlim] sample:		830.0 time, 830.2 real, 50.8 MB
+[runlim] sample:		839.9 time, 840.2 real, 58.0 MB
+[runlim] sample:		850.0 time, 850.2 real, 52.3 MB
+[runlim] sample:		860.0 time, 860.2 real, 54.6 MB
+[runlim] sample:		869.9 time, 870.2 real, 62.3 MB
+[runlim] sample:		879.9 time, 880.2 real, 60.7 MB
+[runlim] sample:		889.9 time, 890.2 real, 53.6 MB
+[runlim] sample:		900.0 time, 900.2 real, 59.3 MB
+[runlim] sample:		909.9 time, 910.2 real, 59.0 MB
+[runlim] sample:		919.9 time, 920.2 real, 54.2 MB
+[runlim] sample:		929.9 time, 930.2 real, 60.7 MB
+[runlim] sample:		939.9 time, 940.2 real, 59.0 MB
+[runlim] sample:		949.9 time, 950.2 real, 53.6 MB
+[runlim] sample:		959.9 time, 960.2 real, 68.6 MB
+[runlim] sample:		969.9 time, 970.2 real, 60.2 MB
+[runlim] sample:		979.9 time, 980.2 real, 59.2 MB
+[runlim] sample:		989.9 time, 990.2 real, 50.4 MB
+[runlim] sample:		1000.0 time, 1000.2 real, 46.8 MB
+[runlim] sample:		1009.9 time, 1010.2 real, 53.7 MB
+[runlim] sample:		1019.9 time, 1020.2 real, 58.0 MB
+[runlim] sample:		1029.9 time, 1030.2 real, 51.3 MB
+[runlim] sample:		1039.9 time, 1040.2 real, 49.9 MB
+[runlim] sample:		1049.9 time, 1050.2 real, 51.7 MB
+[runlim] sample:		1059.9 time, 1060.2 real, 51.3 MB
+[runlim] sample:		1069.9 time, 1070.2 real, 52.1 MB
+[runlim] sample:		1079.9 time, 1080.2 real, 54.7 MB
+[runlim] sample:		1089.9 time, 1090.2 real, 60.0 MB
+[runlim] sample:		1099.9 time, 1100.2 real, 60.2 MB
+[runlim] sample:		1109.9 time, 1110.2 real, 63.2 MB
+[runlim] sample:		1119.9 time, 1120.2 real, 59.2 MB
+[runlim] sample:		1129.9 time, 1130.2 real, 61.6 MB
+[runlim] sample:		1139.9 time, 1140.2 real, 61.2 MB
+[runlim] sample:		1149.9 time, 1150.2 real, 58.2 MB
+[runlim] sample:		1159.9 time, 1160.2 real, 63.6 MB
+[runlim] sample:		1169.9 time, 1170.2 real, 64.5 MB
+[runlim] sample:		1179.9 time, 1180.2 real, 62.4 MB
+[runlim] sample:		1189.9 time, 1190.2 real, 61.1 MB
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		out of time
+[runlim] result:		2
+[runlim] children:		0
+[runlim] real:			1200.09 seconds
+[runlim] time:			1199.83 seconds
+[runlim] space:			76.0 MB
+[runlim] samples:		11999
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1432.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30120
+[BTOR>check_sat] 0.000059 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.11 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1296.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30124
+[BTOR>check_sat] 0.000027 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.12 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1090.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30128
+[BTOR>check_sat] 0.000022 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.13 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1100.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30132
+[BTOR>check_sat] 0.000026 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.13 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1229.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30136
+[BTOR>check_sat] 0.000022 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.14 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1304.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30140
+[BTOR>check_sat] 0.000026 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.16 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1095.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30144
+[BTOR>check_sat] 0.000022 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.18 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		15000 MB
+[runlim] argv[0]:		/raid/steuber/Software/boolector/build/bin/boolector
+[runlim] argv[1]:		/raid/steuber/Benchmarks/2019/QF_BV/20190311-bv-term-small-rw-Noetzli/bv-term-small-rw_1395.smt2
+[runlim] start:			Tue May 12 13:28:41 2020
+[runlim] main pid:		30148
+[BTOR>check_sat] 0.000021 seconds
+[runlim] end:			Tue May 12 13:28:41 2020
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.19 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0

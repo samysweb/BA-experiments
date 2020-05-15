@@ -1,0 +1,84 @@
+******* Machine details *******
+$ hostname
+cn18
+$ lscpu
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           2
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               23
+Model name:          Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz
+Stepping:            10
+CPU MHz:             2666.683
+BogoMIPS:            5333.36
+Virtualization:      VT-x
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            6144K
+NUMA node0 CPU(s):   0-7
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl cpuid aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 xsave lahf_lm pti tpr_shadow vnmi flexpriority dtherm
+$ cat /proc/meminfo
+MemTotal:       32938924 kB
+MemFree:        28693216 kB
+MemAvailable:   32076128 kB
+Buffers:            3308 kB
+Cached:          3753160 kB
+SwapCached:            0 kB
+Active:          1794620 kB
+Inactive:        2007932 kB
+Active(anon):     102996 kB
+Inactive(anon):      476 kB
+Active(file):    1691624 kB
+Inactive(file):  2007456 kB
+Unevictable:      163976 kB
+Mlocked:          164020 kB
+SwapTotal:       3997692 kB
+SwapFree:        3997692 kB
+Dirty:               232 kB
+Writeback:             0 kB
+AnonPages:        209892 kB
+Mapped:           115748 kB
+Shmem:               732 kB
+Slab:             174980 kB
+SReclaimable:      97280 kB
+SUnreclaim:        77700 kB
+KernelStack:        3248 kB
+PageTables:         5108 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    20467152 kB
+Committed_AS:     660504 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      449472 kB
+DirectMap2M:    33103872 kB
+$ cat /proc/version
+Linux version 4.15.0-96-generic (buildd@lgw01-amd64-004) (gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)) #97-Ubuntu SMP Wed Apr 1 03:25:46 UTC 2020
+$ lsblk
+NAME           MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda              8:0    0 232.9G  0 disk 
+├─sda1           8:1    0   976M  0 part /boot
+├─sda2           8:2    0     1K  0 part 
+└─sda5           8:5    0   232G  0 part 
+  ├─node-swap1 253:0    0   3.8G  0 lvm  [SWAP]
+  └─node-root1 253:1    0 228.1G  0 lvm  /home
