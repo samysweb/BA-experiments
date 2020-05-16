@@ -21,3 +21,8 @@ if newDir results/Stage012-vs-Ablector
 then
     compare Ablector Ablector_2019/unsat+unknown 2 Stage012 Ablector_Stages/stage012/2020-05-14T10:25+02:00 2 satpart
 fi
+
+if newDir results/Stage023-vs-Ablector
+then
+    compare Ablector Ablector_2019/unsat+unknown 2 Stage023 Ablector_Stages/stage023/2020-05-15T16:07+02:00 2 satpart
+fi
