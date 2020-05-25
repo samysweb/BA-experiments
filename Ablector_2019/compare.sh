@@ -55,3 +55,34 @@ if newDir results/unknown/Ablector-unsigned
 then
     compare Ablector_unsigned Ablector_2019/unknown/2020-05-13T14:42+02:00/ 2 Ablector_signed Ablector_2019/unknown/2020-05-12T11:13+02:00 2 satpart
 fi
+
+
+if newDir results/unsat/Ablector-merge12-vs-full
+then
+    compare Ablector_Full Ablector_2019/unsat/2020-05-11T10:51+02:00 2 Ablector_Merge12 Ablector_2019/unsat/2020-05-16T14:01+02:00 2 satpart
+fi
+
+if newDir results/unknown/Ablector-merge12-vs-full
+then
+    compare Ablector_Full Ablector_2019/unknown/2020-05-12T11:13+02:00 2 Ablector_Merge12 Ablector_2019/unknown/2020-05-16T14:01+02:00 2 satpart
+fi
+
+if newDir results/sat/Ablector-merge12-vs-full
+then
+    compare Ablector_Full Ablector_2019/sat/2020-05-11T10:52+02:00 2 Ablector_Merge12 Ablector_2019/sat/2020-05-16T17:39+02:00 2 satpart
+fi
+
+if newDir results/unsat/merge12-vs-boolector
+then
+    compare Boolector Boolector_2019/unsat/2020-05-12T00:16+02:00 1 Ablector Ablector_2019/unsat/2020-05-16T14:01+02:00 2 satpart
+fi
+
+if newDir results/unknown/merge12-vs-boolector
+then
+    compare Boolector Boolector_2019/unknown/2020-05-12T11:14+02:00 1 Ablector Ablector_2019/unknown/2020-05-16T14:01+02:00 2 satpart
+fi
+
+if newDir results/sat/merge12-vs-boolector
+then
+    compare Boolector Boolector_2019/sat/2020-05-12T00:16+02:00 1 Ablector Ablector_2019/sat/2020-05-16T17:39+02:00 2 satpart
+fi

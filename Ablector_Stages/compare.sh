@@ -24,5 +24,5 @@ fi
 
 if newDir results/Stage023-vs-Ablector
 then
-    compare Ablector Ablector_2019/unsat+unknown 2 Stage023 Ablector_Stages/stage023/2020-05-15T16:07+02:00 2 satpart
+    compare Ablector_Full Ablector_2019/unsat+unknown 2 Ablector_Steps134 Ablector_Stages/stage023/2020-05-15T16:07+02:00 2 satpart
 fi

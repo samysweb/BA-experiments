@@ -36,7 +36,7 @@ scale_border=$(( border + step ));
 sed -i 's/ -1/ $border/g' $tmp
 
 echo "set terminal unknown"
-echo "set size ratio 2.5"
+echo "set size ratio 1.3"
 #echo "set key outside left top"
 #echo "set key right top vertical reverse"
 echo "set key off"
@@ -58,7 +58,7 @@ echo "set y2label '# solved instances' offset -3,0"
 #echo "set label 1 'runtime in s' at graph 0.5, -0.7 centre rotate by 180"
 
 echo "set xrange [$max:$offset] reverse"
-echo "set yrange [14000:15500]"
+echo "set yrange [14500:16000]"
 
 echo "set xtic rotate by 90 scale 0 offset 0,-1.7"
 echo "unset ytics"
@@ -100,7 +100,7 @@ echo "set label 3 'Ablector' at graph 0.85, 0.8 left rotate by 90 tc lt 2"
 
 
 #echo "set terminal postscript eps enhanced color"
-echo "set terminal png enhanced font 'Verdana,14' size 480,960"
+echo "set terminal png enhanced font 'Verdana,14' size 600,600"
 
 dir=`pwd`
 echo "set output '$dir/$name1-vs-$name2-cactus.png'"
